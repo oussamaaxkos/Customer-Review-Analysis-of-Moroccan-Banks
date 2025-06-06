@@ -29,6 +29,9 @@ This project leverages Google Maps reviews to analyze customer feedback across M
 
 ---
 
+![data visualization](reports/im2.png)
+
+
 ## 🗂️ Project Structure
 
 ```plaintext

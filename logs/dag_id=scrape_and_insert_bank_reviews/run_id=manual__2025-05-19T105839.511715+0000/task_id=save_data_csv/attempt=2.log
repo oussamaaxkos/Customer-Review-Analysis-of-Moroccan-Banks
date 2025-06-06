@@ -1,0 +1,14 @@
+[2025-05-19T16:25:57.192+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.save_data_csv manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T16:25:57.209+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.save_data_csv manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T16:25:57.211+0100] {taskinstance.py:2170} INFO - Starting attempt 2 of 2
+[2025-05-19T16:25:57.234+0100] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): save_data_csv> on 2025-05-19 10:58:39.511715+00:00
+[2025-05-19T16:25:57.241+0100] {standard_task_runner.py:60} INFO - Started process 96836 to run task
+[2025-05-19T16:25:57.246+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'scrape_and_insert_bank_reviews', 'save_data_csv', 'manual__2025-05-19T10:58:39.511715+00:00', '--job-id', '1929', '--raw', '--subdir', 'DAGS_FOLDER/S_G_M_R.py', '--cfg-path', '/tmp/tmpo8qayokt']
+[2025-05-19T16:25:57.250+0100] {standard_task_runner.py:88} INFO - Job 1929: Subtask save_data_csv
+[2025-05-19T16:25:57.345+0100] {task_command.py:423} INFO - Running <TaskInstance: scrape_and_insert_bank_reviews.save_data_csv manual__2025-05-19T10:58:39.511715+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-19T16:25:57.924+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='scrape_and_insert_bank_reviews' AIRFLOW_CTX_TASK_ID='save_data_csv' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T10:58:39.511715+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T10:58:39.511715+00:00'
+[2025-05-19T16:25:58.058+0100] {logging_mixin.py:188} INFO - ✅ Data saved to 'bank_reviews.csv'.
+[2025-05-19T16:25:58.059+0100] {python.py:201} INFO - Done. Returned value was: None
+[2025-05-19T16:25:58.083+0100] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=scrape_and_insert_bank_reviews, task_id=save_data_csv, execution_date=20250519T105839, start_date=20250519T152557, end_date=20250519T152558
+[2025-05-19T16:25:58.147+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-05-19T16:25:58.212+0100] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,365 @@
+[2025-05-14T00:13:30.901+0100] {processor.py:161} INFO - Started process (PID=9775) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:13:30.906+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:13:30.916+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:30.911+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:14:15.425+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:14:17.663+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:17.661+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:17.688+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:17.685+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:14:17.737+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 46.843 seconds
+[2025-05-14T00:14:48.024+0100] {processor.py:161} INFO - Started process (PID=10181) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:14:48.035+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:14:48.041+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:48.039+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:15:03.170+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:15:03.354+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:03.352+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:03.373+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:03.371+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:15:03.408+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 15.394 seconds
+[2025-05-14T00:15:33.959+0100] {processor.py:161} INFO - Started process (PID=10445) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:15:33.968+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:15:33.971+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:33.969+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:15:47.965+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:15:48.229+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:48.227+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:48.266+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:48.264+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:15:48.316+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.362 seconds
+[2025-05-14T00:16:20.233+0100] {processor.py:161} INFO - Started process (PID=10721) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:16:20.237+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:16:20.241+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:20.239+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:16:34.364+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:16:34.612+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:34.610+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:34.637+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:34.635+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:16:34.684+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.458 seconds
+[2025-05-14T00:17:10.395+0100] {processor.py:161} INFO - Started process (PID=11014) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:17:10.399+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:17:10.405+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:10.402+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:17:26.682+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:17:26.874+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:26.873+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:26.905+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:26.903+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:17:26.942+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.554 seconds
+[2025-05-14T00:17:57.253+0100] {processor.py:161} INFO - Started process (PID=11288) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:17:57.262+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:17:57.267+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:57.265+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:18:12.066+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:18:12.303+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:12.299+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:12.339+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:12.337+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:18:12.380+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 15.133 seconds
+[2025-05-14T00:18:43.046+0100] {processor.py:161} INFO - Started process (PID=11547) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:18:43.055+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:18:43.060+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:43.059+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:18:58.946+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:18:59.203+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:59.201+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:59.223+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:59.221+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:18:59.269+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.230 seconds
+[2025-05-14T00:19:32.030+0100] {processor.py:161} INFO - Started process (PID=11858) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:19:32.036+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:19:32.042+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:32.040+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:19:43.785+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:19:45.809+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:45.807+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:46.065+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:46.063+0100] {dag.py:3058} INFO - Creating ORM DAG for process_bank_reviews
+[2025-05-14T00:19:46.068+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:46.066+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:19:46.100+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.080 seconds
+[2025-05-14T00:20:16.605+0100] {processor.py:161} INFO - Started process (PID=12103) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:20:16.615+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:20:16.621+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:16.619+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:20:32.782+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:20:32.959+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:32.957+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:32.978+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:32.977+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:20:33.018+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.418 seconds
+[2025-05-14T00:20:48.623+0100] {processor.py:161} INFO - Started process (PID=12317) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:20:48.632+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:20:48.638+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:48.636+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:21:00.377+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:21:02.097+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:02.096+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:02.116+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:02.115+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:21:02.335+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 13.717 seconds
+[2025-05-14T00:21:32.573+0100] {processor.py:161} INFO - Started process (PID=12574) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:21:32.577+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:21:32.580+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:32.579+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:21:51.178+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:21:51.417+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:51.414+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:51.445+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:51.442+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:21:51.489+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 18.923 seconds
+[2025-05-14T00:22:21.875+0100] {processor.py:161} INFO - Started process (PID=12860) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:22:21.881+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:22:21.888+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:21.885+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:22:37.868+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:22:38.029+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:38.027+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:38.049+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:38.047+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:22:38.224+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.360 seconds
+[2025-05-14T00:23:10.652+0100] {processor.py:161} INFO - Started process (PID=13123) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:23:10.656+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:23:10.659+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:10.658+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:23:33.563+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:23:33.820+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:33.817+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:33.860+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:33.858+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:23:34.112+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 23.467 seconds
+[2025-05-14T00:24:04.585+0100] {processor.py:161} INFO - Started process (PID=13402) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:24:04.595+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:24:04.599+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:04.598+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:24:18.886+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:24:19.086+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:19.085+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:19.118+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:19.116+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:24:19.380+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.800 seconds
+[2025-05-14T00:24:51.699+0100] {processor.py:161} INFO - Started process (PID=13678) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:24:51.709+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:24:51.715+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:51.712+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:25:08.409+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:25:08.636+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:08.634+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:08.847+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:08.845+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:25:08.877+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 17.188 seconds
+[2025-05-14T00:25:38.981+0100] {processor.py:161} INFO - Started process (PID=13944) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:25:38.985+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:25:38.988+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:38.987+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:25:52.188+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:25:52.394+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:52.391+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:52.602+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:52.601+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:25:52.647+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 13.672 seconds
+[2025-05-14T00:26:22.753+0100] {processor.py:161} INFO - Started process (PID=14196) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:26:22.756+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:26:22.759+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:22.757+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:26:41.287+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:26:41.445+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:41.443+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:41.462+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:41.460+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:26:41.613+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 18.866 seconds
+[2025-05-14T00:27:12.021+0100] {processor.py:161} INFO - Started process (PID=14457) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:27:12.025+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:27:12.030+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:12.028+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:27:28.380+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:27:28.675+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:28.671+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:28.915+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:28.913+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:27:28.953+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.937 seconds
+[2025-05-14T00:27:59.212+0100] {processor.py:161} INFO - Started process (PID=14717) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:27:59.215+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:27:59.219+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:59.218+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:28:17.157+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:28:17.643+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:17.640+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:17.666+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:17.663+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:28:17.706+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 18.500 seconds
+[2025-05-14T00:28:48.072+0100] {processor.py:161} INFO - Started process (PID=14973) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:28:48.083+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:28:48.089+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:48.086+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:29:05.589+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:29:05.838+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:05.836+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:05.867+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:05.865+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:29:05.912+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 17.846 seconds
+[2025-05-14T00:29:36.263+0100] {processor.py:161} INFO - Started process (PID=15228) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:29:36.275+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:29:36.280+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:36.278+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:29:50.041+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:29:50.220+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:50.219+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:50.244+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:50.242+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:29:50.281+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.025 seconds
+[2025-05-14T00:30:20.679+0100] {processor.py:161} INFO - Started process (PID=15457) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:30:20.691+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:30:20.700+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:20.696+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:30:36.476+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:30:36.654+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:36.653+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:36.673+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:36.672+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:30:36.702+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.036 seconds
+[2025-05-14T00:31:07.152+0100] {processor.py:161} INFO - Started process (PID=15712) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:31:07.161+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:31:07.164+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:07.163+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:31:18.797+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:31:18.980+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:18.979+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:19.002+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:19.000+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:31:19.045+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 11.900 seconds
+[2025-05-14T00:31:49.289+0100] {processor.py:161} INFO - Started process (PID=15939) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:31:49.298+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:31:49.301+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:49.300+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:32:05.148+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:32:05.371+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:05.369+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:05.391+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:05.389+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:32:05.419+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.135 seconds
+[2025-05-14T00:32:36.097+0100] {processor.py:161} INFO - Started process (PID=16179) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:32:36.106+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:32:36.112+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:36.109+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:32:48.615+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:32:48.811+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:48.810+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:48.835+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:48.833+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:32:48.868+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 12.779 seconds
+[2025-05-14T00:33:18.994+0100] {processor.py:161} INFO - Started process (PID=16411) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:33:18.998+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:33:19.001+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:18.999+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:33:32.823+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:33:33.034+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:33.033+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:33.069+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:33.066+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:33:33.110+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.121 seconds
+[2025-05-14T00:34:03.535+0100] {processor.py:161} INFO - Started process (PID=16654) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:34:03.538+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:34:03.542+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:03.540+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:34:16.280+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:34:16.542+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:16.540+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:16.565+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:16.563+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:34:16.611+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 13.081 seconds
+[2025-05-14T00:34:46.829+0100] {processor.py:161} INFO - Started process (PID=16882) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:34:46.832+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:34:46.836+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:46.835+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:35:02.980+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:35:03.265+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:03.262+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:35:03.296+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:03.293+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:35:03.358+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.534 seconds
+[2025-05-14T00:43:34.332+0100] {processor.py:161} INFO - Started process (PID=18288) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:43:34.337+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:43:34.341+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:34.340+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:43:54.535+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:43:57.823+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:57.822+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:43:57.851+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:57.846+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:43:57.906+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 23.579 seconds
+[2025-05-14T00:44:28.590+0100] {processor.py:161} INFO - Started process (PID=18556) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:44:28.600+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:44:28.613+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:28.608+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:44:43.704+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:44:43.865+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:43.864+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:43.892+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:43.890+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:44:43.966+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 15.384 seconds
+[2025-05-14T00:44:57.424+0100] {processor.py:161} INFO - Started process (PID=18778) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:44:57.429+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:44:57.433+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:57.431+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:45:09.020+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:45:09.300+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:09.297+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:09.325+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:09.322+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:45:09.370+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 11.952 seconds
+[2025-05-14T00:45:39.861+0100] {processor.py:161} INFO - Started process (PID=19059) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:45:39.864+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:45:39.868+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:39.866+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:45:50.747+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:45:50.948+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:50.946+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:50.979+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:50.977+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:45:51.010+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 11.156 seconds
+[2025-05-14T00:46:21.639+0100] {processor.py:161} INFO - Started process (PID=19326) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:46:21.641+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:46:21.644+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:21.643+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:46:31.957+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:46:32.157+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:32.156+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:32.186+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:32.185+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:46:32.219+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 10.584 seconds
+[2025-05-14T00:47:02.312+0100] {processor.py:161} INFO - Started process (PID=19609) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:02.315+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:47:02.319+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:02.317+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:11.817+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:12.037+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:12.036+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:12.060+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:12.059+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:47:12.103+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 9.797 seconds
+[2025-05-14T00:47:42.493+0100] {processor.py:161} INFO - Started process (PID=19863) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:42.498+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:47:42.504+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:42.502+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:54.580+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:47:54.771+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:54.769+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:54.793+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:54.792+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:47:54.831+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 12.350 seconds
+[2025-05-14T00:48:25.537+0100] {processor.py:161} INFO - Started process (PID=20153) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:48:25.540+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:48:25.546+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:25.543+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:48:37.852+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:48:38.070+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:38.068+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:38.096+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:38.094+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:48:38.130+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 12.599 seconds
+[2025-05-14T00:49:08.279+0100] {processor.py:161} INFO - Started process (PID=20459) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:08.281+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:49:08.285+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:08.283+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:19.382+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:19.696+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:19.694+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:19.718+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:19.716+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:49:19.746+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 11.474 seconds
+[2025-05-14T00:49:50.186+0100] {processor.py:161} INFO - Started process (PID=20709) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:50.199+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:49:50.204+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:50.202+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:59.191+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:49:59.350+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:59.349+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:59.369+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:59.367+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:49:59.399+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 9.223 seconds
+[2025-05-14T00:50:30.037+0100] {processor.py:161} INFO - Started process (PID=20970) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:50:30.045+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:50:30.050+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:30.048+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:50:44.567+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:50:44.928+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:44.926+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:44.949+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:44.948+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:50:44.979+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.949 seconds
+[2025-05-14T00:51:15.603+0100] {processor.py:161} INFO - Started process (PID=21258) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:51:15.613+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:51:15.621+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:15.617+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:51:25.467+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:51:25.842+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:25.840+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:25.864+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:25.862+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:51:25.900+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 10.305 seconds
+[2025-05-14T00:51:56.035+0100] {processor.py:161} INFO - Started process (PID=21516) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:51:56.044+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:51:56.053+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:56.050+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:52:14.529+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:52:14.805+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:14.803+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:14.831+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:14.820+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:52:14.865+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 18.841 seconds
+[2025-05-14T00:52:27.641+0100] {processor.py:161} INFO - Started process (PID=21709) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:52:27.645+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:52:27.650+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:27.648+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:52:39.083+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:52:42.328+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:42.325+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:42.359+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:42.357+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:52:42.423+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.793 seconds
+[2025-05-14T00:53:11.669+0100] {processor.py:161} INFO - Started process (PID=21998) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:53:11.673+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:53:11.681+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:11.677+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:53:25.507+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:53:25.683+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:25.682+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:25.709+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:25.708+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:53:25.737+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.080 seconds
+[2025-05-14T00:53:56.479+0100] {processor.py:161} INFO - Started process (PID=22284) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:53:56.491+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:53:56.495+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:56.493+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:54:10.215+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:54:10.473+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:10.471+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:10.496+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:10.494+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:54:10.549+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 14.075 seconds
+[2025-05-14T00:54:41.458+0100] {processor.py:161} INFO - Started process (PID=22546) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:54:41.468+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:54:41.474+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:41.472+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:54:51.531+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:54:51.772+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:51.769+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:51.810+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:51.808+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:54:51.849+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 10.402 seconds
+[2025-05-14T00:55:21.936+0100] {processor.py:161} INFO - Started process (PID=22782) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:55:21.938+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:55:21.941+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:21.940+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:55:31.833+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:55:31.999+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:31.998+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:32.029+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:32.027+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:55:32.083+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 10.152 seconds
+[2025-05-14T00:56:10.167+0100] {processor.py:161} INFO - Started process (PID=23097) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:56:10.173+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:56:10.177+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:10.175+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:56:26.853+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:56:27.186+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:27.179+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:27.235+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:27.232+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:56:27.319+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 17.163 seconds
+[2025-05-14T00:56:58.791+0100] {processor.py:161} INFO - Started process (PID=23374) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:56:58.801+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:56:58.806+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:58.804+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:57:14.849+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:57:15.114+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:15.112+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:15.139+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:15.137+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:57:15.200+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.420 seconds
+[2025-05-14T00:57:45.840+0100] {processor.py:161} INFO - Started process (PID=23652) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:57:45.850+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:57:45.855+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:45.853+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:57:58.834+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:57:59.001+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:59.000+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:59.023+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:59.020+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:57:59.062+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 13.227 seconds
+[2025-05-14T00:58:29.135+0100] {processor.py:161} INFO - Started process (PID=23900) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:58:29.139+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:58:29.143+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:29.141+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:58:45.779+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:58:45.956+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:45.955+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:45.982+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:45.980+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:58:46.018+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 16.889 seconds
+[2025-05-14T00:58:56.339+0100] {processor.py:161} INFO - Started process (PID=24064) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:58:56.343+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:58:56.347+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.345+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:59:13.754+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:59:14.015+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:14.014+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:14.043+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:14.040+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:59:14.094+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 17.761 seconds
+[2025-05-14T00:59:23.826+0100] {processor.py:161} INFO - Started process (PID=24190) to work on /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:59:23.832+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/post_processing.py for tasks to queue
+[2025-05-14T00:59:23.853+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:23.845+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:59:37.160+0100] {processor.py:840} INFO - DAG(s) 'process_bank_reviews' retrieved from /home/osama/airflow/dags/post_processing.py
+[2025-05-14T00:59:37.329+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.327+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:37.352+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.351+0100] {dag.py:3823} INFO - Setting next_dagrun for process_bank_reviews to None, run_after=None
+[2025-05-14T00:59:37.381+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/post_processing.py took 13.569 seconds

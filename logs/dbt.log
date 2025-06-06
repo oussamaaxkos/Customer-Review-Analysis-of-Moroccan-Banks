@@ -1,0 +1,87 @@
+[0m16:06:54.887239 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b49312e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b32b6fd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b3280c10>]}
+
+
+============================== 16:06:54.943691 | ca7243f9-2ed5-498e-b626-4c59aa30f46f ==============================
+[0m16:06:54.943691 [info ] [MainThread]: Running with dbt=1.8.7
+[0m16:06:54.945489 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/home/osama/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt init dbt_project', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m16:06:56.290318 [info ] [MainThread]: A project called dbt_project already exists here.
+[0m16:06:56.297720 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 1.723977, "process_user_time": 4.1948, "process_kernel_time": 1.723047, "process_mem_max_rss": "86504", "process_in_blocks": "3256", "process_out_blocks": "8"}
+[0m16:06:56.300396 [debug] [MainThread]: Command `dbt init` succeeded at 16:06:56.299911 after 1.73 seconds
+[0m16:06:56.301700 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b49312e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b3136c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f82b32943d0>]}
+[0m16:06:56.302780 [debug] [MainThread]: Flushing usage events
+[0m16:06:57.247373 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m16:11:37.675590 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde30c651c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde2f3f4820>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde2f3f40d0>]}
+
+
+============================== 16:11:37.694130 | f1c169f2-da62-4a65-a14a-2e3cf01bb53b ==============================
+[0m16:11:37.694130 [info ] [MainThread]: Running with dbt=1.8.7
+[0m16:11:37.695330 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/home/osama/.dbt', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt debug', 'introspect': 'True', 'log_format': 'default', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m16:11:38.116268 [info ] [MainThread]: dbt version: 1.8.7
+[0m16:11:38.117622 [info ] [MainThread]: python version: 3.8.10
+[0m16:11:38.118661 [info ] [MainThread]: python path: /mnt/c/Users/HP/venv/bin/python3
+[0m16:11:38.119693 [info ] [MainThread]: os info: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.29
+[0m16:11:39.693935 [info ] [MainThread]: Using profiles dir at /home/osama/.dbt
+[0m16:11:39.694954 [info ] [MainThread]: Using profiles.yml file at /home/osama/.dbt/profiles.yml
+[0m16:11:39.695891 [info ] [MainThread]: Using dbt_project.yml file at /home/osama/airflow/dbt_project.yml
+[0m16:11:39.740997 [info ] [MainThread]: adapter type: postgres
+[0m16:11:39.742217 [info ] [MainThread]: adapter version: 1.8.2
+[0m16:11:39.743167 [info ] [MainThread]: Configuration:
+[0m16:11:39.744422 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m16:11:39.745532 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m16:11:39.746492 [info ] [MainThread]: Required dependencies:
+[0m16:11:39.747349 [debug] [MainThread]: Executing "git --help"
+[0m16:11:39.768987 [debug] [MainThread]: STDOUT: "b"usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone             Clone a repository into a new directory\n   init              Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add               Add file contents to the index\n   mv                Move or rename a file, a directory, or a symlink\n   restore           Restore working tree files\n   rm                Remove files from the working tree and from the index\n   sparse-checkout   Initialize and modify the sparse-checkout\n\nexamine the history and state (see also: git help revisions)\n   bisect            Use binary search to find the commit that introduced a bug\n   diff              Show changes between commits, commit and working tree, etc\n   grep              Print lines matching a pattern\n   log               Show commit logs\n   show              Show various types of objects\n   status            Show the working tree status\n\ngrow, mark and tweak your common history\n   branch            List, create, or delete branches\n   commit            Record changes to the repository\n   merge             Join two or more development histories together\n   rebase            Reapply commits on top of another base tip\n   reset             Reset current HEAD to the specified state\n   switch            Switch branches\n   tag               Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch             Download objects and refs from another repository\n   pull              Fetch from and integrate with another repository or a local branch\n   push              Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m16:11:39.770971 [debug] [MainThread]: STDERR: "b''"
+[0m16:11:39.772090 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m16:11:39.773597 [info ] [MainThread]: Connection:
+[0m16:11:39.774612 [info ] [MainThread]:   host: localhost
+[0m16:11:39.775746 [info ] [MainThread]:   port: 5432
+[0m16:11:39.776575 [info ] [MainThread]:   user: airflow_user
+[0m16:11:39.777361 [info ] [MainThread]:   database: airflow_db
+[0m16:11:39.778077 [info ] [MainThread]:   schema: public
+[0m16:11:39.778878 [info ] [MainThread]:   connect_timeout: 10
+[0m16:11:39.779563 [info ] [MainThread]:   role: None
+[0m16:11:39.780210 [info ] [MainThread]:   search_path: None
+[0m16:11:39.780835 [info ] [MainThread]:   keepalives_idle: 0
+[0m16:11:39.781373 [info ] [MainThread]:   sslmode: None
+[0m16:11:39.781929 [info ] [MainThread]:   sslcert: None
+[0m16:11:39.782501 [info ] [MainThread]:   sslkey: None
+[0m16:11:39.783104 [info ] [MainThread]:   sslrootcert: None
+[0m16:11:39.783631 [info ] [MainThread]:   application_name: dbt
+[0m16:11:39.784134 [info ] [MainThread]:   retries: 1
+[0m16:11:39.789836 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m16:11:39.802319 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m16:11:51.815710 [debug] [MainThread]: Using postgres connection "debug"
+[0m16:11:51.816605 [debug] [MainThread]: On debug: select 1 as id
+[0m16:11:51.817344 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m16:11:51.833262 [debug] [MainThread]: SQL status: SELECT 1 in 0.016 seconds
+[0m16:11:51.835145 [debug] [MainThread]: On debug: Close
+[0m16:11:51.836010 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m16:11:51.836749 [info ] [MainThread]: [31m1 check failed:[0m
+[0m16:11:51.837561 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/osama/airflow/dbt_project.yml> not found
+
+[0m16:11:51.843862 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_wall_clock_time": 14.309983, "process_user_time": 3.089736, "process_kernel_time": 1.509178, "process_mem_max_rss": "99620", "process_in_blocks": "2744", "process_out_blocks": "24", "command_success": false}
+[0m16:11:51.846321 [debug] [MainThread]: Command `dbt debug` failed at 16:11:51.845759 after 14.31 seconds
+[0m16:11:51.847898 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m16:11:51.848806 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde30c651c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde2db982b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fde2db98b20>]}
+[0m16:11:51.849761 [debug] [MainThread]: Flushing usage events
+[0m16:11:52.637326 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m23:55:07.584603 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15f9ac250>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15edab8b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15e2fbd30>]}
+
+
+============================== 23:55:07.618221 | 84f2b51a-bf89-4ada-9963-a47cf18e1ed5 ==============================
+[0m23:55:07.618221 [info ] [MainThread]: Running with dbt=1.8.7
+[0m23:55:07.619450 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': '/home/osama/.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt run', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m23:55:07.620393 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /home/osama/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m23:55:07.625044 [debug] [MainThread]: Resource report: {"command_name": "run", "command_wall_clock_time": 0.17736122, "process_user_time": 2.678536, "process_kernel_time": 1.277927, "process_mem_max_rss": "85940", "process_in_blocks": "21776", "process_out_blocks": "8", "command_success": false}
+[0m23:55:07.626199 [debug] [MainThread]: Command `dbt run` failed at 23:55:07.625948 after 0.18 seconds
+[0m23:55:07.627271 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15f9ac250>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15e36d640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7ff15e1a83a0>]}
+[0m23:55:07.628338 [debug] [MainThread]: Flushing usage events
+[0m23:55:08.351174 [debug] [MainThread]: An error was encountered while trying to flush usage events

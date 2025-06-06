@@ -1,0 +1,3 @@
+[2025-05-24T10:15:31.020+0100] {processor.py:161} INFO - Started process (PID=97114) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-24T10:15:31.022+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-24T10:15:31.024+0100] {logging_mixin.py:188} INFO - [2025-05-24T10:15:31.023+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py

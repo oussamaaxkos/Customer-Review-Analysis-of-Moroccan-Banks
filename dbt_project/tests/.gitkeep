@@ -1,0 +1,25 @@
+WITH raw_reviews AS (
+    SELECT DISTINCT * FROM {{ source('staging', 'bank_reviews') }}  -- Remove duplicates
+),
+
+cleaned_reviews AS (
+    SELECT
+        id,
+        LOWER(TRIM(review_text)) AS cleaned_review,  -- Normalize text (lowercase, trim spaces)
+        REGEXP_REPLACE(LOWER(TRIM(review_text)), '[^\w\s]', '', 'g') AS no_punctuation,  -- Remove punctuation
+        rating,
+        created_at
+    FROM raw_reviews
+    WHERE review_text IS NOT NULL AND review_text <> ''  -- Handle missing values
+),
+
+final_reviews AS (
+    SELECT
+        id,
+        no_punctuation AS review_text,
+        rating,
+        created_at
+    FROM cleaned_reviews
+)
+
+SELECT * FROM final_reviews;

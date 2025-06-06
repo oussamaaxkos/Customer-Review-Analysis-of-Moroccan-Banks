@@ -1,0 +1,578 @@
+[2025-05-14T00:13:30.929+0100] {processor.py:161} INFO - Started process (PID=9778) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:13:30.933+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:13:30.937+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:30.936+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:13:54.307+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:54.303+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:13:54.781+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:54.778+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:13:55.078+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:55.076+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:13:55.284+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:55.282+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:13:55.831+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:55.829+0100] {logger.py:11} INFO - WebDriver version 134.0.6998.165 selected
+[2025-05-14T00:13:55.848+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:55.845+0100] {logger.py:11} INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+[2025-05-14T00:13:55.851+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:55.850+0100] {logger.py:11} INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+[2025-05-14T00:13:56.283+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:56.281+0100] {logger.py:11} INFO - Driver downloading response is 200
+[2025-05-14T00:13:57.111+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:57.109+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:13:57.720+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:13:57.718+0100] {logger.py:11} INFO - Driver has been saved in cache [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+[2025-05-14T00:13:58.112+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:14:00.977+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:00.975+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:01.006+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:01.004+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:14:01.069+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 30.152 seconds
+[2025-05-14T00:14:31.420+0100] {processor.py:161} INFO - Started process (PID=10063) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:14:31.423+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:14:31.427+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:31.425+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:14:44.583+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:44.581+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:14:44.780+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:44.777+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:14:44.996+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:44.995+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:14:45.299+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:45.295+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:14:45.506+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:14:45.742+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:45.740+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:45.765+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:45.763+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:14:45.803+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 14.387 seconds
+[2025-05-14T00:15:15.890+0100] {processor.py:161} INFO - Started process (PID=10330) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:15:15.901+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:15:15.906+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:15.904+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:15:24.873+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:24.871+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:15:25.138+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:25.136+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:15:26.875+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:26.874+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:15:27.489+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:27.487+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:15:27.608+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:15:27.791+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:27.790+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:27.814+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:27.812+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:15:27.853+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.975 seconds
+[2025-05-14T00:15:58.090+0100] {processor.py:161} INFO - Started process (PID=10583) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:15:58.100+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:15:58.104+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:58.102+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:16:07.494+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:07.493+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:16:07.757+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:07.755+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:16:23.809+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:23.807+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:16:24.201+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:24.199+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:16:24.365+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:16:24.605+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:24.603+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:24.638+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:24.636+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:16:24.688+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 26.606 seconds
+[2025-05-14T00:16:55.124+0100] {processor.py:161} INFO - Started process (PID=10911) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:16:55.131+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:16:55.136+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:55.134+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:17:09.044+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:09.042+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:17:09.268+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:09.266+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:17:09.563+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:09.561+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:17:09.932+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:09.931+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:17:10.076+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:17:10.259+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:10.258+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:10.287+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:10.285+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:17:10.324+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 15.208 seconds
+[2025-05-14T00:17:40.980+0100] {processor.py:161} INFO - Started process (PID=11179) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:17:40.992+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:17:40.997+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:40.995+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:17:50.568+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:50.567+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:17:50.845+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:50.842+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:17:51.353+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:51.352+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:17:51.729+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:51.727+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:17:51.884+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:17:52.072+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:52.071+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:52.098+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:52.096+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:17:52.140+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.164 seconds
+[2025-05-14T00:18:22.663+0100] {processor.py:161} INFO - Started process (PID=11424) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:18:22.673+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:18:22.677+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:22.675+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:18:31.586+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:31.584+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:18:31.812+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:31.810+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:18:33.071+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:33.070+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:18:33.284+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:33.282+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:18:33.389+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:18:33.562+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:33.560+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:33.581+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:33.580+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:18:33.608+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.951 seconds
+[2025-05-14T00:19:04.018+0100] {processor.py:161} INFO - Started process (PID=11677) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:04.028+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:19:04.033+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:04.031+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:13.396+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:13.394+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:19:13.782+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:13.778+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:19:14.304+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:14.296+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:19:15.094+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:15.083+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:19:15.337+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:15.717+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:15.715+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:15.758+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:15.754+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:19:15.812+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.801 seconds
+[2025-05-14T00:19:46.254+0100] {processor.py:161} INFO - Started process (PID=11925) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:46.257+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:19:46.261+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:46.259+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:55.019+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:55.017+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:19:55.247+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:55.243+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:19:55.628+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:55.626+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:19:55.954+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:55.953+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:19:56.057+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:19:56.294+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:56.291+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:56.321+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:56.320+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:19:56.360+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.112 seconds
+[2025-05-14T00:20:29.397+0100] {processor.py:161} INFO - Started process (PID=12166) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:20:29.401+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:20:29.404+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:29.403+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:20:38.495+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.493+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:20:38.765+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.763+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:20:40.779+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:40.777+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:20:41.066+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:41.064+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:20:41.241+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:20:41.447+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:41.444+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:41.466+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:41.464+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:20:41.500+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.110 seconds
+[2025-05-14T00:21:11.773+0100] {processor.py:161} INFO - Started process (PID=12443) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:21:11.782+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:21:11.785+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:11.783+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:21:20.914+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:20.911+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:21:21.197+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:21.196+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:21:21.686+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:21.684+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:21:22.243+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:22.241+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:21:22.366+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:21:22.551+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:22.549+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:22.574+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:22.572+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:21:22.617+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.851 seconds
+[2025-05-14T00:21:52.683+0100] {processor.py:161} INFO - Started process (PID=12686) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:21:52.688+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:21:52.692+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:52.690+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:22:05.807+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:05.804+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:22:06.099+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:06.095+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:22:06.687+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:06.686+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:22:07.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:07.383+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:22:07.530+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:22:07.771+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:07.770+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:07.803+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:07.802+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:22:07.839+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 15.168 seconds
+[2025-05-14T00:22:38.363+0100] {processor.py:161} INFO - Started process (PID=12940) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:22:38.372+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:22:38.376+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:38.374+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:22:50.407+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:50.405+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:22:50.717+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:50.714+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:22:51.043+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:51.041+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:22:51.343+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:51.341+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:22:51.478+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:22:51.690+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:51.688+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:51.713+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:51.712+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:22:51.742+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 13.390 seconds
+[2025-05-14T00:23:29.607+0100] {processor.py:161} INFO - Started process (PID=13208) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:23:29.618+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:23:29.622+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:29.620+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:23:43.472+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:43.470+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:23:43.768+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:43.766+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:23:44.419+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:44.417+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:23:44.881+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:44.879+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:23:45.006+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:23:45.215+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:45.213+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:45.240+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:45.238+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:23:45.277+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 15.677 seconds
+[2025-05-14T00:24:17.067+0100] {processor.py:161} INFO - Started process (PID=13481) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:24:17.070+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:24:17.073+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:17.072+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:24:28.300+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:28.298+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:24:28.582+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:28.579+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:24:29.286+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:29.284+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:24:30.069+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:30.066+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:24:30.227+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:24:30.458+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:30.457+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:30.486+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:30.483+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:24:30.533+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 13.475 seconds
+[2025-05-14T00:25:03.559+0100] {processor.py:161} INFO - Started process (PID=13740) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:03.565+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:25:03.569+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:03.567+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:13.649+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:13.647+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:25:13.947+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:13.945+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:25:14.588+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:14.586+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:25:14.977+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:14.975+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:25:15.104+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:15.314+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:15.312+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:15.346+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:15.343+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:25:15.378+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.830 seconds
+[2025-05-14T00:25:45.455+0100] {processor.py:161} INFO - Started process (PID=13977) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:45.464+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:25:45.468+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:45.466+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:55.038+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:55.036+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:25:55.279+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:55.277+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:25:55.611+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:55.610+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:25:56.025+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:56.023+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:25:56.163+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:25:56.412+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:56.408+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:56.440+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:56.438+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:25:56.496+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.048 seconds
+[2025-05-14T00:26:27.195+0100] {processor.py:161} INFO - Started process (PID=14220) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:26:27.203+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:26:27.206+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:27.205+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:26:38.108+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:38.106+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:26:38.325+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:38.323+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:26:41.411+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:41.410+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:26:41.791+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:41.789+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:26:41.933+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:26:42.085+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:42.083+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:42.110+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:42.109+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:26:42.148+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 14.958 seconds
+[2025-05-14T00:27:12.527+0100] {processor.py:161} INFO - Started process (PID=14460) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:27:12.537+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:27:12.541+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:12.539+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:27:20.973+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:20.971+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:27:21.358+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:21.354+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:27:22.149+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:22.147+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:27:22.613+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:22.609+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:27:22.822+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:27:23.103+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:23.100+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:23.132+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:23.130+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:27:23.180+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.658 seconds
+[2025-05-14T00:27:53.257+0100] {processor.py:161} INFO - Started process (PID=14691) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:27:53.267+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:27:53.271+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:53.270+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:28:09.060+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:09.059+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:28:09.358+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:09.355+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:28:09.871+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:09.870+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:28:10.368+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:10.366+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:28:10.515+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:28:10.733+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:10.730+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:10.761+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:10.759+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:28:10.803+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 17.551 seconds
+[2025-05-14T00:28:41.396+0100] {processor.py:161} INFO - Started process (PID=14939) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:28:41.407+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:28:41.412+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:41.410+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:28:56.631+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:56.628+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:28:56.922+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:56.920+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:28:57.354+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:57.351+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:28:58.106+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:58.104+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:28:58.296+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:28:58.592+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:58.590+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:58.617+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:58.614+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:28:58.674+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 17.287 seconds
+[2025-05-14T00:29:29.143+0100] {processor.py:161} INFO - Started process (PID=15199) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:29:29.147+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:29:29.151+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:29.149+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:29:41.559+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:41.557+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:29:41.787+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:41.784+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:29:46.318+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:46.317+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:29:46.799+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:46.797+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:29:46.895+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:29:47.097+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:47.095+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:47.120+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:47.118+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:29:47.152+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 18.014 seconds
+[2025-05-14T00:30:17.640+0100] {processor.py:161} INFO - Started process (PID=15448) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:30:17.654+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:30:17.662+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:17.658+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:30:30.440+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:30.439+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:30:30.740+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:30.737+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:30:31.081+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:31.079+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:30:31.473+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:31.471+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:30:31.616+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:30:31.812+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:31.811+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:31.835+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:31.834+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:30:31.877+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 14.252 seconds
+[2025-05-14T00:31:02.111+0100] {processor.py:161} INFO - Started process (PID=15682) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:02.121+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:31:02.127+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:02.124+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:13.265+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:13.263+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:31:13.533+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:13.531+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:31:13.798+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:13.797+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:31:13.978+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:13.977+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:31:14.087+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:14.264+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:14.262+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:14.285+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:14.284+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:31:14.339+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.233 seconds
+[2025-05-14T00:31:44.478+0100] {processor.py:161} INFO - Started process (PID=15920) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:44.482+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:31:44.485+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:44.484+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:58.158+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:58.156+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:31:58.430+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:58.428+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:31:58.774+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:58.772+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:31:59.128+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:59.125+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:31:59.347+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:31:59.536+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:59.535+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:59.556+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:59.554+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:31:59.604+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 15.134 seconds
+[2025-05-14T00:32:29.656+0100] {processor.py:161} INFO - Started process (PID=16151) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:32:29.666+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:32:29.670+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:29.668+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:32:41.884+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:41.883+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:32:42.124+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:42.121+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:32:46.356+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:46.353+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:32:47.756+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:47.753+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:32:47.925+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:32:48.100+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:48.098+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:48.123+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:48.121+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:32:48.167+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 18.515 seconds
+[2025-05-14T00:33:18.247+0100] {processor.py:161} INFO - Started process (PID=16402) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:33:18.250+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:33:18.256+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:18.253+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:33:26.622+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:26.620+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:33:26.868+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:26.866+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:33:27.775+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:27.774+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:33:28.842+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:28.841+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:33:29.010+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:33:29.288+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:29.282+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:29.320+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:29.318+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:33:29.373+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.130 seconds
+[2025-05-14T00:33:59.504+0100] {processor.py:161} INFO - Started process (PID=16632) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:33:59.508+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:33:59.512+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:59.510+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:34:10.007+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:10.006+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:34:10.300+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:10.298+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:34:12.213+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:12.211+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:34:12.679+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:12.677+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:34:12.820+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:34:13.017+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:13.015+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:13.043+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:13.042+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:34:13.079+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 13.579 seconds
+[2025-05-14T00:34:43.801+0100] {processor.py:161} INFO - Started process (PID=16866) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:34:43.813+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:34:43.819+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:43.817+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:34:54.843+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:54.841+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:34:55.079+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:55.077+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:34:55.492+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:55.491+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:34:55.830+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:55.828+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:34:55.951+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:34:56.115+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.113+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:56.134+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.133+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:34:56.169+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.372 seconds
+[2025-05-14T00:43:34.355+0100] {processor.py:161} INFO - Started process (PID=18291) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:43:34.359+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:43:34.362+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:34.361+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:43:47.262+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:47.259+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:43:47.590+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:47.588+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:43:48.056+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:48.052+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:43:48.746+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:48.740+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:43:49.002+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:43:51.444+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:51.442+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:43:51.463+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:51.461+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:43:51.500+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 17.154 seconds
+[2025-05-14T00:44:21.646+0100] {processor.py:161} INFO - Started process (PID=18527) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:44:21.652+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:44:21.656+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:21.654+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:44:35.713+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:35.711+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:44:35.990+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:35.988+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:44:36.164+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:36.162+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:44:37.549+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:37.547+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:44:37.818+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:44:38.077+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:38.074+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:38.119+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:38.116+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:44:38.177+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 16.538 seconds
+[2025-05-14T00:45:08.376+0100] {processor.py:161} INFO - Started process (PID=18827) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:45:08.386+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:45:08.390+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:08.389+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:45:17.665+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:17.663+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:45:18.020+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:18.018+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:45:18.302+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:18.301+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:45:18.488+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:18.486+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:45:18.605+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:45:18.892+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:18.890+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:18.917+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:18.915+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:45:18.961+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.594 seconds
+[2025-05-14T00:45:49.460+0100] {processor.py:161} INFO - Started process (PID=19104) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:45:49.464+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:45:49.469+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:49.467+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:46:00.645+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:00.643+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:46:00.963+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:00.961+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:46:01.163+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:01.160+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:46:01.500+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:01.498+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:46:01.661+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:46:01.962+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:01.960+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:01.987+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:01.985+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:46:02.018+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.571 seconds
+[2025-05-14T00:46:32.316+0100] {processor.py:161} INFO - Started process (PID=19419) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:46:32.318+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:46:32.322+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:32.320+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:46:40.909+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:40.907+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:46:41.176+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:41.174+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:46:41.335+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:41.334+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:46:41.594+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:41.593+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:46:41.751+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:46:41.946+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:41.944+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:41.968+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:41.966+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:46:42.004+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 9.694 seconds
+[2025-05-14T00:47:12.246+0100] {processor.py:161} INFO - Started process (PID=19674) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:47:12.252+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:47:12.259+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:12.257+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:47:22.932+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:22.931+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:47:23.341+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:23.338+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:47:23.657+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:23.655+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:47:23.914+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:23.912+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:47:24.067+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:47:24.279+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:24.277+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:24.314+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:24.312+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:47:24.352+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.112 seconds
+[2025-05-14T00:47:54.936+0100] {processor.py:161} INFO - Started process (PID=19939) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:47:54.940+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:47:54.943+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:54.941+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:48:04.851+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:04.846+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:48:05.129+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:05.127+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:48:05.479+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:05.476+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:48:05.797+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:05.795+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:48:05.951+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:48:06.222+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:06.218+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:06.262+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:06.259+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:48:06.307+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.377 seconds
+[2025-05-14T00:48:37.656+0100] {processor.py:161} INFO - Started process (PID=20246) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:48:37.659+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:48:37.663+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:37.661+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:48:47.665+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:47.663+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:48:47.983+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:47.981+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:48:48.196+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:48.194+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:48:48.456+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:48.452+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:48:48.579+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:48:48.793+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:48.791+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:48.820+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:48.818+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:48:48.877+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.227 seconds
+[2025-05-14T00:49:19.865+0100] {processor.py:161} INFO - Started process (PID=20517) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:49:19.875+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:49:19.883+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:19.878+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:49:31.683+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:31.681+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:49:31.968+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:31.965+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:49:32.261+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:32.260+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:49:32.537+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:32.535+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:49:32.692+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:49:32.998+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:32.995+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:33.032+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:33.030+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:49:33.090+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 13.234 seconds
+[2025-05-14T00:50:03.523+0100] {processor.py:161} INFO - Started process (PID=20774) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:03.527+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:50:03.532+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:03.530+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:11.641+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:11.639+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:50:12.008+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.002+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:50:12.262+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.260+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:50:12.520+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.519+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:50:12.661+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:12.850+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.847+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:12.874+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.872+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:50:12.909+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 9.392 seconds
+[2025-05-14T00:50:43.349+0100] {processor.py:161} INFO - Started process (PID=21031) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:43.358+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:50:43.363+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:43.361+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:51.746+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:51.745+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:50:52.049+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.047+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:50:52.205+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.203+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:50:52.369+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.367+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:50:52.455+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:50:52.665+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.662+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:52.700+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.698+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:50:52.747+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 9.403 seconds
+[2025-05-14T00:51:26.001+0100] {processor.py:161} INFO - Started process (PID=21323) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:51:26.013+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:51:26.018+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:26.016+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:51:34.278+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.276+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:51:34.505+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.503+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:51:34.748+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.747+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:51:34.896+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.895+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:51:35.032+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:51:35.204+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:35.202+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:35.226+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:35.225+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:51:35.257+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 9.264 seconds
+[2025-05-14T00:52:08.044+0100] {processor.py:161} INFO - Started process (PID=21577) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:52:08.048+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:52:08.051+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:08.049+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:52:18.377+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:18.375+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:52:18.670+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:18.667+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:52:18.842+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:18.839+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:52:19.117+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:19.115+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:52:19.354+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:52:19.728+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:19.725+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:19.763+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:19.759+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:52:19.818+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.781 seconds
+[2025-05-14T00:52:50.033+0100] {processor.py:161} INFO - Started process (PID=21839) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:52:50.041+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:52:50.049+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:50.047+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:53:02.535+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:02.533+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:53:02.863+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:02.861+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:53:03.068+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:03.066+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:53:03.308+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:03.306+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:53:03.534+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:53:04.142+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:04.140+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:04.175+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:04.173+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:53:04.234+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 14.211 seconds
+[2025-05-14T00:53:34.372+0100] {processor.py:161} INFO - Started process (PID=22130) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:53:34.381+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:53:34.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:34.382+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:53:43.716+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:43.711+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:53:44.084+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:44.080+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:53:44.300+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:44.299+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:53:44.487+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:44.486+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:53:44.588+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:53:45.082+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:45.079+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:45.127+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:45.123+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:53:45.182+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.817 seconds
+[2025-05-14T00:54:15.812+0100] {processor.py:161} INFO - Started process (PID=22380) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:54:15.818+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:54:15.823+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:15.821+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:54:25.292+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:25.289+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:54:25.585+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:25.583+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:54:25.821+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:25.820+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:54:26.043+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:26.041+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:54:26.165+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:54:26.362+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:26.360+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:26.387+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:26.385+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:54:26.426+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.630 seconds
+[2025-05-14T00:54:57.076+0100] {processor.py:161} INFO - Started process (PID=22649) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:54:57.085+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:54:57.088+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:57.086+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:55:07.885+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:07.883+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:55:08.174+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:08.172+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:55:08.448+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:08.446+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:55:08.602+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:08.601+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:55:08.741+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:55:08.958+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:08.957+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:08.980+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:08.977+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:55:09.026+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 11.956 seconds
+[2025-05-14T00:55:39.607+0100] {processor.py:161} INFO - Started process (PID=22915) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:55:39.620+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:55:39.633+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:39.631+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:55:58.064+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:58.062+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:55:58.647+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:58.645+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:55:58.905+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:58.901+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:55:59.192+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:59.190+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:55:59.430+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:55:59.875+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:59.871+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:59.930+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:59.927+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:56:00.003+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 20.405 seconds
+[2025-05-14T00:56:30.265+0100] {processor.py:161} INFO - Started process (PID=23221) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:56:30.276+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:56:30.282+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:30.279+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:56:45.279+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:45.277+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:56:45.634+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:45.631+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:56:45.870+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:45.868+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:56:46.110+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:46.108+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:56:46.304+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:56:46.639+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:46.636+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:46.671+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:46.669+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:56:46.729+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 16.474 seconds
+[2025-05-14T00:57:17.146+0100] {processor.py:161} INFO - Started process (PID=23502) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:57:17.151+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:57:17.156+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:17.154+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:57:29.635+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:29.633+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:57:30.062+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:30.059+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:57:30.454+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:30.452+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:57:30.909+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:30.906+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:57:31.058+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:57:31.256+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:31.254+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:31.281+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:31.279+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:57:31.314+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 14.182 seconds
+[2025-05-14T00:58:01.614+0100] {processor.py:161} INFO - Started process (PID=23748) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:01.618+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:58:01.622+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:01.620+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:13.065+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:13.064+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:58:13.301+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:13.299+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:58:13.547+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:13.545+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:58:13.817+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:13.816+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:58:13.928+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:14.110+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:14.108+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:14.130+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:14.129+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:58:14.160+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 12.553 seconds
+[2025-05-14T00:58:46.149+0100] {processor.py:161} INFO - Started process (PID=23980) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:46.159+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:58:46.162+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:46.161+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:55.535+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:55.533+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:58:55.756+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:55.753+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:58:55.918+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:55.915+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:58:56.129+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.127+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:58:56.228+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:58:56.429+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.427+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:56.449+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.448+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:58:56.496+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 10.355 seconds
+[2025-05-14T00:59:34.081+0100] {processor.py:161} INFO - Started process (PID=24238) to work on /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:59:34.090+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/S_G_M_R.py for tasks to queue
+[2025-05-14T00:59:34.093+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:34.091+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:59:42.481+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:42.478+0100] {logger.py:11} INFO - ====== WebDriver manager ======
+[2025-05-14T00:59:42.770+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:42.768+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:59:43.064+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:43.062+0100] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14T00:59:43.329+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:43.327+0100] {logger.py:11} INFO - Driver [/home/osama/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+[2025-05-14T00:59:43.505+0100] {processor.py:840} INFO - DAG(s) 'scrape_and_insert_bank_reviews' retrieved from /home/osama/airflow/dags/S_G_M_R.py
+[2025-05-14T00:59:43.791+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:43.789+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:43.822+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:43.815+0100] {dag.py:3823} INFO - Setting next_dagrun for scrape_and_insert_bank_reviews to None, run_after=None
+[2025-05-14T00:59:43.853+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/S_G_M_R.py took 9.778 seconds

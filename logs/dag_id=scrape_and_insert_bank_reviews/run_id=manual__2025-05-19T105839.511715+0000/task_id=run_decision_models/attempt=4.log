@@ -1,0 +1,47 @@
+[2025-05-22T21:22:46.747+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.run_decision_models manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-22T21:22:46.767+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.run_decision_models manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-22T21:22:46.770+0100] {taskinstance.py:2170} INFO - Starting attempt 4 of 4
+[2025-05-22T21:22:46.795+0100] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_decision_models> on 2025-05-19 10:58:39.511715+00:00
+[2025-05-22T21:22:46.810+0100] {standard_task_runner.py:60} INFO - Started process 21261 to run task
+[2025-05-22T21:22:46.817+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'scrape_and_insert_bank_reviews', 'run_decision_models', 'manual__2025-05-19T10:58:39.511715+00:00', '--job-id', '1953', '--raw', '--subdir', 'DAGS_FOLDER/S_G_M_R.py', '--cfg-path', '/tmp/tmpayt_8imc']
+[2025-05-22T21:22:46.819+0100] {standard_task_runner.py:88} INFO - Job 1953: Subtask run_decision_models
+[2025-05-22T21:22:47.020+0100] {task_command.py:423} INFO - Running <TaskInstance: scrape_and_insert_bank_reviews.run_decision_models manual__2025-05-19T10:58:39.511715+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-22T21:22:47.665+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='scrape_and_insert_bank_reviews' AIRFLOW_CTX_TASK_ID='run_decision_models' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T10:58:39.511715+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T10:58:39.511715+00:00'
+[2025-05-22T21:22:47.676+0100] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-22T21:22:47.679+0100] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/airflow/dbt_project/models/decision_schema && dbt run']
+[2025-05-22T21:22:47.716+0100] {subprocess.py:86} INFO - Output:
+[2025-05-22T21:23:50.071+0100] {subprocess.py:93} INFO - [0m20:23:50  Running with dbt=1.8.7
+[2025-05-22T21:23:55.798+0100] {subprocess.py:93} INFO - [0m20:23:55  Registered adapter: postgres=1.8.2
+[2025-05-22T21:24:06.107+0100] {subprocess.py:93} INFO - [0m20:24:06  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-05-22T21:24:06.110+0100] {subprocess.py:93} INFO - There are 1 unused configuration paths:
+[2025-05-22T21:24:06.111+0100] {subprocess.py:93} INFO - - models.dbt_project.forPy
+[2025-05-22T21:24:07.696+0100] {subprocess.py:93} INFO - [0m20:24:07  Found 8 models, 1 seed, 4 data tests, 1 source, 540 macros
+[2025-05-22T21:24:07.700+0100] {subprocess.py:93} INFO - [0m20:24:07
+[2025-05-22T21:24:23.272+0100] {subprocess.py:93} INFO - [0m20:24:23  Concurrency: 4 threads (target='dev')
+[2025-05-22T21:24:23.275+0100] {subprocess.py:93} INFO - [0m20:24:23
+[2025-05-22T21:24:23.290+0100] {subprocess.py:93} INFO - [0m20:24:23  1 of 8 START sql view model public.clean_bank_reviews .......................... [RUN]
+[2025-05-22T21:24:23.297+0100] {subprocess.py:93} INFO - [0m20:24:23  2 of 8 START sql table model public_decision_schema.dim_bank ................... [RUN]
+[2025-05-22T21:24:23.299+0100] {subprocess.py:93} INFO - [0m20:24:23  3 of 8 START sql table model public_decision_schema.dim_branch ................. [RUN]
+[2025-05-22T21:24:23.302+0100] {subprocess.py:93} INFO - [0m20:24:23  4 of 8 START sql table model public_decision_schema.dim_location ............... [RUN]
+[2025-05-22T21:24:24.645+0100] {subprocess.py:93} INFO - [0m20:24:24  4 of 8 OK created sql table model public_decision_schema.dim_location .......... [[32mSELECT 23[0m in 1.32s]
+[2025-05-22T21:24:24.661+0100] {subprocess.py:93} INFO - [0m20:24:24  3 of 8 OK created sql table model public_decision_schema.dim_branch ............ [[32mSELECT 27[0m in 1.34s]
+[2025-05-22T21:24:24.663+0100] {subprocess.py:93} INFO - [0m20:24:24  1 of 8 OK created sql view model public.clean_bank_reviews ..................... [[32mCREATE VIEW[0m in 1.35s]
+[2025-05-22T21:24:24.664+0100] {subprocess.py:93} INFO - [0m20:24:24  2 of 8 OK created sql table model public_decision_schema.dim_bank .............. [[32mSELECT 3[0m in 1.35s]
+[2025-05-22T21:24:24.667+0100] {subprocess.py:93} INFO - [0m20:24:24  5 of 8 START sql table model public_decision_schema.dim_sentiment .............. [RUN]
+[2025-05-22T21:24:24.674+0100] {subprocess.py:93} INFO - [0m20:24:24  6 of 8 START sql table model public_decision_schema.fact_reviews ............... [RUN]
+[2025-05-22T21:24:24.679+0100] {subprocess.py:93} INFO - [0m20:24:24  7 of 8 START sql table model public.my_first_dbt_model ......................... [RUN]
+[2025-05-22T21:24:25.062+0100] {subprocess.py:93} INFO - [0m20:24:25  5 of 8 OK created sql table model public_decision_schema.dim_sentiment ......... [[32mSELECT 3[0m in 0.37s]
+[2025-05-22T21:24:25.076+0100] {subprocess.py:93} INFO - [0m20:24:25  6 of 8 OK created sql table model public_decision_schema.fact_reviews .......... [[32mSELECT 149[0m in 0.37s]
+[2025-05-22T21:24:25.080+0100] {subprocess.py:93} INFO - [0m20:24:25  7 of 8 OK created sql table model public.my_first_dbt_model .................... [[32mSELECT 2[0m in 0.37s]
+[2025-05-22T21:24:25.092+0100] {subprocess.py:93} INFO - [0m20:24:25  8 of 8 START sql view model public.my_second_dbt_model ......................... [RUN]
+[2025-05-22T21:24:25.263+0100] {subprocess.py:93} INFO - [0m20:24:25  8 of 8 OK created sql view model public.my_second_dbt_model .................... [[32mCREATE VIEW[0m in 0.17s]
+[2025-05-22T21:24:25.326+0100] {subprocess.py:93} INFO - [0m20:24:25
+[2025-05-22T21:24:25.329+0100] {subprocess.py:93} INFO - [0m20:24:25  Finished running 6 table models, 2 view models in 0 hours 0 minutes and 17.62 seconds (17.62s).
+[2025-05-22T21:24:25.505+0100] {subprocess.py:93} INFO - [0m20:24:25
+[2025-05-22T21:24:25.508+0100] {subprocess.py:93} INFO - [0m20:24:25  [32mCompleted successfully[0m
+[2025-05-22T21:24:25.512+0100] {subprocess.py:93} INFO - [0m20:24:25
+[2025-05-22T21:24:25.521+0100] {subprocess.py:93} INFO - [0m20:24:25  Done. PASS=8 WARN=0 ERROR=0 SKIP=0 TOTAL=8
+[2025-05-22T21:24:27.331+0100] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-05-22T21:24:27.433+0100] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=scrape_and_insert_bank_reviews, task_id=run_decision_models, execution_date=20250519T105839, start_date=20250522T202246, end_date=20250522T202427
+[2025-05-22T21:24:27.528+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-05-22T21:24:27.598+0100] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,448 @@
+[2025-05-14T00:14:08.221+0100] {processor.py:161} INFO - Started process (PID=9927) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:08.224+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:14:08.226+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:08.225+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:08.485+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:08.808+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:08.805+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:08.846+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:08.843+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:14:08.895+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.680 seconds
+[2025-05-14T00:14:43.612+0100] {processor.py:161} INFO - Started process (PID=10114) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:43.615+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:14:43.619+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:43.617+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:43.781+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:14:44.046+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:44.045+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:44.067+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:44.066+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:14:44.103+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.498 seconds
+[2025-05-14T00:15:14.535+0100] {processor.py:161} INFO - Started process (PID=10318) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:14.538+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:15:14.543+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:14.540+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:14.725+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:14.955+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:14.953+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:14.979+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:14.978+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:15:15.022+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.494 seconds
+[2025-05-14T00:15:48.536+0100] {processor.py:161} INFO - Started process (PID=10525) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:48.542+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:15:48.546+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:48.544+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:48.736+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:15:48.998+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:48.993+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:49.033+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:49.031+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:15:49.074+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.546 seconds
+[2025-05-14T00:16:24.788+0100] {processor.py:161} INFO - Started process (PID=10748) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:24.798+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:16:24.804+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:24.801+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:24.930+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:25.136+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:25.134+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:25.183+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:25.178+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:16:25.236+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.459 seconds
+[2025-05-14T00:16:56.233+0100] {processor.py:161} INFO - Started process (PID=10917) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:56.237+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:16:56.242+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:56.240+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:56.391+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:16:56.626+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:56.625+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:56.654+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:56.652+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:16:56.694+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.468 seconds
+[2025-05-14T00:17:32.501+0100] {processor.py:161} INFO - Started process (PID=11143) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:17:32.506+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:17:32.510+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:32.508+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:17:32.622+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:17:32.802+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:32.800+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:32.828+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:32.827+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:17:32.870+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.379 seconds
+[2025-05-14T00:18:12.551+0100] {processor.py:161} INFO - Started process (PID=11375) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:12.561+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:18:12.565+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:12.563+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:12.689+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:12.914+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:12.912+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:12.941+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:12.939+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:18:12.981+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.436 seconds
+[2025-05-14T00:18:48.820+0100] {processor.py:161} INFO - Started process (PID=11574) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:48.823+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:18:48.826+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:48.825+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:48.946+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:18:49.234+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:49.232+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:49.257+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:49.255+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:18:49.291+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.477 seconds
+[2025-05-14T00:19:23.006+0100] {processor.py:161} INFO - Started process (PID=11806) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:23.011+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:19:23.019+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:23.017+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:23.197+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:23.491+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:23.485+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:23.525+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:23.521+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:19:23.574+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.580 seconds
+[2025-05-14T00:19:57.277+0100] {processor.py:161} INFO - Started process (PID=12016) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:57.281+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:19:57.285+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:57.284+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:57.511+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:19:57.770+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:57.768+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:57.798+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:57.796+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:19:57.855+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.588 seconds
+[2025-05-14T00:20:38.620+0100] {processor.py:161} INFO - Started process (PID=12225) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:20:38.627+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:20:38.633+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.631+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:20:38.780+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:20:38.953+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.952+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:38.973+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.971+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:20:38.998+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.387 seconds
+[2025-05-14T00:21:09.129+0100] {processor.py:161} INFO - Started process (PID=12412) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:09.132+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:21:09.135+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:09.134+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:09.265+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:09.453+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:09.452+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:09.482+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:09.480+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:21:09.525+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.402 seconds
+[2025-05-14T00:21:44.027+0100] {processor.py:161} INFO - Started process (PID=12634) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:44.030+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:21:44.033+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:44.032+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:44.223+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:21:44.583+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:44.582+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:44.629+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:44.625+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:21:44.686+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.664 seconds
+[2025-05-14T00:22:14.811+0100] {processor.py:161} INFO - Started process (PID=12816) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:14.814+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:22:14.817+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:14.815+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:14.934+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:15.197+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:15.195+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:15.223+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:15.222+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:22:15.253+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.448 seconds
+[2025-05-14T00:22:51.812+0100] {processor.py:161} INFO - Started process (PID=13032) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:51.815+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:22:51.819+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:51.817+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:52.007+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:22:52.334+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:52.332+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:52.383+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:52.381+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:22:52.476+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.669 seconds
+[2025-05-14T00:23:34.325+0100] {processor.py:161} INFO - Started process (PID=13227) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:23:34.330+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:23:34.334+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:34.332+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:23:34.533+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:23:34.801+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:34.798+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:34.837+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:34.835+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:23:34.885+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.567 seconds
+[2025-05-14T00:24:09.669+0100] {processor.py:161} INFO - Started process (PID=13430) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:09.672+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:24:09.675+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:09.674+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:09.830+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:10.051+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:10.049+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:10.084+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:10.080+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:24:10.140+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.478 seconds
+[2025-05-14T00:24:40.286+0100] {processor.py:161} INFO - Started process (PID=13616) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:40.289+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:24:40.293+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:40.291+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:40.447+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:24:40.718+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:40.716+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:40.742+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:40.741+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:24:40.786+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.512 seconds
+[2025-05-14T00:25:16.585+0100] {processor.py:161} INFO - Started process (PID=13837) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:16.595+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:25:16.598+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:16.597+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:16.732+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:16.937+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:16.936+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:16.962+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:16.961+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:25:17.001+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.425 seconds
+[2025-05-14T00:25:52.799+0100] {processor.py:161} INFO - Started process (PID=14003) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:52.808+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:25:52.811+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:52.810+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:52.946+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:25:53.176+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:53.174+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:53.207+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:53.205+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:25:53.260+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.467 seconds
+[2025-05-14T00:26:23.779+0100] {processor.py:161} INFO - Started process (PID=14206) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:23.785+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:26:23.790+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:23.788+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:23.961+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:24.210+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:24.209+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:24.242+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:24.240+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:26:24.284+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.514 seconds
+[2025-05-14T00:26:54.376+0100] {processor.py:161} INFO - Started process (PID=14399) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:54.380+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:26:54.383+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:54.382+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:54.509+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:26:54.948+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:54.934+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:55.022+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:55.021+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:26:55.087+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.719 seconds
+[2025-05-14T00:27:29.294+0100] {processor.py:161} INFO - Started process (PID=14565) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:27:29.299+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:27:29.305+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:29.302+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:27:29.416+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:27:29.619+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:29.616+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:29.654+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:29.651+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:27:29.710+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.422 seconds
+[2025-05-14T00:28:10.981+0100] {processor.py:161} INFO - Started process (PID=14787) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:10.985+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:28:10.989+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:10.987+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:11.119+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:11.422+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:11.420+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:11.461+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:11.458+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:28:11.503+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.531 seconds
+[2025-05-14T00:28:42.432+0100] {processor.py:161} INFO - Started process (PID=14948) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:42.443+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:28:42.449+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:42.447+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:42.632+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:28:42.922+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:42.920+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:42.956+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:42.954+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:28:42.996+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.574 seconds
+[2025-05-14T00:29:18.646+0100] {processor.py:161} INFO - Started process (PID=15165) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:18.651+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:29:18.654+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:18.653+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:18.778+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:18.962+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:18.960+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:18.983+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:18.981+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:29:19.015+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.382 seconds
+[2025-05-14T00:29:58.060+0100] {processor.py:161} INFO - Started process (PID=15374) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:58.063+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:29:58.067+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:58.065+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:58.210+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:29:58.411+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:58.409+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:58.439+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:58.437+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:29:58.472+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.417 seconds
+[2025-05-14T00:30:37.185+0100] {processor.py:161} INFO - Started process (PID=15568) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:30:37.191+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:30:37.202+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:37.196+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:30:37.416+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:30:37.731+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:37.729+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:37.770+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:37.769+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:30:37.837+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.660 seconds
+[2025-05-14T00:31:19.613+0100] {processor.py:161} INFO - Started process (PID=15810) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:31:19.616+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:31:19.619+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:19.618+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:31:19.745+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:31:19.937+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:19.936+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:19.964+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:19.962+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:31:20.006+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.398 seconds
+[2025-05-14T00:31:59.664+0100] {processor.py:161} INFO - Started process (PID=16005) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:31:59.667+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:31:59.669+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:59.668+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:31:59.792+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:32:00.115+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:00.113+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:00.141+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:00.140+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:32:00.177+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.518 seconds
+[2025-05-14T00:32:30.675+0100] {processor.py:161} INFO - Started process (PID=16160) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:32:30.687+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:32:30.692+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:30.690+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:32:30.887+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:32:31.163+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:31.161+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:31.188+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:31.186+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:32:31.225+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.555 seconds
+[2025-05-14T00:33:01.682+0100] {processor.py:161} INFO - Started process (PID=16356) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:01.686+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:33:01.691+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:01.690+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:01.828+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:02.043+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:02.041+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:02.065+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:02.063+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:33:02.099+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.423 seconds
+[2025-05-14T00:33:35.627+0100] {processor.py:161} INFO - Started process (PID=16531) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:35.631+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:33:35.634+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:35.633+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:35.749+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:33:35.926+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:35.924+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:35.946+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:35.945+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:33:35.981+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.358 seconds
+[2025-05-14T00:34:16.741+0100] {processor.py:161} INFO - Started process (PID=16738) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:16.751+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:34:16.754+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:16.753+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:16.881+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:17.075+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:17.073+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:17.107+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:17.106+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:34:17.154+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.420 seconds
+[2025-05-14T00:34:56.229+0100] {processor.py:161} INFO - Started process (PID=16949) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:56.233+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:34:56.236+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.234+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:56.350+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:34:56.596+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.594+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:56.625+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.623+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:34:56.668+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.443 seconds
+[2025-05-14T00:43:58.089+0100] {processor.py:161} INFO - Started process (PID=18410) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:43:58.099+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:43:58.104+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:58.102+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:43:58.370+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:43:59.667+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:59.665+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:43:59.700+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:59.697+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:43:59.736+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 1.656 seconds
+[2025-05-14T00:44:44.137+0100] {processor.py:161} INFO - Started process (PID=18672) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:44:44.141+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:44:44.145+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:44.143+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:44:44.289+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:44:44.458+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:44.456+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:44.479+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:44.477+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:44:44.514+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.384 seconds
+[2025-05-14T00:45:19.029+0100] {processor.py:161} INFO - Started process (PID=18906) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:19.033+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:45:19.037+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:19.035+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:19.248+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:19.503+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:19.501+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:19.574+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:19.571+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:45:19.671+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.647 seconds
+[2025-05-14T00:45:51.106+0100] {processor.py:161} INFO - Started process (PID=19118) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:51.112+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:45:51.119+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:51.116+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:51.351+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:45:51.572+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:51.570+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:51.593+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:51.592+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:45:51.624+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.524 seconds
+[2025-05-14T00:46:22.026+0100] {processor.py:161} INFO - Started process (PID=19337) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:22.029+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:46:22.032+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:22.031+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:22.160+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:22.345+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:22.343+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:22.372+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:22.371+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:46:22.419+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.399 seconds
+[2025-05-14T00:46:52.566+0100] {processor.py:161} INFO - Started process (PID=19560) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:52.575+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:46:52.579+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:52.577+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:52.686+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:46:52.866+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:52.865+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:52.891+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:52.889+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:46:52.925+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.364 seconds
+[2025-05-14T00:47:24.422+0100] {processor.py:161} INFO - Started process (PID=19771) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:24.426+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:47:24.430+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:24.429+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:24.579+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:24.823+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:24.818+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:24.864+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:24.861+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:47:24.917+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.501 seconds
+[2025-05-14T00:47:58.842+0100] {processor.py:161} INFO - Started process (PID=19962) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:58.846+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:47:58.850+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:58.848+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:58.973+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:47:59.230+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:59.228+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:59.271+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:59.268+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:47:59.312+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.475 seconds
+[2025-05-14T00:48:29.455+0100] {processor.py:161} INFO - Started process (PID=20183) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:48:29.459+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:48:29.462+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:29.461+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:48:29.623+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:48:29.855+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:29.853+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:29.884+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:29.882+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:48:29.929+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.486 seconds
+[2025-05-14T00:49:03.923+0100] {processor.py:161} INFO - Started process (PID=20420) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:03.926+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:49:03.932+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:03.929+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:04.196+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:04.529+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:04.527+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:04.557+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:04.555+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:49:04.608+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.696 seconds
+[2025-05-14T00:49:35.985+0100] {processor.py:161} INFO - Started process (PID=20625) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:35.988+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:49:35.991+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:35.989+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:36.126+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:49:36.352+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:36.350+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:36.374+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:36.372+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:49:36.406+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.426 seconds
+[2025-05-14T00:50:12.781+0100] {processor.py:161} INFO - Started process (PID=20846) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:12.784+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:50:12.788+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:12.786+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:12.915+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:13.202+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:13.197+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:13.248+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:13.246+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:50:13.296+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.522 seconds
+[2025-05-14T00:50:45.127+0100] {processor.py:161} INFO - Started process (PID=21040) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:45.130+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:50:45.134+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:45.132+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:45.320+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:50:45.537+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:45.536+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:45.562+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:45.561+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:50:45.599+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.479 seconds
+[2025-05-14T00:51:15.983+0100] {processor.py:161} INFO - Started process (PID=21268) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:15.992+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:51:15.996+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:15.994+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:16.143+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:16.381+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:16.379+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:16.411+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:16.409+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:51:16.458+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.481 seconds
+[2025-05-14T00:51:46.630+0100] {processor.py:161} INFO - Started process (PID=21484) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:46.632+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:51:46.635+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:46.634+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:46.775+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:51:46.998+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:46.997+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:47.019+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:47.017+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:51:47.047+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.424 seconds
+[2025-05-14T00:52:27.575+0100] {processor.py:161} INFO - Started process (PID=21706) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:52:27.579+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:52:27.586+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:27.583+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:52:27.812+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:52:28.532+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:28.495+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:28.589+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:28.583+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:52:28.648+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 1.082 seconds
+[2025-05-14T00:53:06.356+0100] {processor.py:161} INFO - Started process (PID=21953) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:06.360+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:53:06.366+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:06.364+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:06.498+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:06.697+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:06.696+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:06.717+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:06.715+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:53:06.761+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.411 seconds
+[2025-05-14T00:53:45.253+0100] {processor.py:161} INFO - Started process (PID=22202) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:45.257+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:53:45.262+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:45.260+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:45.465+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:53:45.838+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:45.835+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:45.870+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:45.868+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:53:45.913+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.667 seconds
+[2025-05-14T00:54:17.265+0100] {processor.py:161} INFO - Started process (PID=22394) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:17.279+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:54:17.286+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:17.282+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:17.469+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:17.793+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:17.791+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:17.833+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:17.831+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:54:17.876+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.620 seconds
+[2025-05-14T00:54:51.966+0100] {processor.py:161} INFO - Started process (PID=22607) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:51.975+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:54:51.979+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:51.978+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:52.158+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:54:52.442+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:52.441+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:52.476+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:52.473+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:54:52.520+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.561 seconds
+[2025-05-14T00:55:22.992+0100] {processor.py:161} INFO - Started process (PID=22798) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:55:22.996+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:55:23.000+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:22.999+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:55:23.129+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:55:23.381+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:23.379+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:23.408+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:23.406+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:55:23.448+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.462 seconds
+[2025-05-14T00:56:00.289+0100] {processor.py:161} INFO - Started process (PID=23027) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:00.299+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:56:00.311+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:00.308+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:00.570+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:01.215+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:01.211+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:01.265+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:01.259+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:56:01.345+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 1.075 seconds
+[2025-05-14T00:56:36.582+0100] {processor.py:161} INFO - Started process (PID=23244) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:36.596+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:56:36.604+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:36.600+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:36.866+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:56:37.318+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:37.307+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:37.378+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:37.374+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:56:37.439+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.870 seconds
+[2025-05-14T00:57:15.358+0100] {processor.py:161} INFO - Started process (PID=23479) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:15.369+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:57:15.376+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:15.374+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:15.608+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:15.936+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:15.934+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:15.973+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:15.971+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:57:16.048+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.712 seconds
+[2025-05-14T00:57:49.072+0100] {processor.py:161} INFO - Started process (PID=23670) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:49.081+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:57:49.084+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:49.083+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:49.203+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:57:49.390+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:49.388+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:49.412+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:49.410+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:57:49.448+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.385 seconds
+[2025-05-14T00:58:19.772+0100] {processor.py:161} INFO - Started process (PID=23848) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:19.775+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:58:19.778+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:19.777+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:19.949+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:20.153+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:20.151+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:20.183+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:20.182+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:58:20.218+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.454 seconds
+[2025-05-14T00:58:55.789+0100] {processor.py:161} INFO - Started process (PID=24051) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:55.792+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:58:55.795+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:55.794+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:55.889+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:58:56.160+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.159+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:56.182+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:56.181+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:58:56.211+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.426 seconds
+[2025-05-14T00:59:37.495+0100] {processor.py:161} INFO - Started process (PID=24259) to work on /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:59:37.500+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag3.py for tasks to queue
+[2025-05-14T00:59:37.503+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.501+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:59:37.626+0100] {processor.py:840} INFO - DAG(s) 'dag3' retrieved from /home/osama/airflow/dags/dag3.py
+[2025-05-14T00:59:37.796+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.795+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:37.824+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.822+0100] {dag.py:3823} INFO - Setting next_dagrun for dag3 to None, run_after=None
+[2025-05-14T00:59:37.863+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag3.py took 0.373 seconds

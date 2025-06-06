@@ -1,0 +1,406 @@
+[2025-05-14T00:14:01.266+0100] {processor.py:161} INFO - Started process (PID=9901) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:01.270+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:14:01.274+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:01.272+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:07.818+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:08.057+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:08.055+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:08.085+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:08.083+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:14:08.124+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.866 seconds
+[2025-05-14T00:14:38.480+0100] {processor.py:161} INFO - Started process (PID=10086) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:38.484+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:14:38.489+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:38.487+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:43.268+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:14:43.477+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:43.473+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:43.503+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:43.501+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:14:43.549+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.076 seconds
+[2025-05-14T00:15:13.842+0100] {processor.py:161} INFO - Started process (PID=10308) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:15:13.848+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:15:13.854+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:13.852+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:15:22.826+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:15:23.063+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:23.060+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:23.095+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:23.093+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:15:23.134+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 9.295 seconds
+[2025-05-14T00:15:53.563+0100] {processor.py:161} INFO - Started process (PID=10547) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:15:53.566+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:15:53.572+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:53.569+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:16:02.042+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:16:02.217+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:02.215+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:02.240+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:02.238+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:16:02.270+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.712 seconds
+[2025-05-14T00:16:34.120+0100] {processor.py:161} INFO - Started process (PID=10805) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:16:34.125+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:16:34.129+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:34.127+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:16:43.328+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:16:43.555+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:43.554+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:43.573+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:43.572+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:16:43.614+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 9.501 seconds
+[2025-05-14T00:17:13.883+0100] {processor.py:161} INFO - Started process (PID=11034) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:13.894+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:17:13.899+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:13.897+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:18.708+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:18.901+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:18.899+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:18.920+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:18.918+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:17:18.960+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.083 seconds
+[2025-05-14T00:17:50.649+0100] {processor.py:161} INFO - Started process (PID=11228) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:50.653+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:17:50.656+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:50.655+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:56.207+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:17:56.430+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:56.427+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:56.453+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:56.451+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:17:56.493+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.849 seconds
+[2025-05-14T00:18:31.664+0100] {processor.py:161} INFO - Started process (PID=11466) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:18:31.668+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:18:31.673+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:31.671+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:18:36.129+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:18:36.301+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:36.299+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:36.322+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:36.320+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:18:36.356+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 4.696 seconds
+[2025-05-14T00:19:13.503+0100] {processor.py:161} INFO - Started process (PID=11724) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:13.508+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:19:13.515+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:13.513+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:21.702+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:21.870+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:21.867+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:21.892+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:21.889+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:19:21.926+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.432 seconds
+[2025-05-14T00:19:52.017+0100] {processor.py:161} INFO - Started process (PID=11951) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:52.020+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:19:52.024+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:52.022+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:56.688+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:19:57.057+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:57.053+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:57.098+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:57.095+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:19:57.158+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.146 seconds
+[2025-05-14T00:20:33.167+0100] {processor.py:161} INFO - Started process (PID=12186) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:20:33.171+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:20:33.178+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:33.176+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:20:38.270+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:20:38.487+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.485+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:38.510+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:38.508+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:20:38.548+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.387 seconds
+[2025-05-14T00:21:09.114+0100] {processor.py:161} INFO - Started process (PID=12409) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:09.124+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:21:09.128+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:09.126+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:17.738+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:17.957+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:17.954+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:17.980+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:17.979+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:21:18.011+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.904 seconds
+[2025-05-14T00:21:48.414+0100] {processor.py:161} INFO - Started process (PID=12658) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:48.418+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:21:48.422+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:48.421+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:56.092+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:21:56.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:56.380+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:56.421+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:56.417+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:21:56.487+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.084 seconds
+[2025-05-14T00:22:28.108+0100] {processor.py:161} INFO - Started process (PID=12887) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:22:28.112+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:22:28.118+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:28.115+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:22:34.746+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:22:34.920+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:34.918+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:34.937+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:34.936+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:22:34.968+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.873 seconds
+[2025-05-14T00:23:05.259+0100] {processor.py:161} INFO - Started process (PID=13096) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:05.269+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:23:05.273+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:05.272+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:10.445+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:10.651+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:10.648+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:10.674+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:10.672+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:23:10.711+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.463 seconds
+[2025-05-14T00:23:41.331+0100] {processor.py:161} INFO - Started process (PID=13278) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:41.340+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:23:41.346+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:41.343+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:46.836+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:23:47.049+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:47.045+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:47.078+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:47.075+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:23:47.131+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.806 seconds
+[2025-05-14T00:24:19.651+0100] {processor.py:161} INFO - Started process (PID=13500) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:24:19.654+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:24:19.659+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:19.656+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:24:25.974+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:24:26.179+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:26.177+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:26.205+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:26.203+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:24:26.249+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.606 seconds
+[2025-05-14T00:24:56.746+0100] {processor.py:161} INFO - Started process (PID=13703) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:24:56.757+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:24:56.760+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:56.759+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:25:03.083+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:25:03.360+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:03.358+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:03.386+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:03.383+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:25:03.447+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.710 seconds
+[2025-05-14T00:25:33.930+0100] {processor.py:161} INFO - Started process (PID=13919) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:25:33.939+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:25:33.942+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:33.941+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:25:42.121+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:25:42.320+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:42.318+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:42.344+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:42.342+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:25:42.381+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.459 seconds
+[2025-05-14T00:26:13.041+0100] {processor.py:161} INFO - Started process (PID=14158) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:26:13.050+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:26:13.053+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:13.052+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:26:22.460+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:26:22.633+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:22.631+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:22.647+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:22.646+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:26:22.676+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 9.642 seconds
+[2025-05-14T00:26:54.306+0100] {processor.py:161} INFO - Started process (PID=14396) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:26:54.310+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:26:54.313+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:54.312+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:27:06.692+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:27:06.851+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:06.849+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:06.869+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:06.866+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:27:06.900+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 12.598 seconds
+[2025-05-14T00:27:39.939+0100] {processor.py:161} INFO - Started process (PID=14639) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:27:39.942+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:27:39.946+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:39.945+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:27:45.697+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:27:45.911+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:45.909+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:45.937+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:45.935+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:27:45.989+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.060 seconds
+[2025-05-14T00:28:25.495+0100] {processor.py:161} INFO - Started process (PID=14876) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:28:25.498+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:28:25.505+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:25.501+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:28:32.040+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:28:32.259+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:32.257+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:32.279+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:32.278+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:28:32.316+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.827 seconds
+[2025-05-14T00:29:13.262+0100] {processor.py:161} INFO - Started process (PID=15128) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:29:13.266+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:29:13.269+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:13.268+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:29:18.324+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:29:18.497+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:18.495+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:18.519+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:18.517+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:29:18.561+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.305 seconds
+[2025-05-14T00:29:55.811+0100] {processor.py:161} INFO - Started process (PID=15360) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:29:55.816+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:29:55.821+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:55.819+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:30:00.808+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:30:00.988+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:00.986+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:01.005+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:01.004+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:30:01.033+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.232 seconds
+[2025-05-14T00:30:36.826+0100] {processor.py:161} INFO - Started process (PID=15556) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:30:36.835+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:30:36.839+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:36.837+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:30:43.668+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:30:43.800+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:43.798+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:43.819+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:43.817+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:30:43.852+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.032 seconds
+[2025-05-14T00:31:19.206+0100] {processor.py:161} INFO - Started process (PID=15797) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:31:19.209+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:31:19.218+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:19.216+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:31:25.881+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:31:25.998+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:25.996+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:26.021+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:26.019+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:31:26.074+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.874 seconds
+[2025-05-14T00:32:05.763+0100] {processor.py:161} INFO - Started process (PID=16043) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:05.768+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:32:05.773+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:05.771+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:12.766+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:12.887+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:12.886+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:12.902+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:12.901+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:32:12.940+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.186 seconds
+[2025-05-14T00:32:48.360+0100] {processor.py:161} INFO - Started process (PID=16255) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:48.363+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:32:48.366+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:48.365+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:53.337+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:32:53.454+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:53.452+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:53.469+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:53.467+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:32:53.500+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.146 seconds
+[2025-05-14T00:33:29.468+0100] {processor.py:161} INFO - Started process (PID=16483) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:33:29.478+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:33:29.483+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:29.482+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:33:34.960+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:33:35.126+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:35.125+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:35.143+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:35.142+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:33:35.176+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.719 seconds
+[2025-05-14T00:34:13.140+0100] {processor.py:161} INFO - Started process (PID=16718) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:34:13.146+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:34:13.152+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:13.150+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:34:18.910+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:34:19.123+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:19.120+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:19.149+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:19.147+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:34:19.206+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.073 seconds
+[2025-05-14T00:34:56.709+0100] {processor.py:161} INFO - Started process (PID=16955) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:34:56.712+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:34:56.716+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:56.714+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:35:04.906+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:35:05.196+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:05.192+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:35:05.232+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:05.229+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:35:05.299+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.596 seconds
+[2025-05-14T00:43:51.600+0100] {processor.py:161} INFO - Started process (PID=18380) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:43:51.603+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:43:51.606+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:51.605+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:43:58.403+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:43:59.658+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:59.655+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:43:59.687+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:43:59.685+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:43:59.736+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.144 seconds
+[2025-05-14T00:44:38.326+0100] {processor.py:161} INFO - Started process (PID=18626) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:44:38.330+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:44:38.338+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:38.334+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:44:43.788+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:44:44.011+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:44.009+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:44.033+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:44.031+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:44:44.071+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.755 seconds
+[2025-05-14T00:45:14.414+0100] {processor.py:161} INFO - Started process (PID=18852) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:14.423+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:45:14.426+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:14.425+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:21.552+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:21.895+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:21.893+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:21.930+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:21.927+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:45:21.988+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.580 seconds
+[2025-05-14T00:45:52.243+0100] {processor.py:161} INFO - Started process (PID=19143) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:52.249+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:45:52.257+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:52.253+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:58.214+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:45:58.471+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:58.465+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:58.507+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:58.505+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:45:58.560+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.332 seconds
+[2025-05-14T00:46:28.637+0100] {processor.py:161} INFO - Started process (PID=19378) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:46:28.641+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:46:28.646+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:28.643+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:46:33.745+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:46:33.947+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:33.945+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:33.969+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:33.968+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:46:33.997+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.370 seconds
+[2025-05-14T00:47:04.041+0100] {processor.py:161} INFO - Started process (PID=19620) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:04.044+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:47:04.048+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:04.046+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:09.066+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:09.261+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:09.260+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:09.283+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:09.282+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:47:09.315+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.280 seconds
+[2025-05-14T00:47:39.436+0100] {processor.py:161} INFO - Started process (PID=19844) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:39.440+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:47:39.447+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:39.445+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:46.953+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:47:47.157+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:47.155+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:47.189+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:47.188+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:47:47.217+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.787 seconds
+[2025-05-14T00:48:17.456+0100] {processor.py:161} INFO - Started process (PID=20094) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:48:17.461+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:48:17.467+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:17.466+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:48:24.229+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:48:24.479+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:24.477+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:24.505+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:24.502+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:48:24.542+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.095 seconds
+[2025-05-14T00:48:55.002+0100] {processor.py:161} INFO - Started process (PID=20377) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:48:55.015+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:48:55.021+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:55.018+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:49:03.424+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:49:03.732+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:03.730+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:03.762+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:03.760+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:49:03.812+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.816 seconds
+[2025-05-14T00:49:34.019+0100] {processor.py:161} INFO - Started process (PID=20603) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:49:34.023+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:49:34.027+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:34.025+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:49:40.135+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:49:40.395+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:40.392+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:40.428+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:40.425+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:49:40.469+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.459 seconds
+[2025-05-14T00:50:12.999+0100] {processor.py:161} INFO - Started process (PID=20852) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:13.008+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:50:13.014+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:13.011+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:18.481+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:18.717+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:18.713+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:18.755+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:18.751+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:50:18.824+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.833 seconds
+[2025-05-14T00:50:52.816+0100] {processor.py:161} INFO - Started process (PID=21129) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:52.819+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:50:52.822+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:52.820+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:58.602+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:50:58.914+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:58.912+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:58.941+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:58.939+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:50:58.975+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.165 seconds
+[2025-05-14T00:51:30.193+0100] {processor.py:161} INFO - Started process (PID=21377) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:51:30.196+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:51:30.199+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:30.198+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:51:34.160+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:51:34.329+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.327+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:34.348+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:34.346+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:51:34.376+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 4.189 seconds
+[2025-05-14T00:52:14.990+0100] {processor.py:161} INFO - Started process (PID=21603) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:15.000+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:52:15.003+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:15.002+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:20.505+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:20.811+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:20.809+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:20.835+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:20.833+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:52:20.871+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.885 seconds
+[2025-05-14T00:52:51.062+0100] {processor.py:161} INFO - Started process (PID=21844) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:51.068+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:52:51.075+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:51.072+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:59.177+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:52:59.379+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:59.377+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:59.402+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:59.401+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:52:59.438+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 8.392 seconds
+[2025-05-14T00:53:29.759+0100] {processor.py:161} INFO - Started process (PID=22108) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:53:29.770+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:53:29.775+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:29.772+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:53:39.637+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:53:39.911+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:39.909+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:39.943+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:39.941+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:53:40.018+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 10.266 seconds
+[2025-05-14T00:54:10.745+0100] {processor.py:161} INFO - Started process (PID=22354) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:10.752+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:54:10.759+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:10.756+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:16.741+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:17.073+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:17.071+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:17.112+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:17.109+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:54:17.170+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.436 seconds
+[2025-05-14T00:54:47.359+0100] {processor.py:161} INFO - Started process (PID=22584) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:47.362+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:54:47.365+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:47.364+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:52.732+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:54:52.904+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:52.901+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:52.942+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:52.938+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:54:52.991+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.639 seconds
+[2025-05-14T00:55:23.604+0100] {processor.py:161} INFO - Started process (PID=22810) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:55:23.608+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:55:23.612+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:23.610+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:55:28.696+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:55:28.911+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:28.909+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:28.934+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:28.933+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:55:28.972+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.373 seconds
+[2025-05-14T00:56:01.602+0100] {processor.py:161} INFO - Started process (PID=23053) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:01.607+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:56:01.615+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:01.611+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:08.863+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:09.229+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:09.226+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:09.273+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:09.270+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:56:09.327+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.733 seconds
+[2025-05-14T00:56:39.553+0100] {processor.py:161} INFO - Started process (PID=23262) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:39.565+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:56:39.571+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:39.569+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:46.919+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:56:47.102+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:47.101+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:47.132+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:47.130+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:56:47.179+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 7.636 seconds
+[2025-05-14T00:57:17.965+0100] {processor.py:161} INFO - Started process (PID=23512) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:57:17.976+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:57:17.984+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:17.980+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:57:26.838+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:57:27.088+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:27.086+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:27.122+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:27.120+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:57:27.177+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 9.224 seconds
+[2025-05-14T00:57:57.558+0100] {processor.py:161} INFO - Started process (PID=23722) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:57:57.561+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:57:57.566+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:57.564+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:58:02.464+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:58:02.636+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:02.632+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:02.656+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:02.654+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:58:02.695+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 5.145 seconds
+[2025-05-14T00:58:33.249+0100] {processor.py:161} INFO - Started process (PID=23926) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:58:33.254+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:58:33.258+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:33.256+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:58:37.726+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:58:38.008+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:38.006+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:38.039+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:38.037+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:58:38.083+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 4.841 seconds
+[2025-05-14T00:59:10.939+0100] {processor.py:161} INFO - Started process (PID=24144) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:10.942+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:59:10.945+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:10.944+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:17.447+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:17.629+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:17.628+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:17.649+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:17.648+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:59:17.687+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 6.753 seconds
+[2025-05-14T00:59:47.980+0100] {processor.py:161} INFO - Started process (PID=24347) to work on /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:47.990+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/dag_etl.py for tasks to queue
+[2025-05-14T00:59:47.994+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:47.992+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:52.421+0100] {processor.py:840} INFO - DAG(s) 'Simple_etl' retrieved from /home/osama/airflow/dags/dag_etl.py
+[2025-05-14T00:59:52.614+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:52.612+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:52.630+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:52.629+0100] {dag.py:3823} INFO - Setting next_dagrun for Simple_etl to None, run_after=None
+[2025-05-14T00:59:52.666+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/dag_etl.py took 4.694 seconds

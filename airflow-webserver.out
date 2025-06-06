@@ -1,0 +1,2 @@
+[[34m2025-05-14T09:39:03.432+0100[0m] {[34mwebserver_command.py:[0m222} ERROR[0m - No response from gunicorn master within 120 seconds[0m
+[[34m2025-05-14T09:39:03.436+0100[0m] {[34mwebserver_command.py:[0m223} ERROR[0m - Shutting down webserver[0m

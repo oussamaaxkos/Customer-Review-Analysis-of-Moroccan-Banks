@@ -1,0 +1,33 @@
+[2025-05-19T16:26:12.197+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.run_clean_reviews manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T16:26:12.206+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.run_clean_reviews manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T16:26:12.207+0100] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-05-19T16:26:12.223+0100] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_clean_reviews> on 2025-05-19 10:58:39.511715+00:00
+[2025-05-19T16:26:12.229+0100] {standard_task_runner.py:60} INFO - Started process 97027 to run task
+[2025-05-19T16:26:12.233+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'scrape_and_insert_bank_reviews', 'run_clean_reviews', 'manual__2025-05-19T10:58:39.511715+00:00', '--job-id', '1930', '--raw', '--subdir', 'DAGS_FOLDER/S_G_M_R.py', '--cfg-path', '/tmp/tmpguau1wd5']
+[2025-05-19T16:26:12.234+0100] {standard_task_runner.py:88} INFO - Job 1930: Subtask run_clean_reviews
+[2025-05-19T16:26:12.296+0100] {task_command.py:423} INFO - Running <TaskInstance: scrape_and_insert_bank_reviews.run_clean_reviews manual__2025-05-19T10:58:39.511715+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-19T16:26:12.571+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='scrape_and_insert_bank_reviews' AIRFLOW_CTX_TASK_ID='run_clean_reviews' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T10:58:39.511715+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T10:58:39.511715+00:00'
+[2025-05-19T16:26:12.574+0100] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-19T16:26:12.575+0100] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/airflow/dbt_project && dbt run --select clean_bank_reviews']
+[2025-05-19T16:26:12.586+0100] {subprocess.py:86} INFO - Output:
+[2025-05-19T16:26:23.643+0100] {subprocess.py:93} INFO - [0m15:26:23  Running with dbt=1.8.7
+[2025-05-19T16:26:25.828+0100] {subprocess.py:93} INFO - [0m15:26:25  Registered adapter: postgres=1.8.2
+[2025-05-19T16:26:28.651+0100] {subprocess.py:93} INFO - [0m15:26:28  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-05-19T16:26:28.652+0100] {subprocess.py:93} INFO - There are 1 unused configuration paths:
+[2025-05-19T16:26:28.653+0100] {subprocess.py:93} INFO - - models.dbt_project.forPy
+[2025-05-19T16:26:29.029+0100] {subprocess.py:93} INFO - [0m15:26:29  Found 8 models, 1 seed, 4 data tests, 1 source, 540 macros
+[2025-05-19T16:26:29.030+0100] {subprocess.py:93} INFO - [0m15:26:29
+[2025-05-19T16:26:31.725+0100] {subprocess.py:93} INFO - [0m15:26:31  Concurrency: 4 threads (target='dev')
+[2025-05-19T16:26:31.726+0100] {subprocess.py:93} INFO - [0m15:26:31
+[2025-05-19T16:26:31.731+0100] {subprocess.py:93} INFO - [0m15:26:31  1 of 1 START sql view model public.clean_bank_reviews .......................... [RUN]
+[2025-05-19T16:26:31.878+0100] {subprocess.py:93} INFO - [0m15:26:31  1 of 1 OK created sql view model public.clean_bank_reviews ..................... [[32mCREATE VIEW[0m in 0.14s]
+[2025-05-19T16:26:31.899+0100] {subprocess.py:93} INFO - [0m15:26:31
+[2025-05-19T16:26:31.901+0100] {subprocess.py:93} INFO - [0m15:26:31  Finished running 1 view model in 0 hours 0 minutes and 2.87 seconds (2.87s).
+[2025-05-19T16:26:32.034+0100] {subprocess.py:93} INFO - [0m15:26:32
+[2025-05-19T16:26:32.035+0100] {subprocess.py:93} INFO - [0m15:26:32  [32mCompleted successfully[0m
+[2025-05-19T16:26:32.036+0100] {subprocess.py:93} INFO - [0m15:26:32
+[2025-05-19T16:26:32.037+0100] {subprocess.py:93} INFO - [0m15:26:32  Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[2025-05-19T16:26:32.958+0100] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-05-19T16:26:32.993+0100] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=scrape_and_insert_bank_reviews, task_id=run_clean_reviews, execution_date=20250519T105839, start_date=20250519T152612, end_date=20250519T152632
+[2025-05-19T16:26:33.026+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-05-19T16:26:33.054+0100] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,61 @@
+[2025-05-14T00:52:38.791+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T00:52:38.810+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T00:52:38.812+0100] {taskinstance.py:2170} INFO - Starting attempt 2 of 3
+[2025-05-14T00:52:38.837+0100] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_decision_models> on 2025-05-13 23:44:36.782331+00:00
+[2025-05-14T00:52:38.852+0100] {standard_task_runner.py:60} INFO - Started process 21789 to run task
+[2025-05-14T00:52:38.858+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'process_bank_reviews', 'run_decision_models', 'manual__2025-05-13T23:44:36.782331+00:00', '--job-id', '1895', '--raw', '--subdir', 'DAGS_FOLDER/post_processing.py', '--cfg-path', '/tmp/tmpd1bt9wwl']
+[2025-05-14T00:52:38.863+0100] {standard_task_runner.py:88} INFO - Job 1895: Subtask run_decision_models
+[2025-05-14T00:52:38.990+0100] {task_command.py:423} INFO - Running <TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-14T00:52:39.173+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='process_bank_reviews' AIRFLOW_CTX_TASK_ID='run_decision_models' AIRFLOW_CTX_EXECUTION_DATE='2025-05-13T23:44:36.782331+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-13T23:44:36.782331+00:00'
+[2025-05-14T00:52:39.178+0100] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-14T00:52:39.180+0100] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/airflow/dbt_project && dbt run']
+[2025-05-14T00:52:39.204+0100] {subprocess.py:86} INFO - Output:
+[2025-05-14T00:53:07.488+0100] {subprocess.py:93} INFO - [0m23:53:07  Running with dbt=1.8.7
+[2025-05-14T00:53:10.736+0100] {subprocess.py:93} INFO - [0m23:53:10  Registered adapter: postgres=1.8.2
+[2025-05-14T00:53:17.102+0100] {subprocess.py:93} INFO - [0m23:53:17  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-05-14T00:53:17.104+0100] {subprocess.py:93} INFO - There are 1 unused configuration paths:
+[2025-05-14T00:53:17.105+0100] {subprocess.py:93} INFO - - models.dbt_project.forPy
+[2025-05-14T00:53:18.133+0100] {subprocess.py:93} INFO - [0m23:53:18  Found 8 models, 1 seed, 19 data tests, 2 sources, 540 macros
+[2025-05-14T00:53:18.138+0100] {subprocess.py:93} INFO - [0m23:53:18
+[2025-05-14T00:53:21.980+0100] {subprocess.py:93} INFO - [0m23:53:21  Concurrency: 3 threads (target='dev')
+[2025-05-14T00:53:21.982+0100] {subprocess.py:93} INFO - [0m23:53:21
+[2025-05-14T00:53:21.991+0100] {subprocess.py:93} INFO - [0m23:53:21  1 of 8 START sql view model public.clean_bank_reviews .......................... [RUN]
+[2025-05-14T00:53:21.996+0100] {subprocess.py:93} INFO - [0m23:53:21  2 of 8 START sql table model public_decision_schema.dim_bank ................... [RUN]
+[2025-05-14T00:53:21.999+0100] {subprocess.py:93} INFO - [0m23:53:21  3 of 8 START sql table model public_decision_schema.dim_branch ................. [RUN]
+[2025-05-14T00:53:22.899+0100] {subprocess.py:93} INFO - [0m23:53:22  3 of 8 OK created sql table model public_decision_schema.dim_branch ............ [[32mSELECT 14[0m in 0.89s]
+[2025-05-14T00:53:22.901+0100] {subprocess.py:93} INFO - [0m23:53:22  1 of 8 OK created sql view model public.clean_bank_reviews ..................... [[32mCREATE VIEW[0m in 0.89s]
+[2025-05-14T00:53:22.903+0100] {subprocess.py:93} INFO - [0m23:53:22  2 of 8 OK created sql table model public_decision_schema.dim_bank .............. [[32mSELECT 3[0m in 0.89s]
+[2025-05-14T00:53:22.917+0100] {subprocess.py:93} INFO - [0m23:53:22  4 of 8 START sql table model public_decision_schema.dim_location ............... [RUN]
+[2025-05-14T00:53:22.920+0100] {subprocess.py:93} INFO - [0m23:53:22  5 of 8 START sql table model public_decision_schema.dim_sentiment .............. [RUN]
+[2025-05-14T00:53:22.922+0100] {subprocess.py:93} INFO - [0m23:53:22  6 of 8 START sql table model public_decision_schema.fact_reviews ............... [RUN]
+[2025-05-14T00:53:23.226+0100] {subprocess.py:93} INFO - [0m23:53:23  5 of 8 OK created sql table model public_decision_schema.dim_sentiment ......... [[32mSELECT 3[0m in 0.30s]
+[2025-05-14T00:53:23.229+0100] {subprocess.py:93} INFO - [0m23:53:23  4 of 8 OK created sql table model public_decision_schema.dim_location .......... [[32mSELECT 14[0m in 0.30s]
+[2025-05-14T00:53:23.238+0100] {subprocess.py:93} INFO - [0m23:53:23  7 of 8 START sql table model public.my_first_dbt_model ......................... [RUN]
+[2025-05-14T00:53:23.401+0100] {subprocess.py:93} INFO - [0m23:53:23  7 of 8 OK created sql table model public.my_first_dbt_model .................... [[32mSELECT 2[0m in 0.16s]
+[2025-05-14T00:53:23.415+0100] {subprocess.py:93} INFO - [0m23:53:23  8 of 8 START sql view model public.my_second_dbt_model ......................... [RUN]
+[2025-05-14T00:53:23.467+0100] {subprocess.py:93} INFO - [0m23:53:23  6 of 8 ERROR creating sql table model public_decision_schema.fact_reviews ...... [[31mERROR[0m in 0.54s]
+[2025-05-14T00:53:23.547+0100] {subprocess.py:93} INFO - [0m23:53:23  8 of 8 OK created sql view model public.my_second_dbt_model .................... [[32mCREATE VIEW[0m in 0.13s]
+[2025-05-14T00:53:23.589+0100] {subprocess.py:93} INFO - [0m23:53:23
+[2025-05-14T00:53:23.594+0100] {subprocess.py:93} INFO - [0m23:53:23  Finished running 6 table models, 2 view models in 0 hours 0 minutes and 5.45 seconds (5.45s).
+[2025-05-14T00:53:23.730+0100] {subprocess.py:93} INFO - [0m23:53:23
+[2025-05-14T00:53:23.732+0100] {subprocess.py:93} INFO - [0m23:53:23  [31mCompleted with 1 error and 0 warnings:[0m
+[2025-05-14T00:53:23.734+0100] {subprocess.py:93} INFO - [0m23:53:23
+[2025-05-14T00:53:23.735+0100] {subprocess.py:93} INFO - [0m23:53:23    Database Error in model fact_reviews (models/decision_schema/fact_reviews.sql)
+[2025-05-14T00:53:23.737+0100] {subprocess.py:93} INFO -   column "topic_meaning" does not exist
+[2025-05-14T00:53:23.738+0100] {subprocess.py:93} INFO -   LINE 21:         topic_meaning,
+[2025-05-14T00:53:23.741+0100] {subprocess.py:93} INFO -                    ^
+[2025-05-14T00:53:23.744+0100] {subprocess.py:93} INFO -   compiled code at target/run/dbt_project/models/decision_schema/fact_reviews.sql
+[2025-05-14T00:53:23.746+0100] {subprocess.py:93} INFO - [0m23:53:23
+[2025-05-14T00:53:23.748+0100] {subprocess.py:93} INFO - [0m23:53:23  Done. PASS=7 WARN=0 ERROR=1 SKIP=0 TOTAL=8
+[2025-05-14T00:53:24.981+0100] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-05-14T00:53:25.012+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-05-14T00:53:25.032+0100] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=process_bank_reviews, task_id=run_decision_models, execution_date=20250513T234436, start_date=20250513T235238, end_date=20250513T235325
+[2025-05-14T00:53:25.061+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1895 for task run_decision_models (Bash command failed. The command returned a non-zero exit code 1.; 21789)
+[2025-05-14T00:53:25.114+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-14T00:53:25.161+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

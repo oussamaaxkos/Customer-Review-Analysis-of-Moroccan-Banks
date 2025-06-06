@@ -1,0 +1,25 @@
+[2025-05-14T11:25:53.321+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T11:25:53.337+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T11:25:53.339+0100] {taskinstance.py:2170} INFO - Starting attempt 4 of 5
+[2025-05-14T11:25:53.373+0100] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_decision_models> on 2025-05-13 23:44:36.782331+00:00
+[2025-05-14T11:25:53.385+0100] {standard_task_runner.py:60} INFO - Started process 79917 to run task
+[2025-05-14T11:25:53.392+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'process_bank_reviews', 'run_decision_models', 'manual__2025-05-13T23:44:36.782331+00:00', '--job-id', '1904', '--raw', '--subdir', 'DAGS_FOLDER/post_processing.py', '--cfg-path', '/tmp/tmpn0eg6u2g']
+[2025-05-14T11:25:53.397+0100] {standard_task_runner.py:88} INFO - Job 1904: Subtask run_decision_models
+[2025-05-14T11:25:53.535+0100] {task_command.py:423} INFO - Running <TaskInstance: process_bank_reviews.run_decision_models manual__2025-05-13T23:44:36.782331+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-14T11:25:53.738+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='process_bank_reviews' AIRFLOW_CTX_TASK_ID='run_decision_models' AIRFLOW_CTX_EXECUTION_DATE='2025-05-13T23:44:36.782331+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-13T23:44:36.782331+00:00'
+[2025-05-14T11:25:53.744+0100] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-14T11:25:53.747+0100] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/airflow/dbt_project/decision_schema && dbt run']
+[2025-05-14T11:25:53.775+0100] {subprocess.py:86} INFO - Output:
+[2025-05-14T11:25:53.778+0100] {subprocess.py:93} INFO - /usr/bin/bash: line 0: cd: /home/osama/airflow/dbt_project/decision_schema: No such file or directory
+[2025-05-14T11:25:53.781+0100] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-05-14T11:25:53.815+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-05-14T11:25:53.839+0100] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=process_bank_reviews, task_id=run_decision_models, execution_date=20250513T234436, start_date=20250514T102553, end_date=20250514T102553
+[2025-05-14T11:25:53.867+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1904 for task run_decision_models (Bash command failed. The command returned a non-zero exit code 1.; 79917)
+[2025-05-14T11:25:53.889+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-14T11:25:53.923+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

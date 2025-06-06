@@ -1,0 +1,7 @@
+# version: 2
+
+# sources:
+#   - name: public
+#     tables:
+#       - name: bank_agency_reviews
+#       - name: final_reviews  # Add this line to define the missing source

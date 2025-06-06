@@ -1,0 +1,14 @@
+[2025-05-19T14:08:01.773+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: process_bank_reviews.process_reviews manual__2025-05-19T11:20:46.404123+00:00 [queued]>
+[2025-05-19T14:08:01.792+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: process_bank_reviews.process_reviews manual__2025-05-19T11:20:46.404123+00:00 [queued]>
+[2025-05-19T14:08:01.794+0100] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2025-05-19T14:08:01.825+0100] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): process_reviews> on 2025-05-19 11:20:46.404123+00:00
+[2025-05-19T14:08:01.841+0100] {standard_task_runner.py:60} INFO - Started process 81728 to run task
+[2025-05-19T14:08:01.849+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'process_bank_reviews', 'process_reviews', 'manual__2025-05-19T11:20:46.404123+00:00', '--job-id', '1926', '--raw', '--subdir', 'DAGS_FOLDER/post_processing.py', '--cfg-path', '/tmp/tmpq_mxueiq']
+[2025-05-19T14:08:01.854+0100] {standard_task_runner.py:88} INFO - Job 1926: Subtask process_reviews
+[2025-05-19T14:08:01.985+0100] {task_command.py:423} INFO - Running <TaskInstance: process_bank_reviews.process_reviews manual__2025-05-19T11:20:46.404123+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-19T14:08:02.197+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='process_bank_reviews' AIRFLOW_CTX_TASK_ID='process_reviews' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T11:20:46.404123+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T11:20:46.404123+00:00'
+[2025-05-19T14:10:32.456+0100] {logging_mixin.py:188} INFO - ✅ Post-processing complete!
+[2025-05-19T14:10:32.491+0100] {python.py:201} INFO - Done. Returned value was: None
+[2025-05-19T14:10:32.519+0100] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=process_bank_reviews, task_id=process_reviews, execution_date=20250519T112046, start_date=20250519T130801, end_date=20250519T131032
+[2025-05-19T14:10:32.734+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-05-19T14:10:32.785+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

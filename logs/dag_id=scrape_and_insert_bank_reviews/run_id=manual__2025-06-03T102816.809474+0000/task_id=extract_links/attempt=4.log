@@ -1,0 +1,284 @@
+[2025-06-03T18:38:26.532+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.extract_links manual__2025-06-03T10:28:16.809474+00:00 [queued]>
+[2025-06-03T18:38:26.557+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.extract_links manual__2025-06-03T10:28:16.809474+00:00 [queued]>
+[2025-06-03T18:38:26.560+0100] {taskinstance.py:2170} INFO - Starting attempt 4 of 3
+[2025-06-03T18:38:26.596+0100] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): extract_links> on 2025-06-03 10:28:16.809474+00:00
+[2025-06-03T18:38:26.614+0100] {standard_task_runner.py:60} INFO - Started process 59602 to run task
+[2025-06-03T18:38:26.622+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'scrape_and_insert_bank_reviews', 'extract_links', 'manual__2025-06-03T10:28:16.809474+00:00', '--job-id', '1969', '--raw', '--subdir', 'DAGS_FOLDER/S_G_M_R.py', '--cfg-path', '/tmp/tmpva1ywmfz']
+[2025-06-03T18:38:26.629+0100] {standard_task_runner.py:88} INFO - Job 1969: Subtask extract_links
+[2025-06-03T18:38:26.778+0100] {task_command.py:423} INFO - Running <TaskInstance: scrape_and_insert_bank_reviews.extract_links manual__2025-06-03T10:28:16.809474+00:00 [running]> on host DESKTOP-RRUTCI2.localdomain
+[2025-06-03T18:38:27.445+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='scrape_and_insert_bank_reviews' AIRFLOW_CTX_TASK_ID='extract_links' AIRFLOW_CTX_EXECUTION_DATE='2025-06-03T10:28:16.809474+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-03T10:28:16.809474+00:00'
+[2025-06-03T18:38:28.297+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Casablanca/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.304+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Rabat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.307+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Marrakech/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.320+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Fes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.329+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Tangier/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.335+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Agadir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.338+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Oujda/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.343+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Kenitra/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.347+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Tetouan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.350+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Safi/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.353+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Mohammedia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.356+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Khouribga/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.360+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+El+Jadida/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.363+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Beni+Mellal/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.365+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Nador/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.369+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Taza/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.379+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Settat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.383+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Larache/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.393+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Khemisset/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.418+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Berrechid/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.422+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Guelmim/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.427+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Ouarzazate/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.429+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Errachidia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.433+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Azrou/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.454+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Ifrane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.460+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Essaouira/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.464+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Al+Hoceima/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.466+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Meknes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.469+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Taourirt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.471+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Sidi+Kacem/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.473+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Sidi+Slimane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.475+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Ksar+El+Kebir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.481+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Tan-Tan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.486+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Tiflet/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.492+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Sidi+Bennour/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.496+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Youssoufia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.499+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Zagora/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.503+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Midelt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.505+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Dakhla/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.513+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Attijariwafa+Bank+Laayoune/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.520+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Casablanca/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.526+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Rabat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.530+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Marrakech/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.532+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Fes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.535+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Tangier/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.537+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Agadir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.540+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Oujda/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.542+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Kenitra/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.545+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Tetouan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.547+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Safi/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.550+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Mohammedia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.552+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Khouribga/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.555+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+El+Jadida/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.560+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Beni+Mellal/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.564+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Nador/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.568+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Taza/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.570+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Settat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.573+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Larache/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.575+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Khemisset/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.577+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Berrechid/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.581+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Guelmim/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.583+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Ouarzazate/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.585+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Errachidia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.587+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Azrou/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.591+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Ifrane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.593+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Essaouira/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.595+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Al+Hoceima/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.597+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Meknes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.600+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Taourirt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.602+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Sidi+Kacem/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.604+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Sidi+Slimane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.606+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Ksar+El+Kebir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.611+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Tan-Tan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.614+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Tiflet/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.616+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Sidi+Bennour/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.618+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Youssoufia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.620+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Zagora/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.624+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Midelt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.626+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Dakhla/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.629+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Banque+Populaire+Laayoune/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.631+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Casablanca/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.633+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Rabat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.635+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Marrakech/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.638+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Fes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.643+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Tangier/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.647+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Agadir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.649+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Oujda/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.651+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Kenitra/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.653+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Tetouan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.655+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Safi/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.662+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Mohammedia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.665+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Khouribga/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.667+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+El+Jadida/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.669+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Beni+Mellal/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.671+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Nador/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.673+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Taza/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.675+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Settat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.677+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Larache/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.679+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Khemisset/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.681+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Berrechid/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.682+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Guelmim/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.685+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Ouarzazate/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.687+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Errachidia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.688+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Azrou/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.690+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Ifrane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.692+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Essaouira/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.696+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Al+Hoceima/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.699+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Meknes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.701+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Taourirt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.704+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Sidi+Kacem/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.705+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Sidi+Slimane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.708+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Ksar+El+Kebir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.710+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Tan-Tan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.714+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Tiflet/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.717+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Sidi+Bennour/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.720+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Youssoufia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.722+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Zagora/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.724+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Midelt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.726+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Dakhla/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.728+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/Al+Barid+Bank+Laayoune/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.730+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Casablanca/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.733+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Rabat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.734+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Marrakech/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.736+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Fes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.738+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Tangier/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.740+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Agadir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.742+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Oujda/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.744+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Kenitra/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.745+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Tetouan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.748+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Safi/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.749+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Mohammedia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.753+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Khouribga/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.764+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+El+Jadida/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.770+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Beni+Mellal/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.784+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Nador/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.792+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Taza/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.797+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Settat/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.804+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Larache/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.808+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Khemisset/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.811+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Berrechid/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.815+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Guelmim/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.819+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Ouarzazate/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.822+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Errachidia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.825+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Azrou/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.832+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Ifrane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.850+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Essaouira/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.855+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Al+Hoceima/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.859+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Meknes/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.863+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Taourirt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.867+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Sidi+Kacem/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.870+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Sidi+Slimane/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.874+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Ksar+El+Kebir/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.877+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Tan-Tan/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.880+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Tiflet/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.882+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Sidi+Bennour/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.884+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Youssoufia/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.886+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Zagora/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.889+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Midelt/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.892+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Dakhla/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:28.894+0100] {logging_mixin.py:188} INFO - https://www.google.com/maps/search/CIH+Bank+Laayoune/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D
+[2025-06-03T18:38:34.542+0100] {logging_mixin.py:188} INFO - 🔄 Page: https://www.google.com/maps/search/Attijariwafa+Bank+Casablanca/@31.6237775,-8.0611631,14059m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D | Scroll 1: Found 0 links.
+[2025-06-03T18:38:44.942+0100] {logging_mixin.py:188} INFO - ⚠️ Scrolling Error: Message: 
+Stacktrace:
+#0 0x61849cb97ffa <unknown>
+#1 0x61849c656970 <unknown>
+#2 0x61849c6a8385 <unknown>
+#3 0x61849c6a85b1 <unknown>
+#4 0x61849c6f73c4 <unknown>
+#5 0x61849c6ce2bd <unknown>
+#6 0x61849c6f470c <unknown>
+#7 0x61849c6ce063 <unknown>
+#8 0x61849c69a328 <unknown>
+#9 0x61849c69b491 <unknown>
+#10 0x61849cb5f42b <unknown>
+#11 0x61849cb632ec <unknown>
+#12 0x61849cb46a22 <unknown>
+#13 0x61849cb63e64 <unknown>
+#14 0x61849cb2abef <unknown>
+#15 0x61849cb86558 <unknown>
+#16 0x61849cb86736 <unknown>
+#17 0x61849cb96e76 <unknown>
+#18 0x72b26a27f609 start_thread
+[2025-06-03T18:38:52.133+0100] {local_task_job_runner.py:302} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2025-06-03T18:38:52.166+0100] {process_utils.py:131} INFO - Sending 15 to group 59602. PIDs of all processes in the group: [59620, 59626, 59635, 59636, 59656, 59657, 59714, 59725, 59655, 59602]
+[2025-06-03T18:38:52.171+0100] {process_utils.py:86} INFO - Sending the signal 15 to group 59602
+[2025-06-03T18:38:52.176+0100] {taskinstance.py:2450} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-06-03T18:38:52.180+0100] {logging_mixin.py:188} INFO - ⚠️ No new links loaded after scrolling. Retrying...
+[2025-06-03T18:38:52.310+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59626, status='terminated', started='18:38:26') (59626) terminated with exit code None
+[2025-06-03T18:38:52.313+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59656, status='terminated', started='18:38:27') (59656) terminated with exit code None
+[2025-06-03T18:38:52.316+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59657, status='terminated', started='18:38:27') (59657) terminated with exit code None
+[2025-06-03T18:38:52.321+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59714, status='terminated', started='18:38:27') (59714) terminated with exit code None
+[2025-06-03T18:38:52.324+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59635, status='terminated', started='18:38:26') (59635) terminated with exit code None
+[2025-06-03T18:38:52.327+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59636, status='terminated', started='18:38:26') (59636) terminated with exit code None
+[2025-06-03T18:38:52.329+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59725, status='terminated', started='18:38:28') (59725) terminated with exit code None
+[2025-06-03T18:38:52.332+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59655, status='terminated', started='18:38:27') (59655) terminated with exit code None
+[2025-06-03T18:38:57.191+0100] {connectionpool.py:824} WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x767a6be1c520>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/111c2a3c978b9cb7776770023d6052c2/elements
+[2025-06-03T18:38:57.195+0100] {connectionpool.py:824} WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x767a6be1cb50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/111c2a3c978b9cb7776770023d6052c2/elements
+[2025-06-03T18:38:57.198+0100] {connectionpool.py:824} WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x767a6be1c610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/111c2a3c978b9cb7776770023d6052c2/elements
+[2025-06-03T18:38:57.205+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 715, in urlopen
+    httplib_response = self._make_request(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connection.py", line 244, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.8/http/client.py", line 1256, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1302, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1251, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1011, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.8/http/client.py", line 951, in send
+    self.connect()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x767a6be1cc40>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/osama/airflow/dags/S_G_M_R.py", line 260, in extract_links
+    current_links = extract()
+  File "/home/osama/airflow/dags/S_G_M_R.py", line 245, in extract
+    elements = driver.find_elements(By.CSS_SELECTOR, "a.hfpxzc")
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 792, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 382, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/request.py", line 81, in request
+    return self.request_encode_body(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/request.py", line 173, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/poolmanager.py", line 376, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 827, in urlopen
+    return self.urlopen(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 827, in urlopen
+    return self.urlopen(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 827, in urlopen
+    return self.urlopen(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/connectionpool.py", line 799, in urlopen
+    retries = retries.increment(
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=51471): Max retries exceeded with url: /session/111c2a3c978b9cb7776770023d6052c2/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x767a6be1cc40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2025-06-03T18:38:57.378+0100] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=scrape_and_insert_bank_reviews, task_id=extract_links, execution_date=20250603T102816, start_date=20250603T173826, end_date=20250603T173857
+[2025-06-03T18:38:57.428+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1969 for task extract_links (HTTPConnectionPool(host='localhost', port=51471): Max retries exceeded with url: /session/111c2a3c978b9cb7776770023d6052c2/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x767a6be1cc40>: Failed to establish a new connection: [Errno 111] Connection refused')); 59602)
+[2025-06-03T18:38:57.470+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59620, status='terminated', started='18:38:26') (59620) terminated with exit code None
+[2025-06-03T18:38:57.476+0100] {process_utils.py:79} INFO - Process psutil.Process(pid=59602, status='terminated', exitcode=1, started='18:38:25') (59602) terminated with exit code 1

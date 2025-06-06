@@ -1,0 +1,1320 @@
+[2025-05-22T20:36:09.622+0100] {processor.py:161} INFO - Started process (PID=15535) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:36:09.624+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T20:36:09.627+0100] {logging_mixin.py:188} INFO - [2025-05-22T20:36:09.626+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:36:09.632+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:36:09.665+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.049 seconds
+[2025-05-22T20:37:01.771+0100] {processor.py:161} INFO - Started process (PID=15794) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:01.783+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T20:37:01.789+0100] {logging_mixin.py:188} INFO - [2025-05-22T20:37:01.787+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:01.795+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:01.846+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.083 seconds
+[2025-05-22T20:37:37.649+0100] {processor.py:161} INFO - Started process (PID=16018) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:37.660+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T20:37:37.667+0100] {logging_mixin.py:188} INFO - [2025-05-22T20:37:37.664+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:37.677+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:37:37.712+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.069 seconds
+[2025-05-22T20:38:25.855+0100] {processor.py:161} INFO - Started process (PID=16262) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:38:25.858+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T20:38:25.862+0100] {logging_mixin.py:188} INFO - [2025-05-22T20:38:25.860+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:38:25.867+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T20:38:25.904+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.056 seconds
+[2025-05-22T21:05:05.968+0100] {processor.py:161} INFO - Started process (PID=16419) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:05.971+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:05:05.974+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:05:05.973+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:05.976+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:05.991+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T21:05:44.194+0100] {processor.py:161} INFO - Started process (PID=16594) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:44.196+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:05:44.198+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:05:44.197+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:44.200+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:05:44.217+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T21:06:14.745+0100] {processor.py:161} INFO - Started process (PID=16704) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:14.747+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:06:14.749+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:06:14.748+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:14.751+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:14.774+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T21:06:44.941+0100] {processor.py:161} INFO - Started process (PID=16857) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:44.944+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:06:44.948+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:06:44.946+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:44.950+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:06:44.965+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T21:07:15.189+0100] {processor.py:161} INFO - Started process (PID=17015) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:15.191+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:07:15.194+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:07:15.193+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:15.197+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:15.213+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T21:07:45.570+0100] {processor.py:161} INFO - Started process (PID=17179) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:45.572+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:07:45.574+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:07:45.573+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:45.577+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:07:45.593+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T21:08:16.918+0100] {processor.py:161} INFO - Started process (PID=17347) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:16.920+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:08:16.922+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:08:16.921+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:16.925+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:16.943+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T21:08:53.556+0100] {processor.py:161} INFO - Started process (PID=17475) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:53.571+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:08:53.573+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:08:53.572+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:53.576+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:08:53.602+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.049 seconds
+[2025-05-22T21:09:30.875+0100] {processor.py:161} INFO - Started process (PID=17638) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:09:30.876+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:09:30.878+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:09:30.877+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:09:30.880+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:09:30.896+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.024 seconds
+[2025-05-22T21:10:07.764+0100] {processor.py:161} INFO - Started process (PID=17807) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:07.766+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:10:07.768+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:10:07.767+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:07.770+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:07.787+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T21:10:47.002+0100] {processor.py:161} INFO - Started process (PID=17971) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:47.004+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:10:47.006+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:10:47.005+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:47.009+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:10:47.028+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T21:11:23.130+0100] {processor.py:161} INFO - Started process (PID=18140) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:23.132+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:11:23.133+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:11:23.132+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:23.135+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:23.149+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.022 seconds
+[2025-05-22T21:11:59.447+0100] {processor.py:161} INFO - Started process (PID=18301) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:59.449+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:11:59.452+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:11:59.451+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:59.455+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:11:59.476+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T21:12:35.114+0100] {processor.py:161} INFO - Started process (PID=18475) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:12:35.117+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:12:35.121+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:12:35.119+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:12:35.125+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:12:35.155+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.046 seconds
+[2025-05-22T21:13:08.860+0100] {processor.py:161} INFO - Started process (PID=18619) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:08.862+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:13:08.864+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:13:08.863+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:08.867+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:08.886+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T21:13:39.393+0100] {processor.py:161} INFO - Started process (PID=18743) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:39.395+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:13:39.396+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:13:39.396+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:39.398+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:13:39.413+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.022 seconds
+[2025-05-22T21:14:09.821+0100] {processor.py:161} INFO - Started process (PID=18900) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:09.823+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:14:09.825+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:14:09.824+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:09.828+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:09.843+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T21:14:40.013+0100] {processor.py:161} INFO - Started process (PID=19079) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:40.015+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:14:40.018+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:14:40.017+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:40.021+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:14:40.040+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T21:15:10.898+0100] {processor.py:161} INFO - Started process (PID=19242) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:10.900+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:15:10.903+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:15:10.902+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:10.907+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:10.930+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T21:15:41.056+0100] {processor.py:161} INFO - Started process (PID=19404) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:41.058+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:15:41.060+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:15:41.059+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:41.063+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:15:41.079+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T21:16:11.361+0100] {processor.py:161} INFO - Started process (PID=19559) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:11.370+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:16:11.372+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:16:11.372+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:11.379+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:11.402+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.043 seconds
+[2025-05-22T21:16:41.567+0100] {processor.py:161} INFO - Started process (PID=19719) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:41.577+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:16:41.581+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:16:41.579+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:41.584+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:16:41.601+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T21:17:11.825+0100] {processor.py:161} INFO - Started process (PID=19886) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:11.832+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:17:11.834+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:17:11.833+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:11.836+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:11.850+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T21:17:42.763+0100] {processor.py:161} INFO - Started process (PID=20036) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:42.764+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:17:42.766+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:17:42.765+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:42.768+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:17:42.782+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.022 seconds
+[2025-05-22T21:18:19.843+0100] {processor.py:161} INFO - Started process (PID=20187) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:19.845+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:18:19.846+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:18:19.845+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:19.848+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:19.863+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.022 seconds
+[2025-05-22T21:18:58.976+0100] {processor.py:161} INFO - Started process (PID=20359) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:58.978+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:18:58.980+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:18:58.979+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:58.983+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:18:59.003+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T21:19:36.153+0100] {processor.py:161} INFO - Started process (PID=20532) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:19:36.156+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:19:36.158+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:19:36.157+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:19:36.160+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:19:36.181+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T21:20:11.401+0100] {processor.py:161} INFO - Started process (PID=20697) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:11.403+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:20:11.406+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:20:11.404+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:11.408+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:11.427+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T21:20:54.941+0100] {processor.py:161} INFO - Started process (PID=20868) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:54.943+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:20:54.945+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:20:54.944+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:54.948+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:20:54.968+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T21:21:55.653+0100] {processor.py:161} INFO - Started process (PID=21049) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:21:55.667+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:21:55.676+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:21:55.673+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:21:55.695+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:21:55.785+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.143 seconds
+[2025-05-22T21:22:56.674+0100] {processor.py:161} INFO - Started process (PID=21284) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:22:56.678+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:22:56.682+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:22:56.681+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:22:56.688+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:22:56.728+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T21:23:49.869+0100] {processor.py:161} INFO - Started process (PID=21493) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:23:49.873+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:23:49.881+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:23:49.878+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:23:49.892+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:23:49.935+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T21:24:44.203+0100] {processor.py:161} INFO - Started process (PID=21725) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:24:44.213+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:24:44.218+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:24:44.216+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:24:44.224+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:24:44.275+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.079 seconds
+[2025-05-22T21:25:20.211+0100] {processor.py:161} INFO - Started process (PID=21894) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:20.214+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:25:20.219+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:25:20.216+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:20.224+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:20.262+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T21:25:59.100+0100] {processor.py:161} INFO - Started process (PID=22050) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:59.104+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:25:59.108+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:25:59.107+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:59.114+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:25:59.154+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.059 seconds
+[2025-05-22T21:26:42.120+0100] {processor.py:161} INFO - Started process (PID=22204) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:26:42.128+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:26:42.134+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:26:42.132+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:26:42.142+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:26:42.182+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.069 seconds
+[2025-05-22T21:27:16.981+0100] {processor.py:161} INFO - Started process (PID=22325) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:16.985+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:27:16.989+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:27:16.987+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:16.996+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:17.036+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.062 seconds
+[2025-05-22T21:27:54.866+0100] {processor.py:161} INFO - Started process (PID=22482) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:54.869+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:27:54.873+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:27:54.871+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:54.877+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:27:54.912+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.052 seconds
+[2025-05-22T21:28:35.227+0100] {processor.py:161} INFO - Started process (PID=22650) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:28:35.232+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:28:35.236+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:28:35.234+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:28:35.242+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:28:35.275+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.052 seconds
+[2025-05-22T21:29:21.423+0100] {processor.py:161} INFO - Started process (PID=22833) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:29:21.428+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:29:21.433+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:29:21.430+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:29:21.439+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:29:21.486+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T21:30:01.802+0100] {processor.py:161} INFO - Started process (PID=22962) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:01.808+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:30:01.814+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:30:01.812+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:01.821+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:01.856+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.059 seconds
+[2025-05-22T21:30:38.679+0100] {processor.py:161} INFO - Started process (PID=23116) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:38.684+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:30:38.689+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:30:38.687+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:38.697+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:30:38.733+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.060 seconds
+[2025-05-22T21:31:09.734+0100] {processor.py:161} INFO - Started process (PID=23255) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:09.737+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:31:09.742+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:31:09.740+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:09.747+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:09.791+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.063 seconds
+[2025-05-22T21:31:48.045+0100] {processor.py:161} INFO - Started process (PID=23375) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:48.048+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:31:48.051+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:31:48.049+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:48.056+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:31:48.088+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.049 seconds
+[2025-05-22T21:32:26.427+0100] {processor.py:161} INFO - Started process (PID=23530) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:32:26.430+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:32:26.435+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:32:26.433+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:32:26.440+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:32:26.480+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.059 seconds
+[2025-05-22T21:33:06.314+0100] {processor.py:161} INFO - Started process (PID=23683) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:06.318+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:33:06.323+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:33:06.320+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:06.329+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:06.373+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T21:33:45.327+0100] {processor.py:161} INFO - Started process (PID=23808) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:45.337+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:33:45.343+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:33:45.341+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:45.350+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:33:45.391+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T21:34:16.858+0100] {processor.py:161} INFO - Started process (PID=23955) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:16.862+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:34:16.867+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:34:16.865+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:16.872+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:16.907+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.055 seconds
+[2025-05-22T21:34:57.072+0100] {processor.py:161} INFO - Started process (PID=24112) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:57.077+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:34:57.083+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:34:57.080+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:57.088+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:34:57.122+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T21:35:40.830+0100] {processor.py:161} INFO - Started process (PID=24264) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:35:40.838+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:35:40.845+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:35:40.842+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:35:40.853+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:35:40.896+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.073 seconds
+[2025-05-22T21:36:31.976+0100] {processor.py:161} INFO - Started process (PID=24427) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:36:31.980+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:36:31.984+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:36:31.982+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:36:31.989+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:36:32.019+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.047 seconds
+[2025-05-22T21:37:02.921+0100] {processor.py:161} INFO - Started process (PID=24535) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:02.924+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:37:02.929+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:37:02.927+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:02.934+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:02.971+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T21:37:43.678+0100] {processor.py:161} INFO - Started process (PID=24689) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:43.681+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:37:43.685+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:37:43.683+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:43.690+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:37:43.722+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.050 seconds
+[2025-05-22T21:38:25.076+0100] {processor.py:161} INFO - Started process (PID=24817) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:38:25.080+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:38:25.084+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:38:25.082+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:38:25.089+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:38:25.121+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.051 seconds
+[2025-05-22T21:39:12.246+0100] {processor.py:161} INFO - Started process (PID=24989) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:39:12.251+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:39:12.261+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:39:12.258+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:39:12.270+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:39:12.315+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.077 seconds
+[2025-05-22T21:40:11.522+0100] {processor.py:161} INFO - Started process (PID=25207) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:11.528+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:40:11.536+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:40:11.532+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:11.544+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:11.590+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.075 seconds
+[2025-05-22T21:40:43.296+0100] {processor.py:161} INFO - Started process (PID=25356) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:43.307+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:40:43.314+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:40:43.311+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:43.322+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:40:43.365+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T21:41:19.915+0100] {processor.py:161} INFO - Started process (PID=25505) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:19.921+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:41:19.926+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:41:19.923+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:19.933+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:19.973+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.064 seconds
+[2025-05-22T21:41:57.431+0100] {processor.py:161} INFO - Started process (PID=25620) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:57.444+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:41:57.453+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:41:57.449+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:57.463+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:41:57.526+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.112 seconds
+[2025-05-22T21:42:33.835+0100] {processor.py:161} INFO - Started process (PID=25774) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:42:33.845+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:42:33.850+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:42:33.848+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:42:33.856+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:42:33.894+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.064 seconds
+[2025-05-22T21:43:20.551+0100] {processor.py:161} INFO - Started process (PID=25940) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:43:20.557+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:43:20.562+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:43:20.560+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:43:20.570+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:43:20.629+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.086 seconds
+[2025-05-22T21:44:05.886+0100] {processor.py:161} INFO - Started process (PID=26113) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:05.890+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:44:05.895+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:44:05.893+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:05.904+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:05.951+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T21:44:51.307+0100] {processor.py:161} INFO - Started process (PID=26237) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:51.311+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:44:51.319+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:44:51.314+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:51.328+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:44:51.380+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.083 seconds
+[2025-05-22T21:45:30.319+0100] {processor.py:161} INFO - Started process (PID=26394) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:45:30.327+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:45:30.334+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:45:30.330+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:45:30.344+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:45:30.404+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.096 seconds
+[2025-05-22T21:46:21.555+0100] {processor.py:161} INFO - Started process (PID=26564) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:46:21.559+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:46:21.562+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:46:21.561+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:46:21.567+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:46:21.609+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.059 seconds
+[2025-05-22T21:47:08.012+0100] {processor.py:161} INFO - Started process (PID=26725) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:47:08.016+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:47:08.022+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:47:08.019+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:47:08.029+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:47:08.069+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.063 seconds
+[2025-05-22T21:48:05.367+0100] {processor.py:161} INFO - Started process (PID=26908) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:05.372+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:48:05.378+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:48:05.376+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:05.384+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:05.433+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T21:48:53.220+0100] {processor.py:161} INFO - Started process (PID=27138) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:53.226+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:48:53.232+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:48:53.230+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:53.238+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:48:53.282+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.068 seconds
+[2025-05-22T21:49:32.700+0100] {processor.py:161} INFO - Started process (PID=27278) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:49:32.704+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:49:32.709+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:49:32.707+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:49:32.715+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:49:32.749+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T21:50:08.973+0100] {processor.py:161} INFO - Started process (PID=27419) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:08.976+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:50:08.979+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:50:08.978+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:08.984+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:09.021+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.054 seconds
+[2025-05-22T21:50:47.914+0100] {processor.py:161} INFO - Started process (PID=27573) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:47.923+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:50:47.928+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:50:47.926+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:47.933+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:50:47.968+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.061 seconds
+[2025-05-22T21:51:23.725+0100] {processor.py:161} INFO - Started process (PID=27747) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:51:23.729+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:51:23.734+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:51:23.732+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:51:23.743+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:51:23.787+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.073 seconds
+[2025-05-22T21:52:05.391+0100] {processor.py:161} INFO - Started process (PID=27872) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:05.394+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:52:05.403+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:52:05.400+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:05.412+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:05.465+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.083 seconds
+[2025-05-22T21:52:44.252+0100] {processor.py:161} INFO - Started process (PID=28054) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:44.255+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:52:44.260+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:52:44.258+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:44.265+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:52:44.299+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.053 seconds
+[2025-05-22T21:53:27.586+0100] {processor.py:161} INFO - Started process (PID=28267) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:53:27.590+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:53:27.595+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:53:27.593+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:53:27.605+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:53:27.653+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T21:54:06.528+0100] {processor.py:161} INFO - Started process (PID=28402) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:06.532+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:54:06.538+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:54:06.536+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:06.549+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:06.597+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.075 seconds
+[2025-05-22T21:54:44.053+0100] {processor.py:161} INFO - Started process (PID=28552) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:44.057+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:54:44.063+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:54:44.060+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:44.068+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:54:44.102+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.054 seconds
+[2025-05-22T21:55:23.146+0100] {processor.py:161} INFO - Started process (PID=28703) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:55:23.152+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:55:23.157+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:55:23.155+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:55:23.167+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:55:23.223+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.084 seconds
+[2025-05-22T21:56:13.371+0100] {processor.py:161} INFO - Started process (PID=28825) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:13.376+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:56:13.381+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:56:13.379+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:13.389+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:13.438+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T21:56:44.968+0100] {processor.py:161} INFO - Started process (PID=28971) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:44.972+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:56:44.978+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:56:44.975+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:44.984+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:56:45.038+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.080 seconds
+[2025-05-22T21:57:32.491+0100] {processor.py:161} INFO - Started process (PID=29113) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:57:32.495+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:57:32.500+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:57:32.498+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:57:32.506+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:57:32.547+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T21:58:23.140+0100] {processor.py:161} INFO - Started process (PID=29288) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:58:23.143+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:58:23.147+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:58:23.145+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:58:23.153+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:58:23.189+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.056 seconds
+[2025-05-22T21:59:12.722+0100] {processor.py:161} INFO - Started process (PID=29464) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:59:12.726+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T21:59:12.731+0100] {logging_mixin.py:188} INFO - [2025-05-22T21:59:12.729+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:59:12.736+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T21:59:12.780+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.064 seconds
+[2025-05-22T22:00:04.205+0100] {processor.py:161} INFO - Started process (PID=29636) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:04.211+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:00:04.219+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:00:04.214+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:04.225+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:04.273+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.078 seconds
+[2025-05-22T22:00:52.806+0100] {processor.py:161} INFO - Started process (PID=29807) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:52.808+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:00:52.810+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:00:52.809+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:52.812+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:00:52.827+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.024 seconds
+[2025-05-22T22:01:26.823+0100] {processor.py:161} INFO - Started process (PID=29968) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:01:26.824+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:01:26.826+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:01:26.825+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:01:26.828+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:01:26.843+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.023 seconds
+[2025-05-22T22:02:05.166+0100] {processor.py:161} INFO - Started process (PID=30140) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:05.168+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:02:05.169+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:02:05.168+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:05.171+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:05.189+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T22:02:41.972+0100] {processor.py:161} INFO - Started process (PID=30302) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:41.974+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:02:41.976+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:02:41.975+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:41.979+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:02:41.997+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T22:03:19.089+0100] {processor.py:161} INFO - Started process (PID=30476) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:19.091+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:03:19.092+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:03:19.091+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:19.094+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:19.111+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.024 seconds
+[2025-05-22T22:03:55.524+0100] {processor.py:161} INFO - Started process (PID=30654) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:55.526+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:03:55.528+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:03:55.527+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:55.530+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:03:55.545+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.023 seconds
+[2025-05-22T22:04:33.446+0100] {processor.py:161} INFO - Started process (PID=30815) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:04:33.448+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:04:33.450+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:04:33.449+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:04:33.453+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:04:33.471+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T22:05:09.923+0100] {processor.py:161} INFO - Started process (PID=30972) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:09.925+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:05:09.927+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:05:09.927+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:09.930+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:09.951+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T22:05:46.444+0100] {processor.py:161} INFO - Started process (PID=31123) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:46.445+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:05:46.447+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:05:46.446+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:46.449+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:05:46.464+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.023 seconds
+[2025-05-22T22:06:23.246+0100] {processor.py:161} INFO - Started process (PID=31296) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:23.247+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:06:23.248+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:06:23.248+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:23.251+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:23.266+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.023 seconds
+[2025-05-22T22:06:58.266+0100] {processor.py:161} INFO - Started process (PID=31459) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:58.268+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:06:58.270+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:06:58.269+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:58.273+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:06:58.297+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.036 seconds
+[2025-05-22T22:07:28.824+0100] {processor.py:161} INFO - Started process (PID=31631) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:28.826+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:07:28.828+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:07:28.827+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:28.831+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:28.850+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:07:59.117+0100] {processor.py:161} INFO - Started process (PID=31831) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:59.125+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:07:59.127+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:07:59.126+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:59.130+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:07:59.147+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:08:29.236+0100] {processor.py:161} INFO - Started process (PID=32012) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:29.237+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:08:29.238+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:08:29.238+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:29.240+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:29.256+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.023 seconds
+[2025-05-22T22:08:59.654+0100] {processor.py:161} INFO - Started process (PID=32171) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:59.657+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:08:59.660+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:08:59.659+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:59.663+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:08:59.684+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:09:30.115+0100] {processor.py:161} INFO - Started process (PID=32338) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:09:30.117+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:09:30.120+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:09:30.119+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:09:30.123+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:09:30.147+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T22:10:00.362+0100] {processor.py:161} INFO - Started process (PID=32476) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:00.364+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:10:00.367+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:10:00.366+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:00.370+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:00.389+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:10:34.427+0100] {processor.py:161} INFO - Started process (PID=32620) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:34.429+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:10:34.432+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:10:34.430+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:34.435+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:10:34.456+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:11:04.477+0100] {processor.py:161} INFO - Started process (PID=32748) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:04.484+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:11:04.486+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:11:04.485+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:04.489+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:04.504+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:11:34.716+0100] {processor.py:161} INFO - Started process (PID=32899) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:34.718+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:11:34.719+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:11:34.718+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:34.722+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:11:34.742+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:12:06.046+0100] {processor.py:161} INFO - Started process (PID=33059) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:06.048+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:12:06.050+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:12:06.049+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:06.055+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:06.076+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:12:37.852+0100] {processor.py:161} INFO - Started process (PID=33208) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:37.855+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:12:37.857+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:12:37.856+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:37.862+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:12:37.891+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.045 seconds
+[2025-05-22T22:13:11.063+0100] {processor.py:161} INFO - Started process (PID=33324) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:11.064+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:13:11.066+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:13:11.065+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:11.068+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:11.084+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.024 seconds
+[2025-05-22T22:13:41.142+0100] {processor.py:161} INFO - Started process (PID=33470) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:41.145+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:13:41.148+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:13:41.147+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:41.150+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:13:41.170+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:14:11.205+0100] {processor.py:161} INFO - Started process (PID=33666) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:11.212+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:14:11.215+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:14:11.214+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:11.217+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:11.234+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T22:14:44.258+0100] {processor.py:161} INFO - Started process (PID=33814) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:44.261+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:14:44.263+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:14:44.262+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:44.266+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:14:44.288+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:15:14.563+0100] {processor.py:161} INFO - Started process (PID=33920) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:14.565+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:15:14.566+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:15:14.565+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:14.569+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:14.586+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.025 seconds
+[2025-05-22T22:15:44.748+0100] {processor.py:161} INFO - Started process (PID=34085) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:44.751+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:15:44.755+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:15:44.753+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:44.758+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:15:44.779+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:16:16.699+0100] {processor.py:161} INFO - Started process (PID=34245) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:16.702+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:16:16.706+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:16:16.704+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:16.712+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:16.746+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.053 seconds
+[2025-05-22T22:16:50.767+0100] {processor.py:161} INFO - Started process (PID=34383) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:50.770+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:16:50.772+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:16:50.771+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:50.775+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:16:50.795+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:17:31.935+0100] {processor.py:161} INFO - Started process (PID=34546) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:17:31.939+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:17:31.942+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:17:31.941+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:17:31.945+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:17:31.966+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:18:06.537+0100] {processor.py:161} INFO - Started process (PID=34668) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:06.539+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:18:06.541+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:18:06.540+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:06.544+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:06.569+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.037 seconds
+[2025-05-22T22:18:40.767+0100] {processor.py:161} INFO - Started process (PID=34826) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:40.769+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:18:40.770+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:18:40.770+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:40.773+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:18:40.795+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T22:19:13.550+0100] {processor.py:161} INFO - Started process (PID=34990) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:13.553+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:19:13.555+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:19:13.554+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:13.560+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:13.589+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.043 seconds
+[2025-05-22T22:19:47.097+0100] {processor.py:161} INFO - Started process (PID=35114) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:47.099+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:19:47.101+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:19:47.100+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:47.104+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:19:47.127+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:20:17.230+0100] {processor.py:161} INFO - Started process (PID=35254) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:17.232+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:20:17.235+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:20:17.234+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:17.238+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:17.255+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:20:47.657+0100] {processor.py:161} INFO - Started process (PID=35413) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:47.666+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:20:47.669+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:20:47.668+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:47.673+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:20:47.690+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T22:21:18.117+0100] {processor.py:161} INFO - Started process (PID=35573) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:18.119+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:21:18.122+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:21:18.121+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:18.125+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:18.151+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.040 seconds
+[2025-05-22T22:21:48.581+0100] {processor.py:161} INFO - Started process (PID=35690) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:48.583+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:21:48.585+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:21:48.584+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:48.589+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:21:48.610+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:22:19.217+0100] {processor.py:161} INFO - Started process (PID=35836) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:19.219+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:22:19.221+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:22:19.220+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:19.224+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:19.243+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:22:50.079+0100] {processor.py:161} INFO - Started process (PID=35988) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:50.081+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:22:50.084+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:22:50.083+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:50.088+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:22:50.116+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.041 seconds
+[2025-05-22T22:23:21.610+0100] {processor.py:161} INFO - Started process (PID=36135) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:23:21.613+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:23:21.617+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:23:21.615+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:23:21.620+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:23:21.641+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T22:24:03.098+0100] {processor.py:161} INFO - Started process (PID=36308) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:03.101+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:24:03.104+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:24:03.103+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:03.107+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:03.132+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.037 seconds
+[2025-05-22T22:24:43.270+0100] {processor.py:161} INFO - Started process (PID=36478) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:43.273+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:24:43.276+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:24:43.275+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:43.280+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:24:43.302+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.036 seconds
+[2025-05-22T22:25:23.558+0100] {processor.py:161} INFO - Started process (PID=36649) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:25:23.560+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:25:23.562+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:25:23.561+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:25:23.565+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:25:23.587+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:28:41.252+0100] {processor.py:161} INFO - Started process (PID=36817) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:28:41.255+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:28:41.267+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:28:41.264+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:28:41.271+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:28:41.298+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.050 seconds
+[2025-05-22T22:35:44.855+0100] {processor.py:161} INFO - Started process (PID=37003) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:35:44.857+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:35:44.859+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:35:44.858+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:35:44.862+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:35:44.887+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T22:36:21.953+0100] {processor.py:161} INFO - Started process (PID=37176) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:36:21.955+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:36:21.957+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:36:21.956+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:36:21.959+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:36:21.977+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.027 seconds
+[2025-05-22T22:37:00.401+0100] {processor.py:161} INFO - Started process (PID=37344) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:00.403+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:37:00.404+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:37:00.404+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:00.407+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:00.426+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.027 seconds
+[2025-05-22T22:37:36.625+0100] {processor.py:161} INFO - Started process (PID=37505) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:36.627+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:37:36.629+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:37:36.628+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:36.632+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:37:36.652+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:38:13.537+0100] {processor.py:161} INFO - Started process (PID=37683) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:13.539+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:38:13.541+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:38:13.540+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:13.544+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:13.563+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:38:54.911+0100] {processor.py:161} INFO - Started process (PID=37854) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:54.920+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:38:54.925+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:38:54.923+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:54.934+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:38:54.965+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.058 seconds
+[2025-05-22T22:39:31.190+0100] {processor.py:161} INFO - Started process (PID=38024) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:39:31.192+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:39:31.195+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:39:31.194+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:39:31.198+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:39:31.218+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T22:40:09.782+0100] {processor.py:161} INFO - Started process (PID=38192) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:09.789+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:40:09.792+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:40:09.791+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:09.796+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:09.824+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.045 seconds
+[2025-05-22T22:40:46.459+0100] {processor.py:161} INFO - Started process (PID=38360) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:46.460+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:40:46.462+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:40:46.461+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:46.465+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:40:46.484+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T22:41:25.075+0100] {processor.py:161} INFO - Started process (PID=38524) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:41:25.078+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:41:25.081+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:41:25.080+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:41:25.085+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:41:25.109+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.038 seconds
+[2025-05-22T22:42:02.096+0100] {processor.py:161} INFO - Started process (PID=38692) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:02.098+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:42:02.100+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:42:02.099+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:02.102+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:02.122+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:42:41.288+0100] {processor.py:161} INFO - Started process (PID=38861) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:41.291+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:42:41.293+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:42:41.292+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:41.295+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:42:41.324+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.039 seconds
+[2025-05-22T22:43:18.315+0100] {processor.py:161} INFO - Started process (PID=39032) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:18.318+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:43:18.323+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:43:18.321+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:18.328+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:18.356+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.046 seconds
+[2025-05-22T22:43:54.766+0100] {processor.py:161} INFO - Started process (PID=39206) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:54.768+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:43:54.769+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:43:54.769+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:54.772+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:43:54.790+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T22:44:32.788+0100] {processor.py:161} INFO - Started process (PID=39375) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:44:32.790+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:44:32.792+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:44:32.791+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:44:32.797+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:44:32.819+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:45:09.120+0100] {processor.py:161} INFO - Started process (PID=39540) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:09.122+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:45:09.125+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:45:09.124+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:09.128+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:09.150+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:45:48.171+0100] {processor.py:161} INFO - Started process (PID=39708) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:48.173+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:45:48.174+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:45:48.174+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:48.177+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:45:48.197+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:46:24.394+0100] {processor.py:161} INFO - Started process (PID=39878) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:46:24.396+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:46:24.398+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:46:24.397+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:46:24.401+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:46:24.420+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:47:04.983+0100] {processor.py:161} INFO - Started process (PID=40046) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:04.986+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:47:04.988+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:47:04.987+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:04.990+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:05.010+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T22:47:42.659+0100] {processor.py:161} INFO - Started process (PID=40213) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:42.661+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:47:42.664+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:47:42.663+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:42.667+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:47:42.690+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.035 seconds
+[2025-05-22T22:48:21.418+0100] {processor.py:161} INFO - Started process (PID=40394) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:21.419+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:48:21.422+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:48:21.421+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:21.425+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:21.445+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T22:48:57.979+0100] {processor.py:161} INFO - Started process (PID=40556) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:57.981+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:48:57.983+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:48:57.982+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:57.986+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:48:58.004+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.027 seconds
+[2025-05-22T22:49:35.369+0100] {processor.py:161} INFO - Started process (PID=40723) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:49:35.371+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:49:35.374+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:49:35.373+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:49:35.376+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:49:35.398+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:50:13.735+0100] {processor.py:161} INFO - Started process (PID=40894) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:13.737+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:50:13.739+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:50:13.738+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:13.742+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:13.764+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.033 seconds
+[2025-05-22T22:50:48.424+0100] {processor.py:161} INFO - Started process (PID=41062) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:48.426+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:50:48.429+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:50:48.427+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:48.431+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:50:48.448+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.027 seconds
+[2025-05-22T22:51:30.390+0100] {processor.py:161} INFO - Started process (PID=41228) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:51:30.393+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:51:30.396+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:51:30.395+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:51:30.400+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:51:30.424+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.037 seconds
+[2025-05-22T22:52:09.060+0100] {processor.py:161} INFO - Started process (PID=41398) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:09.062+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:52:09.064+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:52:09.063+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:09.067+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:09.088+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T22:52:46.501+0100] {processor.py:161} INFO - Started process (PID=41567) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:46.503+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:52:46.505+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:52:46.504+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:46.507+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:52:46.526+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:53:26.599+0100] {processor.py:161} INFO - Started process (PID=41744) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:53:26.601+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:53:26.604+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:53:26.603+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:53:26.607+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:53:26.626+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T22:54:04.786+0100] {processor.py:161} INFO - Started process (PID=41912) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:04.789+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:54:04.791+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:54:04.790+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:04.794+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:04.814+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.031 seconds
+[2025-05-22T22:54:40.555+0100] {processor.py:161} INFO - Started process (PID=42078) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:40.556+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:54:40.558+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:54:40.557+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:40.560+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:54:40.578+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T22:55:19.158+0100] {processor.py:161} INFO - Started process (PID=42236) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:19.160+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:55:19.162+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:55:19.161+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:19.166+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:19.189+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.036 seconds
+[2025-05-22T22:55:54.290+0100] {processor.py:161} INFO - Started process (PID=42360) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:54.292+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:55:54.294+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:55:54.293+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:54.298+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:55:54.326+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.040 seconds
+[2025-05-22T22:56:25.044+0100] {processor.py:161} INFO - Started process (PID=42485) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:25.047+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:56:25.050+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:56:25.049+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:25.053+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:25.070+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T22:56:55.213+0100] {processor.py:161} INFO - Started process (PID=42652) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:55.216+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:56:55.219+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:56:55.218+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:55.222+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:56:55.239+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T22:57:25.975+0100] {processor.py:161} INFO - Started process (PID=42810) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:25.978+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:57:25.980+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:57:25.979+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:25.982+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:25.998+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.026 seconds
+[2025-05-22T22:57:56.193+0100] {processor.py:161} INFO - Started process (PID=42936) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:56.202+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:57:56.205+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:57:56.204+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:56.208+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:57:56.224+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.034 seconds
+[2025-05-22T22:58:26.557+0100] {processor.py:161} INFO - Started process (PID=43106) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:26.565+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:58:26.567+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:58:26.566+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:26.569+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:26.586+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.032 seconds
+[2025-05-22T22:58:59.572+0100] {processor.py:161} INFO - Started process (PID=43248) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:59.574+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:58:59.576+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:58:59.575+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:59.580+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:58:59.606+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.040 seconds
+[2025-05-22T22:59:32.744+0100] {processor.py:161} INFO - Started process (PID=43389) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:59:32.747+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T22:59:32.750+0100] {logging_mixin.py:188} INFO - [2025-05-22T22:59:32.748+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:59:32.753+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T22:59:32.778+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.037 seconds
+[2025-05-22T23:00:02.820+0100] {processor.py:161} INFO - Started process (PID=43494) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:02.822+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:00:02.824+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:00:02.823+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:02.826+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:02.841+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.024 seconds
+[2025-05-22T23:00:34.072+0100] {processor.py:161} INFO - Started process (PID=43650) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:34.074+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:00:34.076+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:00:34.075+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:34.079+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:00:34.099+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.030 seconds
+[2025-05-22T23:01:08.137+0100] {processor.py:161} INFO - Started process (PID=43780) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:08.140+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:01:08.143+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:01:08.141+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:08.147+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:08.173+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.039 seconds
+[2025-05-22T23:01:38.657+0100] {processor.py:161} INFO - Started process (PID=43927) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:38.659+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:01:38.662+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:01:38.661+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:38.666+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:01:38.682+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T23:02:09.392+0100] {processor.py:161} INFO - Started process (PID=44083) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:09.400+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:02:09.402+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:02:09.402+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:09.406+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:09.427+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.038 seconds
+[2025-05-22T23:02:39.816+0100] {processor.py:161} INFO - Started process (PID=44223) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:39.819+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:02:39.821+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:02:39.820+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:39.824+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:02:39.843+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.029 seconds
+[2025-05-22T23:03:10.203+0100] {processor.py:161} INFO - Started process (PID=44341) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:10.204+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:03:10.207+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:03:10.206+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:10.209+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:10.227+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.028 seconds
+[2025-05-22T23:03:40.634+0100] {processor.py:161} INFO - Started process (PID=44508) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:40.642+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:03:40.644+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:03:40.643+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:40.646+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:03:40.669+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.040 seconds
+[2025-05-22T23:04:12.651+0100] {processor.py:161} INFO - Started process (PID=44663) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:04:12.661+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:04:12.666+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:04:12.664+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:04:12.672+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:04:12.706+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.061 seconds
+[2025-05-22T23:05:05.466+0100] {processor.py:161} INFO - Started process (PID=44825) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:05.477+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:05:05.484+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:05:05.481+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:05.492+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:05.553+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.095 seconds
+[2025-05-22T23:05:53.904+0100] {processor.py:161} INFO - Started process (PID=44952) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:53.915+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:05:53.920+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:05:53.918+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:53.927+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:05:53.969+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.072 seconds
+[2025-05-22T23:06:32.803+0100] {processor.py:161} INFO - Started process (PID=45105) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:06:32.807+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:06:32.812+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:06:32.810+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:06:32.817+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:06:32.853+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.055 seconds
+[2025-05-22T23:07:06.827+0100] {processor.py:161} INFO - Started process (PID=45241) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:06.832+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:07:06.836+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:07:06.834+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:06.843+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:06.885+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.066 seconds
+[2025-05-22T23:07:38.668+0100] {processor.py:161} INFO - Started process (PID=45348) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:38.678+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:07:38.684+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:07:38.682+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:38.690+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:07:38.751+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.097 seconds
+[2025-05-22T23:08:24.359+0100] {processor.py:161} INFO - Started process (PID=45521) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:08:24.366+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:08:24.371+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:08:24.369+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:08:24.376+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:08:24.430+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.082 seconds
+[2025-05-22T23:09:02.122+0100] {processor.py:161} INFO - Started process (PID=45668) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:02.126+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:09:02.132+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:09:02.129+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:02.139+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:02.182+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.068 seconds
+[2025-05-22T23:09:34.847+0100] {processor.py:161} INFO - Started process (PID=45776) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:34.858+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:09:34.864+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:09:34.861+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:34.869+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:09:34.906+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.068 seconds
+[2025-05-22T23:10:10.517+0100] {processor.py:161} INFO - Started process (PID=45920) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:10.528+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:10:10.533+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:10:10.531+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:10.541+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:10.585+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T23:10:46.140+0100] {processor.py:161} INFO - Started process (PID=46028) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:46.147+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:10:46.153+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:10:46.151+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:46.163+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:10:46.220+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.091 seconds
+[2025-05-22T23:11:26.083+0100] {processor.py:161} INFO - Started process (PID=46170) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:11:26.093+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:11:26.097+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:11:26.095+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:11:26.102+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:11:26.138+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.064 seconds
+[2025-05-22T23:12:04.243+0100] {processor.py:161} INFO - Started process (PID=46318) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:04.247+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:12:04.252+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:12:04.250+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:04.259+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:04.309+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T23:12:34.490+0100] {processor.py:161} INFO - Started process (PID=46420) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:34.494+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:12:34.498+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:12:34.496+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:34.504+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:12:34.538+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.053 seconds
+[2025-05-22T23:13:17.677+0100] {processor.py:161} INFO - Started process (PID=46570) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:17.682+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:13:17.690+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:13:17.686+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:17.699+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:17.753+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.084 seconds
+[2025-05-22T23:13:58.189+0100] {processor.py:161} INFO - Started process (PID=46700) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:58.194+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:13:58.201+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:13:58.198+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:58.208+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:13:58.249+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T23:14:34.839+0100] {processor.py:161} INFO - Started process (PID=46847) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:14:34.850+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:14:34.854+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:14:34.852+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:14:34.861+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:14:34.903+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.072 seconds
+[2025-05-22T23:15:21.053+0100] {processor.py:161} INFO - Started process (PID=47007) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:15:21.063+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:15:21.068+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:15:21.066+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:15:21.073+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:15:21.115+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.069 seconds
+[2025-05-22T23:16:10.762+0100] {processor.py:161} INFO - Started process (PID=47180) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:10.766+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:16:10.769+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:16:10.768+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:10.774+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:10.811+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.055 seconds
+[2025-05-22T23:16:49.083+0100] {processor.py:161} INFO - Started process (PID=47293) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:49.089+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:16:49.096+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:16:49.094+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:49.105+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:16:49.159+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.087 seconds
+[2025-05-22T23:17:28.582+0100] {processor.py:161} INFO - Started process (PID=47450) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:17:28.586+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:17:28.590+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:17:28.589+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:17:28.595+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:17:28.641+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.068 seconds
+[2025-05-22T23:18:13.431+0100] {processor.py:161} INFO - Started process (PID=47615) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:13.438+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:18:13.443+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:18:13.441+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:13.448+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:13.513+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.089 seconds
+[2025-05-22T23:18:55.291+0100] {processor.py:161} INFO - Started process (PID=47756) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:55.303+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:18:55.308+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:18:55.306+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:55.314+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:18:55.351+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.066 seconds
+[2025-05-22T23:19:40.562+0100] {processor.py:161} INFO - Started process (PID=47879) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:19:40.566+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:19:40.570+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:19:40.568+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:19:40.576+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:19:40.621+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T23:20:10.979+0100] {processor.py:161} INFO - Started process (PID=48019) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:20:10.983+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:20:10.987+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:20:10.985+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:20:10.993+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:20:11.031+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.058 seconds
+[2025-05-22T23:21:01.602+0100] {processor.py:161} INFO - Started process (PID=48184) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:01.609+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:21:01.614+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:21:01.612+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:01.619+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:01.667+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.071 seconds
+[2025-05-22T23:21:43.013+0100] {processor.py:161} INFO - Started process (PID=48313) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:43.026+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:21:43.034+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:21:43.031+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:43.042+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:21:43.086+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.081 seconds
+[2025-05-22T23:22:26.819+0100] {processor.py:161} INFO - Started process (PID=48461) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:22:26.829+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:22:26.835+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:22:26.832+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:22:26.842+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:22:26.888+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T23:23:00.129+0100] {processor.py:161} INFO - Started process (PID=48602) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:00.141+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:23:00.145+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:23:00.143+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:00.152+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:00.208+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.088 seconds
+[2025-05-22T23:23:43.642+0100] {processor.py:161} INFO - Started process (PID=48733) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:43.651+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:23:43.657+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:23:43.655+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:43.664+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:23:43.717+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.082 seconds
+[2025-05-22T23:24:19.953+0100] {processor.py:161} INFO - Started process (PID=48881) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:19.956+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:24:19.960+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:24:19.958+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:19.965+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:19.997+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.050 seconds
+[2025-05-22T23:24:54.268+0100] {processor.py:161} INFO - Started process (PID=49028) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:54.272+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:24:54.277+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:24:54.274+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:54.282+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:24:54.316+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.054 seconds
+[2025-05-22T23:25:42.453+0100] {processor.py:161} INFO - Started process (PID=49197) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:25:42.463+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:25:42.468+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:25:42.466+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:25:42.474+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:25:42.511+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T23:26:25.198+0100] {processor.py:161} INFO - Started process (PID=49324) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:26:25.202+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:26:25.207+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:26:25.205+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:26:25.213+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:26:25.259+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T23:27:03.555+0100] {processor.py:161} INFO - Started process (PID=49478) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:03.560+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:27:03.565+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:27:03.563+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:03.572+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:03.615+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.066 seconds
+[2025-05-22T23:27:44.475+0100] {processor.py:161} INFO - Started process (PID=49630) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:44.479+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:27:44.485+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:27:44.482+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:44.492+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:27:44.530+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.061 seconds
+[2025-05-22T23:28:35.960+0100] {processor.py:161} INFO - Started process (PID=49796) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:28:35.963+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:28:35.966+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:28:35.965+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:28:35.970+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:28:36.000+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.045 seconds
+[2025-05-22T23:29:07.534+0100] {processor.py:161} INFO - Started process (PID=49913) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:07.540+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:29:07.544+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:29:07.542+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:07.550+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:07.592+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T23:29:51.974+0100] {processor.py:161} INFO - Started process (PID=50031) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:51.977+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:29:51.981+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:29:51.979+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:51.986+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:29:52.025+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.056 seconds
+[2025-05-22T23:30:22.085+0100] {processor.py:161} INFO - Started process (PID=50158) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:22.095+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:30:22.101+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:30:22.099+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:22.107+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:22.156+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.082 seconds
+[2025-05-22T23:30:56.744+0100] {processor.py:161} INFO - Started process (PID=50297) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:56.755+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:30:56.760+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:30:56.758+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:56.765+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:30:56.806+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.073 seconds
+[2025-05-22T23:31:37.188+0100] {processor.py:161} INFO - Started process (PID=50423) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:31:37.194+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:31:37.200+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:31:37.197+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:31:37.208+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:31:37.243+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.061 seconds
+[2025-05-22T23:32:13.220+0100] {processor.py:161} INFO - Started process (PID=50570) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:13.225+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:32:13.230+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:32:13.228+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:13.236+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:13.273+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.058 seconds
+[2025-05-22T23:32:49.762+0100] {processor.py:161} INFO - Started process (PID=50718) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:49.775+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:32:49.785+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:32:49.781+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:49.796+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:32:49.861+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.113 seconds
+[2025-05-22T23:33:29.791+0100] {processor.py:161} INFO - Started process (PID=50855) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:33:29.795+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:33:29.799+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:33:29.797+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:33:29.805+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:33:29.847+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.062 seconds
+[2025-05-22T23:34:01.059+0100] {processor.py:161} INFO - Started process (PID=50989) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:01.064+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:34:01.067+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:34:01.065+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:01.074+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:01.113+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.062 seconds
+[2025-05-22T23:34:42.875+0100] {processor.py:161} INFO - Started process (PID=51143) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:42.886+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:34:42.892+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:34:42.889+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:42.897+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:34:42.942+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T23:35:33.581+0100] {processor.py:161} INFO - Started process (PID=51310) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:35:33.585+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:35:33.590+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:35:33.588+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:35:33.597+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:35:33.640+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T23:36:07.224+0100] {processor.py:161} INFO - Started process (PID=51420) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:07.234+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:36:07.238+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:36:07.236+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:07.244+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:07.288+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.072 seconds
+[2025-05-22T23:36:39.202+0100] {processor.py:161} INFO - Started process (PID=51551) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:39.213+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:36:39.219+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:36:39.216+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:39.226+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:36:39.273+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.076 seconds
+[2025-05-22T23:37:26.683+0100] {processor.py:161} INFO - Started process (PID=51696) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:37:26.689+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:37:26.696+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:37:26.693+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:37:26.704+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:37:26.759+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.091 seconds
+[2025-05-22T23:38:13.127+0100] {processor.py:161} INFO - Started process (PID=51857) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:38:13.132+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:38:13.136+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:38:13.134+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:38:13.142+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:38:13.175+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.054 seconds
+[2025-05-22T23:39:05.817+0100] {processor.py:161} INFO - Started process (PID=51990) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:05.822+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:39:05.828+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:39:05.825+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:05.834+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:05.875+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T23:39:45.228+0100] {processor.py:161} INFO - Started process (PID=52143) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:45.239+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:39:45.244+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:39:45.242+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:45.251+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:39:45.288+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.067 seconds
+[2025-05-22T23:40:18.978+0100] {processor.py:161} INFO - Started process (PID=52277) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:18.982+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:40:18.987+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:40:18.985+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:18.993+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:19.032+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.061 seconds
+[2025-05-22T23:40:57.650+0100] {processor.py:161} INFO - Started process (PID=52389) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:57.656+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:40:57.666+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:40:57.661+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:57.677+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:40:57.751+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.120 seconds
+[2025-05-22T23:41:34.866+0100] {processor.py:161} INFO - Started process (PID=52529) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:41:34.873+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:41:34.879+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:41:34.876+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:41:34.885+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:41:34.930+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.071 seconds
+[2025-05-22T23:42:17.811+0100] {processor.py:161} INFO - Started process (PID=52659) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:17.822+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:42:17.827+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:42:17.824+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:17.833+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:17.878+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.074 seconds
+[2025-05-22T23:42:55.528+0100] {processor.py:161} INFO - Started process (PID=52809) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:55.532+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:42:55.536+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:42:55.534+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:55.544+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:42:55.602+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.081 seconds
+[2025-05-22T23:43:33.586+0100] {processor.py:161} INFO - Started process (PID=52963) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:43:33.593+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:43:33.603+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:43:33.598+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:43:33.615+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:43:33.676+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.101 seconds
+[2025-05-22T23:44:12.489+0100] {processor.py:161} INFO - Started process (PID=53093) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:12.494+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:44:12.498+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:44:12.496+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:12.504+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:12.542+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.059 seconds
+[2025-05-22T23:44:47.425+0100] {processor.py:161} INFO - Started process (PID=53239) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:47.436+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:44:47.440+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:44:47.438+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:47.446+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:44:47.488+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.069 seconds
+[2025-05-22T23:45:32.128+0100] {processor.py:161} INFO - Started process (PID=53399) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:45:32.133+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:45:32.140+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:45:32.137+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:45:32.149+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:45:32.196+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.078 seconds
+[2025-05-22T23:46:17.412+0100] {processor.py:161} INFO - Started process (PID=53553) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:17.422+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:46:17.427+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:46:17.424+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:17.432+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:17.465+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.060 seconds
+[2025-05-22T23:46:47.563+0100] {processor.py:161} INFO - Started process (PID=53660) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:47.566+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:46:47.574+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:46:47.571+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:47.581+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:46:47.637+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.084 seconds
+[2025-05-22T23:47:28.765+0100] {processor.py:161} INFO - Started process (PID=53809) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:47:28.776+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:47:28.782+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:47:28.779+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:47:28.790+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:47:28.844+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.088 seconds
+[2025-05-22T23:48:13.323+0100] {processor.py:161} INFO - Started process (PID=53956) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:48:13.326+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:48:13.330+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:48:13.329+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:48:13.335+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:48:13.365+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.046 seconds
+[2025-05-22T23:49:04.431+0100] {processor.py:161} INFO - Started process (PID=54127) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:04.434+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:49:04.440+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:49:04.437+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:04.445+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:04.479+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.053 seconds
+[2025-05-22T23:49:57.111+0100] {processor.py:161} INFO - Started process (PID=54302) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:57.115+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:49:57.118+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:49:57.117+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:57.123+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:49:57.162+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.056 seconds
+[2025-05-22T23:50:48.429+0100] {processor.py:161} INFO - Started process (PID=54475) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:50:48.433+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:50:48.438+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:50:48.436+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:50:48.444+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:50:48.480+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T23:51:42.537+0100] {processor.py:161} INFO - Started process (PID=54650) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:51:42.541+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:51:42.547+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:51:42.544+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:51:42.552+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:51:42.588+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T23:52:44.675+0100] {processor.py:161} INFO - Started process (PID=54826) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:52:44.683+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:52:44.692+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:52:44.688+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:52:44.703+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:52:44.771+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.109 seconds
+[2025-05-22T23:53:43.141+0100] {processor.py:161} INFO - Started process (PID=54995) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:53:43.149+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:53:43.155+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:53:43.152+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:53:43.161+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:53:43.213+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.082 seconds
+[2025-05-22T23:54:24.916+0100] {processor.py:161} INFO - Started process (PID=55154) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:54:24.919+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:54:24.923+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:54:24.921+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:54:24.930+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:54:24.977+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.070 seconds
+[2025-05-22T23:55:02.501+0100] {processor.py:161} INFO - Started process (PID=55305) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:02.511+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:55:02.517+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:55:02.515+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:02.531+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:02.577+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.085 seconds
+[2025-05-22T23:55:38.978+0100] {processor.py:161} INFO - Started process (PID=55450) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:38.988+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:55:38.993+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:55:38.991+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:38.998+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:55:39.040+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.068 seconds
+[2025-05-22T23:56:10.696+0100] {processor.py:161} INFO - Started process (PID=55561) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:10.704+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:56:10.710+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:56:10.707+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:10.715+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:10.752+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.063 seconds
+[2025-05-22T23:56:49.197+0100] {processor.py:161} INFO - Started process (PID=55718) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:49.200+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:56:49.205+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:56:49.203+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:49.210+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:56:49.247+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.057 seconds
+[2025-05-22T23:57:30.529+0100] {processor.py:161} INFO - Started process (PID=55880) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:57:30.534+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:57:30.539+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:57:30.537+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:57:30.547+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:57:30.588+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.066 seconds
+[2025-05-22T23:58:09.183+0100] {processor.py:161} INFO - Started process (PID=56004) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:09.187+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:58:09.192+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:58:09.190+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:09.198+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:09.236+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.058 seconds
+[2025-05-22T23:58:49.097+0100] {processor.py:161} INFO - Started process (PID=56165) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:49.101+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:58:49.105+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:58:49.103+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:49.112+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:58:49.154+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.065 seconds
+[2025-05-22T23:59:33.163+0100] {processor.py:161} INFO - Started process (PID=56327) to work on /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:59:33.172+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/oldversion.py for tasks to queue
+[2025-05-22T23:59:33.177+0100] {logging_mixin.py:188} INFO - [2025-05-22T23:59:33.175+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:59:33.183+0100] {processor.py:842} WARNING - No viable dags retrieved from /home/osama/airflow/dags/oldversion.py
+[2025-05-22T23:59:33.242+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/oldversion.py took 0.087 seconds

@@ -1,0 +1,24 @@
+[2025-05-14T11:08:36.785+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: process_bank_reviews.process_reviews manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T11:08:36.800+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: process_bank_reviews.process_reviews manual__2025-05-13T23:44:36.782331+00:00 [queued]>
+[2025-05-14T11:08:36.802+0100] {taskinstance.py:2170} INFO - Starting attempt 4 of 5
+[2025-05-14T11:08:36.825+0100] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): process_reviews> on 2025-05-13 23:44:36.782331+00:00
+[2025-05-14T11:08:36.837+0100] {standard_task_runner.py:60} INFO - Started process 74383 to run task
+[2025-05-14T11:08:36.843+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'process_bank_reviews', 'process_reviews', 'manual__2025-05-13T23:44:36.782331+00:00', '--job-id', '1901', '--raw', '--subdir', 'DAGS_FOLDER/post_processing.py', '--cfg-path', '/tmp/tmpymit0385']
+[2025-05-14T11:08:36.847+0100] {standard_task_runner.py:88} INFO - Job 1901: Subtask process_reviews
+[2025-05-14T11:08:36.963+0100] {task_command.py:423} INFO - Running <TaskInstance: process_bank_reviews.process_reviews manual__2025-05-13T23:44:36.782331+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-14T11:08:37.172+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='process_bank_reviews' AIRFLOW_CTX_TASK_ID='process_reviews' AIRFLOW_CTX_EXECUTION_DATE='2025-05-13T23:44:36.782331+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-13T23:44:36.782331+00:00'
+[2025-05-14T11:10:57.896+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/osama/airflow/dags/post_processing.py", line 260, in process_reviews
+    df["sentiment"] = get_sentiment(df['review'])
+TypeError: get_sentiment() missing 1 required positional argument: 'pipeline_model'
+[2025-05-14T11:10:57.930+0100] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=process_bank_reviews, task_id=process_reviews, execution_date=20250513T234436, start_date=20250514T100836, end_date=20250514T101057
+[2025-05-14T11:10:57.960+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1901 for task process_reviews (get_sentiment() missing 1 required positional argument: 'pipeline_model'; 74383)
+[2025-05-14T11:10:58.077+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-14T11:10:58.122+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

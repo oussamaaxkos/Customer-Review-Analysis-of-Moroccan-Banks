@@ -1,0 +1,92 @@
+bank_id,branch_id,location_id,sentiment_id,review_date,review_text,topic_meaning,topic_words,rating
+2,9,13,2,2024-11-18,umnia bank offre excellent service interface ligne conviviale jai particulièrement apprécié rapidité transactions disponibilité support client serait daméliorer variété produits bancaires globalement bonne expérience recommande ,ATM Issues,"agence, service, salé, compte, pire",5
+2,1,2,1,2025-03-18,soit gardez sécurité soit retrancheront reviendront garder soit dieu répondront serez trompés,Customer Service,"services, sécurité, soit, personnel, banque",1
+2,9,13,2,2024-12-18,satisfaite experience umnia bank bon service équipe professionnelle toujours disponible accompagne durant procédure,Loan Problems,"bon, service, banque, bank, expérience",5
+2,14,9,2,2025-03-18,bon acceuil etbon service,Loan Problems,"bon, service, banque, bank, expérience",1
+2,2,5,2,2024-06-18,employés veulent servir buzz donnera informations,ATM Issues,"agence, service, salé, compte, pire",5
+2,5,3,2,2025-03-18,tiens remercier mr directeur l agence almanal rabat mr zaitouni omar l accueil bonne communication,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,10,12,3,2021-03-18,lun employés interrogés fonds secrétaire commercial,Loan Problems,"bon, service, banque, bank, expérience",3
+1,13,7,2,2018-03-18,agence personnelles  c bizarre ,ATM Issues,"agence, service, salé, compte, pire",1
+2,1,2,2,2022-03-18,super expérience banque  laccueil toujours agréable conseillers sont lécoute professionnels mention spéciale directeur dagence mr houssam vraiment disponible dun grand soutien ,Loan Problems,"bon, service, banque, bank, expérience",3
+1,6,11,1,2025-03-18,suis venu agence afin douvrir compte bancaire aimable quun gardien prison dit dattendre fois devant conseillère donne rendezvous avant dire vu suis marocain peux allez voir ailleur somme véritable perte temps,ATM Issues,"agence, service, salé, compte, pire",1
+2,5,3,2,2025-03-18,lagence sécurité banque almanal personnel effectue travail sérieux fournit services efficaces lécoute clients suit dossiers près attention normes sont hauteur attentes clients normes internationales services merci,Customer Service,"services, sécurité, soit, personnel, banque",5
+1,13,7,1,2023-03-18,seule caisse système ticket filela queue temps dattente fou comme faire مقاطعة و خلاص,Loan Problems,"bon, service, banque, bank, expérience",1
+2,9,13,2,2024-11-18,satisfait expérience lagence umnia bank  laccueil chaleureux personnel toujours disponible répondre questions morienter meilleures solutions adaptées besoins professionnalisme réactivité sont remarquables,Customer Service,"services, sécurité, soit, personnel, banque",5
+2,14,9,2,2025-03-18,grand merci umnia banque professionnalisme qualité services toujours lécoute réactive service client top conseillers compétents lécoute  cest plaisir dêtre cliente ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,5,3,2,2025-03-18,bon service gestion niveau  ,Loan Problems,"bon, service, banque, bank, expérience",5
+2,14,9,2,2025-03-18,agence tres l ecoute clientele,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+1,11,4,1,2023-03-18,jai visité lagence franchement jai été choqué responsable fonds manque professionnalisme bas mérite travailler marché gros aléatoire ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,10,12,2,2023-03-18,premières banques participatives maroc,Loan Problems,"bon, service, banque, bank, expérience",1
+1,13,7,1,2021-03-18,toujours problèmes système employés réalisent sommes clients regrette davoir domicilé compte sein agence franchement veux changer banque éviter service médiocre doute pire agences bp,ATM Issues,"agence, service, salé, compte, pire",1
+2,14,9,2,2024-10-18,prise charge client professionnelle bonne écoute satisfaction totale recommande,Bank Fees,"mr, remercier, tiens, comment, service",5
+1,8,10,2,2024-12-18,banque située bon endroit,Loan Problems,"bon, service, banque, bank, expérience",1
+2,5,3,2,2025-03-15,m omar alzaytouni homme compétent pratique loyal souhaitons succès nouvelle responsabilité confiée digne dieu veut,ATM Issues,"agence, service, salé, compte, pire",5
+1,4,6,1,2023-03-18,null service,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+1,13,7,1,2024-07-18,service nuuuuuul répondent téléphone,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,9,13,2,2024-11-18,tiens exprimer grande gratitude envers directeur agence bancaire grâce professionnalisme écoute attentive engagement indéfectible envers clients expérience été exceptionnelle su ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+2,2,5,2,2020-03-18,meilleures agences salé m jawad remercie beaucoup bon traitement quil réservé visiteurs lagence ,ATM Issues,"agence, service, salé, compte, pire",5
+2,2,5,2,2020-03-18,équipe serviable lécoute,ATM Issues,"agence, service, salé, compte, pire",3
+2,1,2,3,2022-03-18,lieu loin,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,9,13,2,2024-11-18,tiens remercier m jawad directeur banque umnia écoute professionnalisme su guider bonnes personnes toujours répondu rapidement demandes grandement facilité démarches,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+2,9,13,2,2025-03-18,excellente expérience lagence umnia bank salé hay karima particulier grâce professionnalisme directeur m jawad accueil chaleureux écoute attentive conseils adaptés agence recommande hésiter,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+1,11,4,1,2025-03-18,accueil inexistant fille laccueil constamment téléphone portable air arrogant  remettrai pieds labas ,Bank Fees,"mr, remercier, tiens, comment, service",1
+2,14,9,2,2024-10-18,bon relationnel conseils pertinents merci collaboration habituelle,ATM Issues,"agence, service, salé, compte, pire",5
+1,8,10,2,2024-11-18,qualité service na9ssa bzaff,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,9,13,2,2025-03-13,tiens remercier léquipe travail dumnia bank bon traitement grand professionnalisme conforme littérature profession bancaire comptable évaluation émane dun ,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,1,2,1,2019-03-18,bonjour comprends pourquoi affichez numéros téléphone répondez raccrochez ligne personnes cherchent obtenir ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",4
+2,14,9,2,2024-10-18,jai consulté lagence prét conseillé était trés attentif répondu questions bon acceuil,Loan Problems,"bon, service, banque, bank, expérience",5
+2,2,5,1,2025-03-18,essayez mettre débutants postes nécessitent lexpérience jeune là bas sait comment parler comment donner linformation comment vendre produit comment saisir simples chiffres,Bank Fees,"mr, remercier, tiens, comment, service",1
+1,11,4,1,2021-03-18,banque mérite étoile extrêmement déçu  fahri servi refusé fournir document nécessaire louverture dun compte suis américaine dorigine marocaine voulait ouvrir nouveau compte ,Loan Problems,"bon, service, banque, bank, expérience",1
+1,13,7,1,2023-03-18,aujourdhui 8122022 11h21 système banque médiocre,ATM Issues,"agence, service, salé, compte, pire",1
+1,4,6,3,2024-07-18,service moyen,Bank Fees,"mr, remercier, tiens, comment, service",1
+2,9,13,2,2024-11-18,tiens remercier mr jawad directeur lagence salé hay karima travail remarquable accomplissez  expertise écoute disponibilité  tiens également souligner lexemplarité équipe reflète lexcellence gestion incarnez,ATM Issues,"agence, service, salé, compte, pire",5
+1,13,7,1,2021-03-18,pire agence réseau difficile faire pire  agents absolument accueillants traitement demandes clientèle manière ignoble possible heureusement compte n tenu incompétents ,ATM Issues,"agence, service, salé, compte, pire",1
+2,12,14,2,2025-03-18,service sympatique  bon deal côté ouverture comote bancaire frais sont moin cher chose cool cest retrait guichet partir 500dhs cest frais,Loan Problems,"bon, service, banque, bank, expérience",5
+2,7,8,3,2024-04-18,banque umnia sérieux problème gestion traitements internes recommande banque devez toujours rappeler donner suite demandes simples lieu 2 jours jai fini attendre 1 mois,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,5,3,2,2025-03-18,franchement responsable agence homme aimable serviable,ATM Issues,"agence, service, salé, compte, pire",5
+2,1,2,2,2025-03-18,excellent,Loan Problems,"bon, service, banque, bank, expérience",5
+2,3,1,3,2023-03-18,lapplication ligne sest améliorée passe 3 étoiles reste améliorer service,Customer Service,"services, sécurité, soit, personnel, banque",3
+2,5,3,2,2024-12-18,satisfaite services d umniabanktrès bonne communication personnel d umniabank almanal gentils serviable exécution rapide opérations recommande vivement banqueet remercie infiniment mr zerwalmr yassine mlle zineb services qualité,Customer Service,"services, sécurité, soit, personnel, banque",5
+2,1,2,1,2025-03-18,personnel excellent accueillant system dumnia bank general vraiment decevant tres tres lent,Loan Problems,"bon, service, banque, bank, expérience",1
+2,12,14,2,2023-03-18,haut niveau services prospérité succès heureux traiter eux cest vraiment banque individu musulman souhaite,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,2,5,2,2025-03-18,bonne servis,Customer Service,"services, sécurité, soit, personnel, banque",5
+2,5,3,2,2025-03-16,excellente expérience agence grand merci léquipe professionnalisme accueil chaleureux ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+2,14,9,2,2024-09-18,magie couleurs,ATM Issues,"agence, service, salé, compte, pire",1
+1,13,7,1,2021-03-18,êtes arnaqueurs service nul personnel malhonnête déconseille,Loan Problems,"bon, service, banque, bank, expérience",1
+2,1,2,2,2022-03-18,cest bon bank,Loan Problems,"bon, service, banque, bank, expérience",5
+1,6,11,3,2018-03-18,narrive trouver numéro téléphone  site chaabi ici google,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+1,11,4,1,2020-03-18,mal accueil deux caissières sont professionnelles sont mal polies respectent mesures sanitaires masque jai posé plainte auprès directeur régional,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,12,14,2,2021-03-18,bon courage  ,Loan Problems,"bon, service, banque, bank, expérience",5
+2,9,13,2,2025-03-18,tiens remercier mr jawad directeur lagence salé hay karima travail remarquable accomplissez  expertise disponibilité engagement constant ont largement contribué qualité services ,ATM Issues,"agence, service, salé, compte, pire",5
+2,3,1,1,2018-03-18,mauvais service réception na aidé ny quun clients répond questions,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,1,2,2,2024-11-18,côté service personnel dire excellent  tarifs création virement ext y seul forfait 25 dhmois logement 25 0000 voir photos jointes,ATM Issues,"agence, service, salé, compte, pire",5
+2,2,5,2,2024-11-18,lagence umnia hassan parmis meilleurs agences umnia niveau rabat equipe tres serviable lécoute surtout mme molato dispose grandes capacités professionnelles humaines,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,1,2,2,2018-03-18,recherche informations transactions jhabite new york souhaite acheter maison connais conditions,Loan Problems,"bon, service, banque, bank, expérience",2
+1,6,11,1,2023-03-18,jhabite côté agenceelle juste catastrophique caissière insolenteimpolie  lente nest poste  ça fait années ça dure demande bp intérêt embrocher genre personnel ,ATM Issues,"agence, service, salé, compte, pire",1
+1,13,7,1,2024-10-18,qualité service nulle personnel rude,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,5,3,2,2025-03-15,bcp goods,ATM Issues,"agence, service, salé, compte, pire",5
+2,3,1,2,2024-05-18,merci,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+1,4,6,2,2020-03-18,bon service,Loan Problems,"bon, service, banque, bank, expérience",1
+1,6,11,1,2023-03-18,service médiocre  application nest mis jour,ATM Issues,"agence, service, salé, compte, pire",1
+2,14,9,1,2024-10-18,mauvaise expérience  jétais eux trancher quelle banque mengage acheter appartement avoir offre commerciale réaliste jétais surpris dame m fais simulation place mis ,Loan Problems,"bon, service, banque, bank, expérience",5
+2,10,12,1,2024-07-18,15h jeudi personne banque,Bank Fees,"mr, remercier, tiens, comment, service",1
+1,6,11,1,2023-03-18,jaurais mis 0 étoile nest possible pire service personnel fait simplement travail répondent téléphone jai heureusement changé banque impossible continuer agence,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+1,4,6,2,2018-03-18,jattends transfert compte rabat océan ouarzazate depuis 2 ans agence sait gérer type dopération relances faites place,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",2
+2,9,13,2,2024-11-18,tiens remercier mr directeur professionnalisme écoute sens service client grâce accompagnement personnalisé jai pu bénéficier solutions adaptées besoins dun suivi attentif ,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,1,2,2,2024-07-18,toujours réponse téléphone,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+1,8,10,2,2018-03-18,guichet automatique toujours empane kaykhsser ktar makaykhedm,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",4
+2,10,12,2,2020-03-18,souhait banque,Loan Problems,"bon, service, banque, bank, expérience",4
+2,12,14,1,2023-03-18,45 minutes dattente renseignement pauvre agent sécurité seul banque,Customer Service,"services, sécurité, soit, personnel, banque",4
+2,14,9,2,2024-10-18,bon emplacement temara facile d accès personnel compétent l écoute,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,7,8,1,2023-03-18,nen déplaise agences bancaires maroc grande tromperie mensonge sont banques dentreprise  parle souhait dune banque  étant donné suis client jai contrat mourabaha lagence ,Bank Fees,"mr, remercier, tiens, comment, service",1
+2,5,3,2,2025-03-18,excellente agence service qualité  grand merci directeur mr omar zaitouni professionnalisme gentillesse sens service grâce visite agréable efficace recommande vivement ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",5
+2,5,3,2,2025-03-12,service qualité professionnel tiens remercier mr zaitouni omar accueil chaleureux professionnalisme satisfait recommande,Bank Fees,"mr, remercier, tiens, comment, service",5
+2,7,8,2,2025-03-18,excellent service excellents conseils remercie infiniment personnel tête directeur mr rougui recommande vivement  ,Loan Problems,"bon, service, banque, bank, expérience",5
+2,14,9,1,2024-10-18,considérez expérience regrettable  jai consulté 2017 carte bancaire immobile jattends façon dont accueillent clientèle  limpression dit quil y sorties ,Loan Problems,"bon, service, banque, bank, expérience",5
+1,4,6,2,2022-03-18,bon service,Loan Problems,"bon, service, banque, bank, expérience",5
+1,13,7,2,2022-03-18,service,Loan Problems,"bon, service, banque, bank, expérience",3
+2,7,8,3,2018-03-18,bank umnia hay riad avenue attine,Bank Fees,"mr, remercier, tiens, comment, service",4
+2,2,5,1,2025-03-18,dommage quaucune agences nest ouverte samedi ,ATM Issues,"agence, service, salé, compte, pire",1
+1,11,4,1,2025-01-18,numéro téléphone mal rempli,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+1,11,4,1,2022-03-18,lincompétence règle agence professionnalisme  personne soccupe chèques se permet papoter amies clientes sujets privés pendant autres attendons patiemment ,Online Banking Issues,"professionnalisme, service, agence, umnia, banque",1
+2,3,1,2,2018-03-18,site web estil sorti ,Bank Fees,"mr, remercier, tiens, comment, service",5

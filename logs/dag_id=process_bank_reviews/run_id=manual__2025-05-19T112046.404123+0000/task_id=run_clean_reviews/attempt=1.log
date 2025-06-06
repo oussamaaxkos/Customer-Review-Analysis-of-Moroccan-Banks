@@ -1,0 +1,45 @@
+[2025-05-19T14:00:26.625+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: process_bank_reviews.run_clean_reviews manual__2025-05-19T11:20:46.404123+00:00 [queued]>
+[2025-05-19T14:00:26.644+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: process_bank_reviews.run_clean_reviews manual__2025-05-19T11:20:46.404123+00:00 [queued]>
+[2025-05-19T14:00:26.646+0100] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2025-05-19T14:00:26.680+0100] {taskinstance.py:2191} INFO - Executing <Task(BashOperator): run_clean_reviews> on 2025-05-19 11:20:46.404123+00:00
+[2025-05-19T14:00:26.694+0100] {standard_task_runner.py:60} INFO - Started process 78812 to run task
+[2025-05-19T14:00:26.708+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'process_bank_reviews', 'run_clean_reviews', 'manual__2025-05-19T11:20:46.404123+00:00', '--job-id', '1921', '--raw', '--subdir', 'DAGS_FOLDER/post_processing.py', '--cfg-path', '/tmp/tmpr_fv63i_']
+[2025-05-19T14:00:26.716+0100] {standard_task_runner.py:88} INFO - Job 1921: Subtask run_clean_reviews
+[2025-05-19T14:00:26.846+0100] {task_command.py:423} INFO - Running <TaskInstance: process_bank_reviews.run_clean_reviews manual__2025-05-19T11:20:46.404123+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-19T14:00:27.087+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='process_bank_reviews' AIRFLOW_CTX_TASK_ID='run_clean_reviews' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T11:20:46.404123+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T11:20:46.404123+00:00'
+[2025-05-19T14:00:27.092+0100] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-19T14:00:27.094+0100] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd ~/airflow/dbt_project && dbt run --select clean_bank_reviews']
+[2025-05-19T14:00:27.114+0100] {subprocess.py:86} INFO - Output:
+[2025-05-19T14:01:12.913+0100] {subprocess.py:93} INFO - [0m13:01:12  Running with dbt=1.8.7
+[2025-05-19T14:01:17.073+0100] {subprocess.py:93} INFO - [0m13:01:17  Registered adapter: postgres=1.8.2
+[2025-05-19T14:01:22.699+0100] {subprocess.py:93} INFO - [0m13:01:22  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-05-19T14:01:22.701+0100] {subprocess.py:93} INFO - There are 1 unused configuration paths:
+[2025-05-19T14:01:22.704+0100] {subprocess.py:93} INFO - - models.dbt_project.forPy
+[2025-05-19T14:01:24.516+0100] {subprocess.py:93} INFO - [0m13:01:24  Found 8 models, 1 seed, 4 data tests, 1 source, 540 macros
+[2025-05-19T14:01:24.529+0100] {subprocess.py:93} INFO - [0m13:01:24
+[2025-05-19T14:01:33.904+0100] {subprocess.py:93} INFO - [0m13:01:33  Concurrency: 4 threads (target='dev')
+[2025-05-19T14:01:33.909+0100] {subprocess.py:93} INFO - [0m13:01:33
+[2025-05-19T14:01:33.916+0100] {subprocess.py:93} INFO - [0m13:01:33  1 of 1 START sql view model public.clean_bank_reviews .......................... [RUN]
+[2025-05-19T14:01:34.676+0100] {subprocess.py:93} INFO - [0m13:01:34  1 of 1 ERROR creating sql view model public.clean_bank_reviews ................. [[31mERROR[0m in 0.75s]
+[2025-05-19T14:01:34.727+0100] {subprocess.py:93} INFO - [0m13:01:34
+[2025-05-19T14:01:34.732+0100] {subprocess.py:93} INFO - [0m13:01:34  Finished running 1 view model in 0 hours 0 minutes and 10.20 seconds (10.20s).
+[2025-05-19T14:01:34.975+0100] {subprocess.py:93} INFO - [0m13:01:34
+[2025-05-19T14:01:34.977+0100] {subprocess.py:93} INFO - [0m13:01:34  [31mCompleted with 1 error and 0 warnings:[0m
+[2025-05-19T14:01:34.979+0100] {subprocess.py:93} INFO - [0m13:01:34
+[2025-05-19T14:01:34.983+0100] {subprocess.py:93} INFO - [0m13:01:34    Database Error in model clean_bank_reviews (models/clean_bank_reviews.sql)
+[2025-05-19T14:01:34.985+0100] {subprocess.py:93} INFO -   relation "clean_bank_reviews" already exists
+[2025-05-19T14:01:34.988+0100] {subprocess.py:93} INFO -   compiled code at target/run/dbt_project/models/clean_bank_reviews.sql
+[2025-05-19T14:01:34.990+0100] {subprocess.py:93} INFO - [0m13:01:34
+[2025-05-19T14:01:34.992+0100] {subprocess.py:93} INFO - [0m13:01:34  Done. PASS=0 WARN=0 ERROR=1 SKIP=0 TOTAL=1
+[2025-05-19T14:01:36.162+0100] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-05-19T14:01:36.201+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-05-19T14:01:36.255+0100] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=process_bank_reviews, task_id=run_clean_reviews, execution_date=20250519T112046, start_date=20250519T130026, end_date=20250519T130136
+[2025-05-19T14:01:36.296+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1921 for task run_clean_reviews (Bash command failed. The command returned a non-zero exit code 1.; 78812)
+[2025-05-19T14:01:36.337+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-19T14:01:36.394+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

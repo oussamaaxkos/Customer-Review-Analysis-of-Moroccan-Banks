@@ -1,0 +1,392 @@
+[2025-05-14T00:14:16.123+0100] {processor.py:161} INFO - Started process (PID=9982) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:14:16.126+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:14:16.129+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:16.128+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:14:21.207+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:14:21.418+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:21.415+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:14:21.512+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:21.511+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:14:21.545+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.428 seconds
+[2025-05-14T00:14:54.187+0100] {processor.py:161} INFO - Started process (PID=10210) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:14:54.193+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:14:54.197+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:14:54.195+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:15:00.380+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:15:00.594+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:00.592+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:00.661+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:00.660+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:15:00.708+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.528 seconds
+[2025-05-14T00:15:30.928+0100] {processor.py:161} INFO - Started process (PID=10429) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:15:30.939+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:15:30.944+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:30.942+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:15:38.884+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:15:39.080+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:39.077+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:15:39.161+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:15:39.158+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:15:39.213+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 8.291 seconds
+[2025-05-14T00:16:09.402+0100] {processor.py:161} INFO - Started process (PID=10669) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:09.412+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:16:09.417+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:09.415+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:14.318+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:14.515+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:14.513+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:14.573+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:14.572+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:16:14.603+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.206 seconds
+[2025-05-14T00:16:44.680+0100] {processor.py:161} INFO - Started process (PID=10860) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:44.683+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:16:44.687+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:44.685+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:54.749+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:16:54.931+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:54.929+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:16:54.996+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:16:54.993+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:16:55.043+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 10.369 seconds
+[2025-05-14T00:17:25.635+0100] {processor.py:161} INFO - Started process (PID=11094) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:17:25.645+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:17:25.649+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:25.647+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:17:32.207+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:17:32.378+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:32.375+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:17:32.431+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:17:32.429+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:17:32.465+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.841 seconds
+[2025-05-14T00:18:02.608+0100] {processor.py:161} INFO - Started process (PID=11316) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:02.618+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:18:02.622+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:02.620+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:08.428+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:08.661+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:08.659+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:08.713+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:08.712+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:18:08.751+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.151 seconds
+[2025-05-14T00:18:39.012+0100] {processor.py:161} INFO - Started process (PID=11531) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:39.020+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:18:39.029+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:39.025+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:48.461+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:18:48.676+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:48.674+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:18:48.730+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:18:48.728+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:18:48.762+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 9.758 seconds
+[2025-05-14T00:19:21.998+0100] {processor.py:161} INFO - Started process (PID=11796) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:19:22.001+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:19:22.004+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:22.003+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:19:31.650+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:19:31.846+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:31.844+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:19:31.904+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:19:31.901+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:19:31.942+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 9.950 seconds
+[2025-05-14T00:20:02.093+0100] {processor.py:161} INFO - Started process (PID=12042) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:02.097+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:20:02.100+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:02.098+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:06.249+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:06.410+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:06.408+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:06.452+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:06.451+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:20:06.477+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 4.390 seconds
+[2025-05-14T00:20:41.571+0100] {processor.py:161} INFO - Started process (PID=12275) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:41.576+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:20:41.580+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:41.578+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:47.666+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:20:47.853+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:47.851+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:20:47.903+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:20:47.901+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:20:47.932+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.372 seconds
+[2025-05-14T00:21:22.689+0100] {processor.py:161} INFO - Started process (PID=12523) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:21:22.693+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:21:22.696+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:22.695+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:21:29.260+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:21:29.426+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:29.425+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:21:29.482+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:21:29.480+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:21:29.517+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.837 seconds
+[2025-05-14T00:22:04.107+0100] {processor.py:161} INFO - Started process (PID=12740) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:04.110+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:22:04.113+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:04.112+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:09.472+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:09.628+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:09.626+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:09.675+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:09.674+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:22:09.708+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.608 seconds
+[2025-05-14T00:22:40.375+0100] {processor.py:161} INFO - Started process (PID=12961) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:40.379+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:22:40.383+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:40.381+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:47.423+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:22:47.712+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:47.709+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:22:47.784+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:22:47.783+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:22:47.830+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.461 seconds
+[2025-05-14T00:23:18.163+0100] {processor.py:161} INFO - Started process (PID=13162) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:23:18.173+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:23:18.183+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:18.177+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:23:29.087+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:23:29.364+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:29.362+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:23:29.443+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:23:29.441+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:23:29.501+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 11.355 seconds
+[2025-05-14T00:24:00.099+0100] {processor.py:161} INFO - Started process (PID=13385) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:00.115+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:24:00.122+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:00.119+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:09.285+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:09.487+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:09.484+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:09.544+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:09.543+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:24:09.580+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 9.492 seconds
+[2025-05-14T00:24:40.133+0100] {processor.py:161} INFO - Started process (PID=13613) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:40.144+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:24:40.151+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:40.148+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:51.246+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:24:51.488+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:51.486+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:24:51.550+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:24:51.549+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:24:51.606+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 11.479 seconds
+[2025-05-14T00:25:22.169+0100] {processor.py:161} INFO - Started process (PID=13862) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:25:22.178+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:25:22.181+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:22.179+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:25:29.625+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:25:29.750+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:29.749+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:25:29.810+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:25:29.808+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:25:29.855+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.693 seconds
+[2025-05-14T00:26:02.995+0100] {processor.py:161} INFO - Started process (PID=14100) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:02.998+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:26:03.002+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:03.000+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:09.734+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:09.876+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:09.874+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:09.950+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:09.947+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:26:09.985+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.999 seconds
+[2025-05-14T00:26:48.513+0100] {processor.py:161} INFO - Started process (PID=14350) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:48.516+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:26:48.520+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:48.518+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:54.088+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:26:54.214+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:54.213+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:26:54.257+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:26:54.256+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:26:54.287+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.782 seconds
+[2025-05-14T00:27:30.318+0100] {processor.py:161} INFO - Started process (PID=14583) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:27:30.324+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:27:30.327+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:30.326+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:27:38.521+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:27:38.780+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:38.777+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:27:38.875+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:27:38.862+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:27:38.921+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 8.611 seconds
+[2025-05-14T00:28:18.500+0100] {processor.py:161} INFO - Started process (PID=14832) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:28:18.504+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:28:18.509+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:18.507+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:28:25.192+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:28:25.348+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:25.345+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:28:25.407+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:28:25.405+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:28:25.448+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.957 seconds
+[2025-05-14T00:29:06.104+0100] {processor.py:161} INFO - Started process (PID=15081) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:06.110+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:29:06.114+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:06.112+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:13.017+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:13.142+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:13.140+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:13.193+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:13.191+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:29:13.224+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.132 seconds
+[2025-05-14T00:29:50.405+0100] {processor.py:161} INFO - Started process (PID=15318) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:50.414+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:29:50.421+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:50.419+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:55.380+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:29:55.629+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:55.627+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:29:55.696+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:29:55.695+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:29:55.729+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.330 seconds
+[2025-05-14T00:30:38.514+0100] {processor.py:161} INFO - Started process (PID=15592) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:30:38.518+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:30:38.522+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:38.520+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:30:43.668+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:30:43.800+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:43.798+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:30:43.851+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:30:43.850+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:30:43.879+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.373 seconds
+[2025-05-14T00:31:20.747+0100] {processor.py:161} INFO - Started process (PID=15828) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:31:20.751+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:31:20.755+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:20.753+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:31:25.880+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:31:25.998+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:25.996+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:31:26.072+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:31:26.070+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:31:26.118+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.380 seconds
+[2025-05-14T00:32:07.528+0100] {processor.py:161} INFO - Started process (PID=16068) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:07.532+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:32:07.536+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:07.534+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:12.766+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:12.888+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:12.885+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:12.947+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:12.945+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:32:12.974+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.452 seconds
+[2025-05-14T00:32:53.913+0100] {processor.py:161} INFO - Started process (PID=16305) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:53.917+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:32:53.919+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:53.918+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:59.400+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:32:59.519+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:59.517+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:32:59.568+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:32:59.567+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:32:59.597+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.688 seconds
+[2025-05-14T00:33:36.018+0100] {processor.py:161} INFO - Started process (PID=16537) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:33:36.020+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:33:36.023+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:36.022+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:33:40.362+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:33:40.545+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:40.542+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:33:40.609+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:33:40.607+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:33:40.650+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 4.638 seconds
+[2025-05-14T00:34:19.729+0100] {processor.py:161} INFO - Started process (PID=16770) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:34:19.731+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:34:19.734+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:19.733+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:34:24.257+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:34:24.436+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:24.434+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:34:24.479+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:34:24.478+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:34:24.504+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 4.781 seconds
+[2025-05-14T00:35:06.046+0100] {processor.py:161} INFO - Started process (PID=17015) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:35:06.048+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:35:06.052+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:06.050+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:35:10.932+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:35:11.068+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:11.064+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:35:11.126+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:35:11.124+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:35:11.161+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.122 seconds
+[2025-05-14T00:44:03.810+0100] {processor.py:161} INFO - Started process (PID=18451) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:03.815+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:44:03.821+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:03.818+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:08.319+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:09.182+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:09.180+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:09.225+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:09.223+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:44:09.258+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.459 seconds
+[2025-05-14T00:44:45.147+0100] {processor.py:161} INFO - Started process (PID=18700) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:45.151+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:44:45.155+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:45.153+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:51.026+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:44:51.267+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:51.265+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:44:51.346+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:44:51.344+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:44:51.382+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.241 seconds
+[2025-05-14T00:45:22.087+0100] {processor.py:161} INFO - Started process (PID=18939) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:45:22.099+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:45:22.104+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:22.102+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:45:27.060+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:45:27.223+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:27.221+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:45:27.274+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:45:27.272+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:45:27.306+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.227 seconds
+[2025-05-14T00:46:02.089+0100] {processor.py:161} INFO - Started process (PID=19223) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:02.092+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:46:02.095+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:02.094+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:07.104+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:07.325+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:07.323+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:07.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:07.382+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:46:07.419+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.337 seconds
+[2025-05-14T00:46:40.393+0100] {processor.py:161} INFO - Started process (PID=19466) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:40.397+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:46:40.401+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:40.399+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:45.174+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:46:45.369+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:45.367+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:46:45.421+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:46:45.420+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:46:45.460+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.076 seconds
+[2025-05-14T00:47:15.764+0100] {processor.py:161} INFO - Started process (PID=19695) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:15.777+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:47:15.800+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:15.791+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:22.413+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:22.661+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:22.659+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:22.722+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:22.721+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:47:22.752+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.997 seconds
+[2025-05-14T00:47:53.368+0100] {processor.py:161} INFO - Started process (PID=19924) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:53.371+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:47:53.376+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:53.374+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:58.364+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:47:58.637+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:58.633+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:47:58.719+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:47:58.718+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:47:58.760+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.399 seconds
+[2025-05-14T00:48:29.977+0100] {processor.py:161} INFO - Started process (PID=20189) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:48:29.981+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:48:29.984+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:29.983+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:48:36.646+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:48:36.867+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:36.865+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:48:36.930+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:48:36.929+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:48:36.969+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.000 seconds
+[2025-05-14T00:49:07.551+0100] {processor.py:161} INFO - Started process (PID=20440) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:07.556+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:49:07.563+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:07.560+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:13.119+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:13.411+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:13.408+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:13.489+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:13.487+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:49:13.538+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.997 seconds
+[2025-05-14T00:49:43.694+0100] {processor.py:161} INFO - Started process (PID=20673) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:43.699+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:49:43.703+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:43.701+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:50.653+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:49:50.867+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:50.865+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:49:50.927+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:49:50.926+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:49:50.968+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.279 seconds
+[2025-05-14T00:50:21.531+0100] {processor.py:161} INFO - Started process (PID=20913) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:50:21.535+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:50:21.539+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:21.537+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:50:27.738+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:50:27.972+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:27.969+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:50:28.068+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:28.066+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:50:28.124+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.601 seconds
+[2025-05-14T00:50:59.047+0100] {processor.py:161} INFO - Started process (PID=21176) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:50:59.050+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:50:59.055+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:50:59.053+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:51:05.115+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:51:05.331+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:05.329+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:05.399+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:05.397+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:51:05.443+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.402 seconds
+[2025-05-14T00:51:36.237+0100] {processor.py:161} INFO - Started process (PID=21434) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:51:36.241+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:51:36.247+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:36.244+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:51:40.111+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:51:40.345+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:40.327+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:51:40.478+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:51:40.476+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:51:40.574+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 4.343 seconds
+[2025-05-14T00:52:21.782+0100] {processor.py:161} INFO - Started process (PID=21665) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:52:21.791+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:52:21.797+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:21.795+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:52:27.185+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:52:27.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:27.382+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:52:27.473+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:52:27.470+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:52:27.524+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.751 seconds
+[2025-05-14T00:53:04.329+0100] {processor.py:161} INFO - Started process (PID=21939) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:04.333+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:53:04.338+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:04.336+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:11.055+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:11.384+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:11.381+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:11.499+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:11.496+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:53:11.553+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.234 seconds
+[2025-05-14T00:53:46.512+0100] {processor.py:161} INFO - Started process (PID=22226) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:46.515+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:53:46.518+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:46.517+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:53.160+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:53:53.336+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:53.334+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:53:53.395+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:53:53.393+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:53:53.428+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.922 seconds
+[2025-05-14T00:54:24.113+0100] {processor.py:161} INFO - Started process (PID=22445) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:54:24.123+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:54:24.127+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:24.126+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:54:29.102+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:54:29.286+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:29.284+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:54:29.343+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:29.341+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:54:29.381+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.274 seconds
+[2025-05-14T00:54:59.916+0100] {processor.py:161} INFO - Started process (PID=22668) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:54:59.927+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:54:59.932+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:54:59.930+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:55:05.919+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:55:06.179+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:06.177+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:06.253+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:06.252+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:55:06.316+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 6.411 seconds
+[2025-05-14T00:55:36.391+0100] {processor.py:161} INFO - Started process (PID=22895) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:55:36.397+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:55:36.402+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:36.400+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:55:46.450+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:55:46.936+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:46.925+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:55:47.068+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:55:47.066+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:55:47.139+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 10.758 seconds
+[2025-05-14T00:56:21.430+0100] {processor.py:161} INFO - Started process (PID=23164) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:56:21.444+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:56:21.450+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:21.448+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:56:29.634+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:56:29.980+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:29.977+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:56:30.089+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:56:30.086+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:56:30.156+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 8.734 seconds
+[2025-05-14T00:57:01.093+0100] {processor.py:161} INFO - Started process (PID=23393) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:01.105+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:57:01.112+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:01.109+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:08.312+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:08.620+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:08.617+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:08.694+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:08.692+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:57:08.754+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 7.672 seconds
+[2025-05-14T00:57:39.189+0100] {processor.py:161} INFO - Started process (PID=23629) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:39.200+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:57:39.206+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:39.203+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:48.680+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:57:48.870+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:48.868+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:57:48.946+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:57:48.945+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:57:48.988+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 9.803 seconds
+[2025-05-14T00:58:19.256+0100] {processor.py:161} INFO - Started process (PID=23842) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:58:19.268+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:58:19.275+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:19.272+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:58:28.796+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:58:28.968+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:28.965+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:58:29.027+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:29.026+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:58:29.058+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 9.806 seconds
+[2025-05-14T00:58:59.366+0100] {processor.py:161} INFO - Started process (PID=24084) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:58:59.375+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:58:59.379+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:58:59.377+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:59:04.240+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:59:04.445+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:04.443+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:04.499+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:04.498+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:59:04.537+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 5.176 seconds
+[2025-05-14T00:59:37.987+0100] {processor.py:161} INFO - Started process (PID=24271) to work on /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:59:37.990+0100] {processor.py:830} INFO - Processing file /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py for tasks to queue
+[2025-05-14T00:59:37.992+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:37.991+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:59:42.336+0100] {processor.py:840} INFO - DAG(s) 'dag_load_data_dec_' retrieved from /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py
+[2025-05-14T00:59:42.536+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:42.532+0100] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-05-14T00:59:42.632+0100] {logging_mixin.py:188} INFO - [2025-05-14T00:59:42.630+0100] {dag.py:3823} INFO - Setting next_dagrun for dag_load_data_dec_ to 2025-05-13 22:01:00+00:00, run_after=2025-05-13 23:01:00+00:00
+[2025-05-14T00:59:42.682+0100] {processor.py:183} INFO - Processing /home/osama/airflow/dags/tp4-airflow-ressources/dag_load_data_decesional.py took 4.700 seconds

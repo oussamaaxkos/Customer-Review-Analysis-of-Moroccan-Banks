@@ -1,0 +1,117 @@
+version: 2
+
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: final_reviews
+
+models:
+  - name: clean_bank_reviews
+    description: "Cleans and preprocesses bank agency reviews."
+    columns:
+      - name: rating
+        description: "Review rating"
+      - name: bank_name
+        description: "Cleaned bank name"
+      - name: branche_name
+        description: "Cleaned branch name"
+      - name: address
+        description: "Cleaned address"
+      - name: review
+        description: "Stop-word-filtered review text"
+      - name: review_date
+        description: "Date of the review"
+
+  - name: dim_bank
+    description: "Bank dimension table"
+    columns:
+      - name: bank_id
+        description: "Primary key for bank"
+        tests:
+          - unique
+          - not_null
+      - name: bank_name
+        description: "Unique bank name"
+
+  - name: dim_branch
+    description: "Branch dimension table"
+    columns:
+      - name: branch_id
+        description: "Primary key for branch"
+        tests:
+          - unique
+          - not_null
+      - name: branch_name
+        description: "Branch name"
+      - name: bank_id
+        description: "FK to dim_bank"
+        tests:
+          - relationships:
+              to: ref('dim_bank')
+              field: bank_id
+
+  - name: dim_location
+    description: "Location dimension table"
+    columns:
+      - name: location_id
+        description: "Primary key for location"
+        tests:
+          - unique
+          - not_null
+      - name: address
+        description: "Address of the bank"
+
+  - name: dim_sentiment
+    description: "Sentiment dimension table"
+    columns:
+      - name: sentiment_id
+        description: "Primary key for sentiment"
+        tests:
+          - unique
+          - not_null
+      - name: sentiment_label
+        description: "Sentiment label"
+
+  - name: fact_reviews
+    description: "Fact table containing bank reviews"
+    columns:
+      - name: review_id
+        description: "Primary key for reviews"
+        tests:
+          - unique
+          - not_null
+      - name: bank_id
+        description: "FK to dim_bank"
+        tests:
+          - relationships:
+              to: ref('dim_bank')
+              field: bank_id
+      - name: branch_id
+        description: "FK to dim_branch"
+        tests:
+          - relationships:
+              to: ref('dim_branch')
+              field: branch_id
+      - name: location_id
+        description: "FK to dim_location"
+        tests:
+          - relationships:
+              to: ref('dim_location')
+              field: location_id
+      - name: sentiment_id
+        description: "FK to dim_sentiment"
+        tests:
+          - relationships:
+              to: ref('dim_sentiment')
+              field: sentiment_id
+      - name: review_date
+        description: "Date of the review"
+      - name: review_text
+        description: "Text of the review"
+      - name: topic_meaning
+        description: "Topic interpretation"
+      - name: topic_words
+        description: "Topic keywords"
+      - name: rating
+        description: "Review rating"

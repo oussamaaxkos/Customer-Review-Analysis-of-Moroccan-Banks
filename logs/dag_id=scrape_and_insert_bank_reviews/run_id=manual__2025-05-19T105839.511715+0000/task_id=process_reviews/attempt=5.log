@@ -1,0 +1,33 @@
+[2025-05-19T18:53:27.401+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.process_reviews manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T18:53:27.442+0100] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: scrape_and_insert_bank_reviews.process_reviews manual__2025-05-19T10:58:39.511715+00:00 [queued]>
+[2025-05-19T18:53:27.451+0100] {taskinstance.py:2170} INFO - Starting attempt 5 of 5
+[2025-05-19T18:53:27.504+0100] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): process_reviews> on 2025-05-19 10:58:39.511715+00:00
+[2025-05-19T18:53:27.525+0100] {standard_task_runner.py:60} INFO - Started process 43176 to run task
+[2025-05-19T18:53:27.534+0100] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'scrape_and_insert_bank_reviews', 'process_reviews', 'manual__2025-05-19T10:58:39.511715+00:00', '--job-id', '1947', '--raw', '--subdir', 'DAGS_FOLDER/S_G_M_R.py', '--cfg-path', '/tmp/tmpw04mk2l9']
+[2025-05-19T18:53:27.538+0100] {standard_task_runner.py:88} INFO - Job 1947: Subtask process_reviews
+[2025-05-19T18:53:27.706+0100] {task_command.py:423} INFO - Running <TaskInstance: scrape_and_insert_bank_reviews.process_reviews manual__2025-05-19T10:58:39.511715+00:00 [running]> on host DESKTOP-RRUTCI2.
+[2025-05-19T18:53:28.614+0100] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='scrape_and_insert_bank_reviews' AIRFLOW_CTX_TASK_ID='process_reviews' AIRFLOW_CTX_EXECUTION_DATE='2025-05-19T10:58:39.511715+00:00' AIRFLOW_CTX_TRY_NUMBER='5' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-19T10:58:39.511715+00:00'
+[2025-05-19T18:55:45.212+0100] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/osama/airflow/dags/S_G_M_R.py", line 483, in process_reviews
+    df["sentiment"] = df["review"].apply(lambda x: get_sentiment(x, sentiment_pipeline))
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/pandas/core/series.py", line 4630, in apply
+    return SeriesApply(self, func, convert_dtype, args, kwargs).apply()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/pandas/core/apply.py", line 1025, in apply
+    return self.apply_standard()
+  File "/mnt/c/Users/HP/venv/lib/python3.8/site-packages/pandas/core/apply.py", line 1076, in apply_standard
+    mapped = lib.map_infer(
+  File "pandas/_libs/lib.pyx", line 2834, in pandas._libs.lib.map_infer
+  File "/home/osama/airflow/dags/S_G_M_R.py", line 483, in <lambda>
+    df["sentiment"] = df["review"].apply(lambda x: get_sentiment(x, sentiment_pipeline))
+TypeError: get_sentiment() takes 1 positional argument but 2 were given
+[2025-05-19T18:55:45.375+0100] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=scrape_and_insert_bank_reviews, task_id=process_reviews, execution_date=20250519T105839, start_date=20250519T175327, end_date=20250519T175545
+[2025-05-19T18:55:45.398+0100] {standard_task_runner.py:107} ERROR - Failed to execute job 1947 for task process_reviews (get_sentiment() takes 1 positional argument but 2 were given; 43176)
+[2025-05-19T18:55:45.511+0100] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-05-19T18:55:45.566+0100] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

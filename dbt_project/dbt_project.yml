@@ -1,0 +1,93 @@
+
+# # Name your project! Project names should contain only lowercase characters
+# # and underscores. A good package name should reflect your organization's
+# # name or the intended use of these models
+# name: 'dbt_project'
+# version: '1.0.0'
+
+# # This setting configures which "profile" dbt uses for this project.
+# profile: 'dbt_project'
+
+# # These configurations specify where dbt should look for different types of files.
+# # The `model-paths` config, for example, states that models in this project can be
+# # found in the "models/" directory. You probably won't need to change these!
+# model-paths: ["models"]
+# analysis-paths: ["analyses"]
+# test-paths: ["tests"]
+# seed-paths: ["seeds"]
+# macro-paths: ["macros"]
+# snapshot-paths: ["snapshots"]
+
+# clean-targets:         # directories to be removed by `dbt clean`
+#   - "target"
+#   - "dbt_packages"
+
+
+# # Configuring models
+# # Full documentation: https://docs.getdbt.com/docs/configuring-models
+
+# # In this example config, we tell dbt to build all models in the example/
+# # directory as views. These settings can be overridden in the individual model
+# models:
+#   dbt_project:
+#     example:
+#       +materialized: view
+#     forPy:
+#       +materialized: python  # '+' is required for model config
+
+
+# Name your project! Project names should contain only lowercase characters
+# and underscores. A good package name should reflect your organization's
+# name or the intended use of these models
+# Name your project! Project names should contain only lowercase characters
+# and underscores. A good package name should reflect your organization's
+# name or the intended use of these models
+name: 'dbt_project'
+version: '1.0.0'
+
+# This setting configures which "profile" dbt uses for this project.
+profile: 'dbt_project'
+
+# Paths for dbt configurations and models
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+# Directories to remove with `dbt clean`
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# Model configurations
+models:
+  dbt_project:
+    # Default configuration for all models
+    +materialized: view  # Default materialization
+
+    example:
+      +materialized: view
+
+    forPy:
+      +materialized: python  # For Python models
+
+    # Star Schema models in 'decision_schema'
+    decision_schema:
+      +schema: decision_schema  # Apply correct schema for all models under 'decision_schema'
+
+      dim_bank:
+        +materialized: table
+
+      dim_branch:
+        +materialized: table
+
+      dim_location:
+        +materialized: table
+
+      dim_sentiment:
+        +materialized: table
+
+      fact_reviews:
+        +materialized: table

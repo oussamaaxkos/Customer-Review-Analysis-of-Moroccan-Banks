@@ -18,7 +18,7 @@
 """Default configuration for the Airflow webserver."""
 from __future__ import annotations
 
-import 
+import os
 
 from flask_appbuilder.const import AUTH_DB
 

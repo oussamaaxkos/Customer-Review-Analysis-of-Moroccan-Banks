@@ -47,7 +47,7 @@ WTF_CSRF_TIME_LIMIT = None
 # AUTH_LDAP : Is for LDAP
 # AUTH_REMOTE_USER : Is for using REMOTE_USER from web server
 # AUTH_OAUTH : Is for OAuth
-AUTH_TYPE = 
+AUTH_TYPE = AUTH_DB
 
 # Uncomment to setup Full admin role name
 # AUTH_ROLE_ADMIN = 'Admin'

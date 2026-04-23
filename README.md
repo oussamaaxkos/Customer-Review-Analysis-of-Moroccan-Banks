@@ -1,12 +1,12 @@
 # Analyzing Customer Reviews of Bank Agencies in Morocco using a Modern Data Stack
 
-## 📊 Project Overview
+## Project Overview
 
 This project leverages Google Maps reviews to analyze customer feedback across Moroccan bank agencies using a modern data pipeline. Unstructured textual reviews are transformed into actionable insights through NLP techniques, including sentiment analysis and topic modeling. The project was developed as part of the Master’s program in Information Systems and Intelligent Systems.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Automate collection of customer reviews from Google Maps.
 - Apply sentiment analysis to assess customer satisfaction.
@@ -16,7 +16,7 @@ This project leverages Google Maps reviews to analyze customer feedback across M
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 | Stage                 | Technology Used                          |
 |----------------------|-------------------------------------------|
@@ -32,7 +32,7 @@ This project leverages Google Maps reviews to analyze customer feedback across M
 ![data visualization](reports/im2.png)
 
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```plaintext
 ├── dags/                     # Airflow DAGs for scheduling ETL the main dag is S_G_M_R.py
